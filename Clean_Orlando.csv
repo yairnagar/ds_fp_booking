@@ -1,0 +1,242 @@
+Name,City,Price,Rating,Stars,Reviews,Location,Cleanliness,staff,Comfort,Value for Money,Facilities,Wifi,Closest attraction dist,Closest transportation,Closest airport,payment methods,Number of languages,Allowing pets
+"Holiday Inn Orlando Intl Drive Conv Center, an IHG ",Orlando,399.0,10.0,3,3.0,10.0,10.0,10.0,10.0,10.0,10.0,8.074122807017542,11.0,10.0,17.0,7,5,False
+"Holiday Inn Express & Suites Orlando- Lake Buena Vista, an IHG ",Orlando,374.0,8.8,3,1609.0,9.3,9.2,8.9,9.3,8.9,9.1,9.0,11.0,10.0,19.0,5,2,False
+"Wyndham Orlando Resort & Conference Center, Celebration Area",Orlando,188.0,7.7,3,2163.0,8.6,8.2,8.3,8.1,7.9,8.0,7.5,14.0,13.0,29.0,5,4,True
+Rosen Inn Closest to Universal,Orlando,275.0,8.0,3,6143.0,9.1,8.2,8.2,8.2,8.4,8.0,7.2,9.0,10.0,17.0,6,2,True
+"Candlewood Suites - Orlando - Lake Buena Vista, an IHG ",Orlando,461.0,9.0,3,2416.0,9.4,9.2,9.2,9.3,9.1,9.2,9.0,11.0,11.0,20.0,6,4,True
+SpringHill Suites by Marriott Orlando at FLAMINGO CROSSINGS Town Center-Western Entrance,Orlando,477.0,8.8,3,1553.0,9.3,8.9,9.0,9.0,8.9,9.0,8.9,0.016,0.019,31.0,7,2,False
+TownePlace Suites Orlando at FLAMINGO CROSSINGS® Town Center/Western Entrance,Orlando,512.0,8.8,3,1048.0,9.3,8.9,9.1,8.9,8.9,9.0,8.7,0.016,0.019,31.0,7,7,True
+Rosen Inn Lake Buena Vista,Orlando,276.0,7.7,3,3965.0,9.0,7.9,8.4,7.9,8.3,7.8,7.1,10.0,10.0,19.0,6,2,True
+Embassy Suites by Hilton Orlando International Drive Convention Center,Orlando,619.0,8.4,3,2023.0,9.4,8.6,9.0,8.6,8.5,8.6,8.074122807017542,12.0,11.0,17.0,7,3,False
+Homewood Suites by Hilton Lake Buena Vista - Orlando,Orlando,684.0,8.5,3,337.0,9.2,8.8,8.9,8.8,8.6,8.7,8.3,11.0,10.0,19.0,7,2,False
+Hyatt Place Orlando Airport,Orlando,567.0,8.2,3,388.0,8.9,8.6,8.8,8.6,8.2,8.3,8.2,11.0,5.0,5.0,7,2,True
+"Country Inn & Suites by Radisson, Orlando Airport, FL",Orlando,417.0,7.6,3,3202.0,8.8,7.9,8.3,8.0,7.9,7.6,7.9,11.0,5.0,4.9,7,2,False
+Galleria Palms Orlando,Orlando,336.0,8.3,3,2086.0,9.0,8.5,9.1,8.5,8.6,8.3,8.6,14.0,13.0,29.0,8,3,False
+La Quinta by Wyndham Orlando Universal area,Orlando,340.0,7.7,3,4995.0,8.9,7.9,8.5,7.9,8.1,7.7,8.3,7.0,9.0,14.0,4,4,True
+ Monreale Express International Drive Orlando,Orlando,292.0,7.6,3,3742.0,9.0,7.5,8.5,7.6,8.1,7.6,8.6,9.0,10.0,16.0,4,3,False
+Monumental  Orlando,Orlando,306.0,6.7,3,446.0,8.3,7.2,8.0,7.4,7.5,6.7,8.074122807017542,10.0,8.0,17.0,5,3,False
+The EO Inn - Downtown Orlando,Orlando,581.0,7.6,3,326.0,9.2,7.9,8.6,7.9,7.8,7.6,6.5,2.8,1.2,3.8,3,1,False
+Marriott Orlando Downtown,Orlando,821.0,7.9,3,1117.0,8.6,8.6,8.5,8.5,7.8,8.4,8.074122807017542,1.8,0.4,5.0,6,2,False
+"Hilton Garden Inn Winter Park, FL",Orlando,684.0,8.7,3,172.0,9.1,9.2,9.1,9.3,8.1,9.1,10.0,2.1,1.8,8.0,6,1,False
+"Holiday Inn Express & Suites Orlando International Airport, an IHG ",Orlando,492.0,8.5,2,596.0,8.8,8.8,9.0,8.9,8.5,8.6,8.6,9.0,3.3,4.8,3,2,False
+Ramada by Wyndham Suites Orlando Airport,Orlando,476.0,7.9,3,3897.0,8.8,8.3,8.3,8.4,8.2,8.0,8.4,9.0,6.0,4.4,4,2,False
+The Florida  & Conference Center in the Florida Mall,Orlando,614.0,8.6,4,1820.0,9.2,8.9,8.8,8.9,8.4,8.8,8.074122807017542,9.0,3.0,9.0,7,7,True
+"Holiday Inn Express & Suites - Orlando - Lake Nona Area, an IHG ",Orlando,496.0,8.8,3,632.0,9.2,9.1,9.1,9.2,8.5,9.0,8.7,0.017,13.0,7.0,7,1,False
+Wyndham Garden Lake Buena Vista Disney Springs® Resort Area,Orlando,404.0,7.7,4,3095.0,9.3,8.2,8.4,8.3,7.8,7.9,8.2,10.0,11.0,21.0,5,3,False
+"Holiday Inn Express-International Drive, an IHG ",Orlando,454.0,8.3,3,1995.0,9.0,8.7,8.7,8.7,8.5,8.4,8.3,10.0,10.0,17.0,4,6,False
+Hyatt Place across from Universal Orlando Resort,Orlando,581.0,7.9,3,880.0,9.1,8.2,8.8,8.3,8.0,7.9,8.2,8.0,9.0,15.0,7,2,True
+"Home2 Suites by Hilton Orlando Downtown, FL",Orlando,406.0,8.6,3,421.0,9.0,9.1,8.7,9.2,8.4,8.8,8.3,2.7,0.4,4.5,8,1,True
+SpringHill Suites by Marriott Winter Park,Orlando,855.0,8.9,3,75.0,9.2,9.5,9.4,9.4,8.6,9.4,7.5,2.0,1.9,8.0,5,1,False
+Wingate By Wyndham - Orlando International Airport,Orlando,532.0,8.4,3,1755.0,9.1,8.8,8.8,8.8,8.6,8.5,8.8,9.0,6.0,5.0,5,2,False
+Marriott Orlando Airport Lakeside,Orlando,752.0,8.4,4,705.0,9.1,8.9,8.8,8.9,8.0,8.6,8.074122807017542,10.0,6.0,4.4,7,2,False
+TownePlace Suites by Marriott Orlando Theme Parks/Lake Buena Vista,Orlando,581.0,8.7,3,364.0,9.3,9.0,8.8,9.0,8.8,9.0,8.4,11.0,10.0,19.0,5,2,True
+DoubleTree by Hilton at the Entrance to Universal Orlando,Orlando,532.0,8.1,4,5473.0,9.2,8.4,8.7,8.5,8.2,8.4,8.5,8.0,9.0,15.0,7,2,True
+"Staybridge Suites Orlando South, an IHG ",Orlando,683.0,8.7,3,772.0,9.2,8.9,9.0,9.0,8.8,8.8,8.4,9.0,6.0,4.5,3,2,True
+"Homewood Suites By Hilton Orlando Flamingo Crossings, Fl",Orlando,464.0,9.2,3,1385.0,9.2,9.3,9.2,9.4,9.1,9.4,9.3,0.016,0.019,31.0,8,2,True
+ette luxury hotel & spa,Orlando,1295.0,9.5,5,114.0,9.0,9.8,9.8,9.8,9.4,9.7,9.6,14.0,14.0,29.0,4,2,False
+La Quinta Inn by Wyndham Orlando International Drive North,Orlando,399.0,7.4,3,6441.0,9.0,7.6,8.4,7.6,7.9,7.4,7.9,9.0,9.0,16.0,5,3,True
+Hyatt Place Orlando/Lake Buena Vista,Orlando,1020.0,8.2,3,1135.0,9.2,8.5,8.7,8.6,8.3,8.2,8.4,10.0,11.0,20.0,6,3,True
+Wingate by Wyndham - Universal Studios and Convention Center,Orlando,464.0,8.4,3,776.0,9.2,8.7,9.0,8.8,8.5,8.5,8.8,7.0,9.0,14.0,4,2,False
+"Staybridge Suites - Orlando Royale Parc Suites, an IHG ",Orlando,429.0,8.0,3,3460.0,8.9,8.0,8.7,8.1,8.2,7.9,8.5,8.0,9.0,23.0,7,3,True
+"Holiday Inn Express & Suites - Nearest Universal Orlando, an IHG ",Orlando,388.0,7.8,3,553.0,9.0,8.1,8.5,8.2,8.0,7.9,9.1,7.0,9.0,14.0,3,3,True
+Hilton Garden Inn Orlando Downtown,Orlando,424.0,8.0,3,328.0,8.6,8.9,8.4,8.9,7.8,8.5,8.3,2.7,0.4,4.5,8,1,False
+The Point  & Suites Universal,Orlando,512.0,8.3,3,3167.0,9.1,8.5,8.6,8.5,8.5,8.5,8.6,9.0,9.0,16.0,3,1,False
+La Quinta by Wyndham Orlando Airport North,Orlando,356.0,7.7,3,1474.0,8.8,8.0,8.5,8.2,7.9,7.9,8.3,11.0,5.0,4.8,9,2,True
+Sheraton Suites Orlando Airport ,Orlando,821.0,7.9,3,667.0,8.8,8.4,8.5,8.4,7.9,8.2,8.074122807017542,9.0,6.0,4.4,6,2,True
+"Holiday Inn Express  & Suites Orlando East-UCF Area, an IHG Hotel",Orlando,467.0,8.5,2,386.0,8.8,8.9,8.8,8.8,8.4,8.7,9.0,11.0,0.015,13.0,5,2,False
+Sonesta ES Suites Orlando International Drive,Orlando,684.0,8.4,3,1020.0,9.5,8.5,9.1,8.5,8.3,8.4,7.9,11.0,10.0,17.0,9,2,True
+"Holiday Inn Orlando SW – Celebration Area, an IHG ",Orlando,399.0,7.7,3,1017.0,8.8,8.0,8.5,8.2,7.9,7.9,8.0,8.0,9.0,22.0,6,2,False
+Aloft Orlando Downtown,Orlando,615.0,8.3,3,256.0,8.8,8.8,9.0,8.8,8.0,8.6,8.1,1.7,0.45,4.9,7,2,True
+Sonesta ES Suites Orlando - Lake Buena Vista,Orlando,543.0,8.4,3,3850.0,9.2,8.6,8.7,8.7,8.6,8.4,8.6,11.0,11.0,20.0,9,2,True
+"Home2 Suites By Hilton Orlando Flamingo Crossings, FL",Orlando,450.0,9.1,3,1997.0,9.3,9.4,9.2,9.4,9.2,9.4,8.7,0.016,0.019,31.0,6,1,True
+"Crowne Plaza Orlando - Lake Buena Vista, an IHG ",Orlando,430.0,7.5,3,2901.0,8.8,8.1,8.2,8.1,7.8,7.7,8.2,11.0,11.0,20.0,4,2,True
+Embassy Suites by Hilton Orlando Downtown,Orlando,610.0,8.6,3,270.0,9.3,8.9,8.9,9.0,8.3,8.9,9.6,3.3,0.6,4.4,6,3,True
+Hyatt Place Orlando / I-Drive / Convention Center,Orlando,687.0,7.9,3,830.0,9.0,8.3,8.5,8.4,8.1,8.1,8.3,12.0,10.0,16.0,9,2,True
+"Hawthorn Suites by Wyndham Lake Buena Vista, a staySky  & Resort",Orlando,406.0,7.9,3,608.0,9.0,8.1,8.6,8.1,8.3,7.9,8.8,11.0,10.0,19.0,4,2,False
+"Staybridge Suites Orlando at SeaWorld, an IHG ",Orlando,649.0,8.6,3,617.0,9.4,8.8,8.9,8.9,8.7,8.7,8.7,12.0,9.0,16.0,6,1,False
+Drury Plaza  Orlando - Disney Springs Area,Orlando,464.0,9.6,4,51.0,9.6,9.9,9.9,9.8,9.6,9.8,8.074122807017542,10.0,11.0,20.0,9,2,True
+Fairfield Inn & Suites by Marriott Orlando Lake Buena Vista in the Marriott Village,Orlando,368.0,7.8,3,1966.0,8.9,8.2,8.2,8.2,8.0,8.0,8.4,10.0,10.0,20.0,7,3,False
+"Holiday Inn Orlando International Airport, an IHG ",Orlando,640.0,7.4,3,408.0,8.7,7.9,8.1,8.0,7.2,7.6,8.3,9.0,6.0,4.8,5,3,True
+Quality Inn & Suites By the Parks,Orlando,282.0,8.3,3,1220.0,9.1,8.5,9.3,8.5,8.6,8.2,8.1,14.0,14.0,30.0,6,4,False
+Wyndham Garden Orlando Universal / I Drive,Orlando,368.0,9.0,3,1157.0,9.5,9.3,9.2,9.3,9.1,9.2,9.0,9.0,9.0,16.0,6,1,True
+Fairfield by Marriott Inn & Suites Orlando at FLAMINGO CROSSINGS® Town Center,Orlando,491.0,9.1,3,915.0,9.3,9.5,9.4,9.4,9.1,9.3,9.1,0.016,0.019,31.0,4,2,False
+Courtyard by Marriott Orlando Downtown,Orlando,560.0,8.8,3,328.0,8.8,9.3,9.1,9.3,8.5,9.1,9.0,2.1,0.7,4.7,7,2,False
+Park Plaza  Orlando - Winter Park,Orlando,610.0,8.0,3,294.0,9.8,8.5,9.4,8.6,7.9,7.9,8.3,1.5,0.15,6.0,6,3,True
+"Holiday Inn Express  & Suites Orlando - Apopka, an IHG Hotel",Orlando,456.0,8.7,3,387.0,8.9,9.1,8.9,9.0,8.5,8.9,8.8,9.0,12.0,21.0,4,2,False
+Rosen Inn International Near The Parks,Orlando,292.0,7.9,3,3916.0,9.0,8.1,8.4,8.1,8.3,7.9,6.8,10.0,10.0,17.0,6,2,True
+"Holiday Inn Express Orlando-Ocoee East, an IHG ",Orlando,503.0,7.7,3,422.0,8.3,8.1,8.3,8.2,7.6,7.9,8.6,10.0,10.0,15.0,7,1,False
+Hampton Inn & Suites Orlando/Downtown South - Medical Center,Orlando,523.0,9.0,3,378.0,8.9,9.3,9.4,9.4,8.8,9.2,8.7,4.8,0.4,5.0,8,2,True
+Comfort Suites Orlando Airport,Orlando,395.0,8.2,3,681.0,8.5,8.5,8.3,8.6,8.2,8.2,8.9,10.0,1.3,6.0,4,3,False
+Hilton Garden Inn Orlando Lake Buena Vista,Orlando,515.0,8.5,3,456.0,9.2,8.9,9.0,9.0,8.7,8.7,7.5,11.0,10.0,19.0,6,2,True
+"Holiday Inn Orlando East-UCF Area, an IHG ",Orlando,512.0,8.4,3,650.0,8.8,8.8,8.8,8.8,8.3,8.6,8.2,11.0,0.015,12.0,7,2,False
+"Holiday Inn Resort Orlando - Lake Buena Vista, an IHG ",Orlando,486.0,8.2,3,2230.0,9.0,8.5,8.8,8.6,8.4,8.3,8.3,9.0,10.0,20.0,6,2,True
+La Quinta by Wyndham Orlando UCF,Orlando,323.0,8.1,3,1034.0,8.8,8.5,8.9,8.5,8.2,8.3,8.7,12.0,14.0,13.0,9,2,True
+Home2 Suites By Hilton Orlando Near Universal,Orlando,518.0,9.1,3,1485.0,9.5,9.3,9.4,9.3,9.2,9.3,9.0,9.0,10.0,16.0,5,1,True
+Homewood Suites by Hilton Orlando Theme Parks,Orlando,552.0,8.6,3,418.0,9.3,8.9,8.8,8.9,8.8,8.9,8.2,12.0,9.0,17.0,6,2,False
+Aloft Orlando Lake Buena Vista,Orlando,398.0,9.0,3,170.0,9.4,9.3,9.3,9.3,9.0,9.2,8.8,11.0,10.0,19.0,5,2,True
+JW Marriott Orlando Bonnet Creek Resort & Spa,Orlando,2264.0,9.1,4,211.0,9.4,9.4,9.5,9.6,8.6,9.5,8.074122807017542,10.0,12.0,23.0,6,1,True
+TownePlace Suites By Marriott Orlando Southwest Near Universal,Orlando,481.0,9.0,3,511.0,9.4,9.3,9.1,9.3,8.9,9.3,8.7,8.0,9.0,15.0,5,3,True
+Residence Inn by Marriott Near Universal Orlando,Orlando,556.0,8.8,3,365.0,9.4,9.0,9.0,9.0,8.7,9.0,8.5,7.0,9.0,14.0,7,2,True
+Hyatt House across from Universal Orlando Resort,Orlando,718.0,8.8,3,1393.0,9.4,9.0,9.1,9.0,8.7,9.0,8.5,8.0,9.0,15.0,9,2,False
+Tru By Hilton Orlando Convention Center,Orlando,626.0,9.0,3,2783.0,9.3,9.3,9.2,9.3,9.0,9.2,8.6,12.0,10.0,16.0,10,2,True
+Rosen Inn at Pointe Orlando,Orlando,496.0,7.9,3,6041.0,9.1,8.2,8.4,8.2,8.3,8.0,7.5,11.0,11.0,17.0,6,1,True
+"Holiday Inn & Suites Orlando International Drive South, an IHG ",Orlando,476.0,8.6,3,1650.0,9.3,8.9,8.8,8.9,8.7,8.9,8.8,10.0,9.0,18.0,7,2,False
+Sheraton Orlando Lake Buena Vista Resort,Orlando,318.0,7.3,4,2589.0,8.7,7.7,8.1,7.8,7.4,7.6,7.8,11.0,11.0,20.0,6,3,False
+DoubleTree by Hilton Orlando Airport ,Orlando,636.0,8.1,3,466.0,8.9,8.6,8.7,8.6,7.9,8.3,8.0,9.0,6.0,5.0,8,2,False
+Best Western Orlando Gateway ,Orlando,275.0,7.5,4,6758.0,8.9,7.7,8.5,7.8,7.9,7.7,8.4,9.0,10.0,16.0,8,4,False
+Celebration ,Orlando,756.0,8.5,4,140.0,9.5,8.9,8.8,8.9,8.0,8.5,8.4,9.0,9.0,26.0,6,4,True
+Hilton Garden Inn Orlando International Drive North,Orlando,485.0,8.8,3,1041.0,9.3,9.0,9.2,9.0,8.9,8.9,10.0,9.0,9.0,16.0,7,2,True
+"Holiday Inn Express Orlando - South Park, an IHG ",Orlando,666.0,8.8,2,168.0,9.0,9.1,9.2,9.0,8.6,8.9,8.0,10.0,6.0,12.0,7,4,False
+DoubleTree by Hilton Orlando East - UCF Area,Orlando,426.0,7.9,3,585.0,8.8,8.4,8.7,8.4,7.9,8.1,7.7,10.0,14.0,13.0,8,1,False
+Homewood Suites by Hilton Orlando-Nearest to Universal Studios,Orlando,495.0,8.5,3,1521.0,9.3,8.6,8.9,8.7,8.6,8.5,8.1,9.0,9.0,16.0,8,4,True
+Rosen Centre  Orlando Convention Center,Orlando,712.0,8.7,3,982.0,9.3,9.1,8.9,9.1,8.6,9.0,7.6,11.0,10.0,16.0,6,2,True
+Comfort Suites Maingate East,Orlando,397.0,8.6,3,1220.0,9.2,8.5,8.9,8.6,8.6,8.6,8.7,8.0,8.0,23.0,4,2,False
+SpringHill Suites by Marriott Orlando Lake Buena Vista in Marriott Village,Orlando,398.0,7.8,3,3201.0,9.0,8.1,8.4,8.2,8.0,8.0,8.074122807017542,10.0,10.0,20.0,8,3,False
+Courtyard by Marriott Orlando Lake Buena Vista in the Marriott Village,Orlando,398.0,7.9,3,1421.0,9.0,8.2,8.3,8.3,8.0,8.1,8.1,10.0,10.0,20.0,7,7,False
+Hampton Inn & Suites Orlando-East UCF,Orlando,415.0,9.0,3,1443.0,8.9,9.2,9.2,9.2,8.9,9.1,9.0,10.0,13.0,13.0,4,1,True
+Hampton Inn Closest to Universal Orlando,Orlando,534.0,8.5,3,594.0,9.1,8.7,9.1,8.7,8.6,8.5,10.0,7.0,9.0,14.0,6,1,True
+DoubleTree by Hilton Orlando Downtown,Orlando,509.0,7.7,4,567.0,8.3,8.2,8.4,8.3,7.6,7.9,7.7,1.8,1.3,5.0,5,2,False
+Drury Inn & Suites Orlando near Universal Orlando Resort,Orlando,464.0,9.1,3,1323.0,9.4,9.3,9.4,9.3,9.2,9.2,9.1,11.0,11.0,17.0,7,4,True
+Quality Inn & Suites By The Lake,Orlando,296.0,7.9,3,2576.0,8.8,8.1,8.6,8.1,8.3,7.8,7.6,0.015,0.015,30.0,4,2,False
+Hampton Inn & Suites Orlando near SeaWorld,Orlando,613.0,8.5,3,1092.0,9.3,8.8,8.9,8.8,8.7,8.7,7.2,12.0,9.0,16.0,5,2,False
+Lake Nona Wave ,Orlando,1061.0,9.0,4,158.0,9.0,9.5,9.0,9.5,8.5,9.4,8.8,0.017,10.0,6.0,5,1,True
+Hampton Inn Orlando-Convention Center International Drive Area,Orlando,603.0,8.4,3,1730.0,9.2,8.7,8.9,8.8,8.6,8.6,8.4,12.0,10.0,16.0,9,2,True
+Hampton Inn Orlando-International Airport,Orlando,559.0,8.1,3,752.0,9.0,8.5,8.7,8.5,8.0,8.1,8.5,9.0,6.0,4.9,6,2,True
+"Crowne Plaza  Orlando Downtown, an IHG Hotel",Orlando,523.0,7.5,4,673.0,7.7,8.2,8.2,8.3,7.4,7.8,8.5,2.6,0.45,5.0,4,2,False
+Embassy Suites Orlando - Airport,Orlando,608.0,8.3,4,350.0,9.1,8.6,8.9,8.7,8.1,8.4,8.074122807017542,9.0,6.0,4.9,7,5,False
+La Quinta Inn by Wyndham Orlando Airport West,Orlando,245.0,5.6,3,2152.0,7.3,6.2,7.5,6.3,6.3,5.8,7.6,9.0,2.9,5.0,9,2,True
+The Alfond Inn,Orlando,924.0,8.9,4,170.0,9.7,9.3,9.3,9.4,8.2,9.1,9.2,1.7,0.35,6.0,5,2,True
+staySky Suites I-Drive Orlando Near Universal,Orlando,343.0,7.8,3,610.0,9.0,7.7,8.6,7.9,8.1,7.7,8.7,10.0,10.0,16.0,4,3,False
+Courtyard by Marriott Orlando Lake Nona,Orlando,615.0,9.3,3,129.0,9.5,9.6,9.4,9.5,9.0,9.3,9.2,0.017,10.0,6.0,7,1,False
+Comfort Inn at the parks,Orlando,328.0,6.8,3,941.0,8.6,7.0,8.1,7.1,7.3,6.8,7.4,0.015,14.0,30.0,7,2,False
+SPOT X by Red Collection Orlando International Dr,Orlando,337.0,8.7,3,788.0,9.3,9.0,9.0,9.0,8.9,8.8,9.0,10.0,9.0,18.0,4,4,False
+Quality Inn At International Drive Orlando,Orlando,247.0,6.9,2,8832.0,8.9,7.2,7.5,7.4,7.5,6.9,7.4,11.0,10.0,17.0,7,3,False
+Home2 Suites by Hilton Orlando International Drive South,Orlando,530.0,8.3,3,808.0,9.2,8.4,8.6,8.5,8.4,8.4,6.6,10.0,9.0,18.0,7,2,True
+Comfort Suites Near Universal Orlando Resort,Orlando,435.0,8.4,3,1197.0,9.2,8.6,9.0,8.7,8.7,8.4,8.4,7.0,9.0,14.0,5,2,True
+Home2 Suites By Hilton Orlando Airport,Orlando,744.0,8.6,3,200.0,9.0,8.9,8.7,8.8,8.5,8.8,8.0,9.0,5.0,5.0,7,2,True
+Hampton Inn & Suites Orlando Airport at Gateway Village,Orlando,751.0,8.9,3,1449.0,9.4,9.2,9.2,9.2,8.8,9.1,8.6,12.0,6.0,4.5,7,2,True
+Clarion Inn & Suites Across From Universal Orlando Resort,Orlando,321.0,7.6,3,3758.0,8.8,7.9,8.4,8.0,8.1,7.8,8.2,8.0,9.0,14.0,8,4,True
+Four Points by Sheraton Orlando Convention Center,Orlando,615.0,8.1,3,201.0,8.8,8.4,8.8,8.5,8.4,8.4,9.2,11.0,9.0,16.0,6,2,False
+Homewood Suites by Hilton Orlando-Intl Drive/Convention Ctr,Orlando,543.0,8.2,3,3382.0,9.2,8.3,8.7,8.4,8.4,8.3,8.3,12.0,10.0,16.0,9,2,True
+SureStay Plus by Best Western Orlando International Drive,Orlando,347.0,6.9,3,3310.0,8.7,7.2,7.8,7.2,7.5,7.1,6.5,9.0,9.0,16.0,4,2,True
+TRYP by Wyndham Orlando,Orlando,581.0,8.7,4,1226.0,9.2,9.1,9.0,9.1,8.9,9.0,8.9,10.0,8.0,15.0,6,2,False
+Home2 Suites By Hilton Orlando Near UCF,Orlando,493.0,9.2,3,402.0,9.2,9.3,9.5,9.4,9.0,9.3,9.3,12.0,13.0,12.0,6,1,True
+Rosen Plaza  Orlando Convention Center,Orlando,692.0,8.6,4,689.0,9.2,8.9,8.8,8.9,8.5,8.8,7.9,11.0,11.0,16.0,6,2,True
+AC  by Marriott Orlando Lake Buena Vista,Orlando,611.0,8.5,3,32.0,8.9,8.7,8.4,8.8,8.3,8.8,8.074122807017542,10.0,10.0,20.0,5,3,False
+Courtyard by Marriott Orlando Lake Buena Vista at Vista Centre,Orlando,405.0,8.0,3,492.0,9.0,8.4,8.6,8.4,8.0,8.2,7.9,11.0,10.0,20.0,7,2,False
+Homewood Suites by Hilton Orlando-UCF Area,Orlando,494.0,8.6,3,226.0,8.9,8.9,9.1,8.9,8.5,8.9,6.6,12.0,14.0,13.0,6,4,True
+Hilton Garden Inn Orlando Airport,Orlando,639.0,8.0,3,110.0,8.9,8.4,8.6,8.5,7.8,8.2,6.7,9.0,6.0,4.7,7,2,False
+Residence Inn by Marriott Orlando at SeaWorld,Orlando,690.0,8.3,3,2328.0,9.1,8.6,8.6,8.7,8.4,8.5,7.8,12.0,9.0,17.0,9,2,True
+Hampton Inn & Suites Orlando-Apopka,Orlando,458.0,8.7,2,467.0,8.9,9.0,9.0,9.0,8.6,8.9,8.0,10.0,10.0,19.0,6,2,False
+Hampton Inn & Suites Orlando-John Young Parkway/South Park,Orlando,570.0,8.8,2,505.0,9.0,9.2,9.2,9.2,8.9,9.0,8.2,10.0,6.0,12.0,7,2,True
+Quality Inn & Suites Near the Theme Parks,Orlando,335.0,7.6,3,1254.0,8.9,7.9,8.3,8.0,8.0,7.6,7.7,7.0,9.0,14.0,4,3,False
+Aloft Orlando International Drive,Orlando,419.0,8.5,3,382.0,9.1,9.0,8.7,8.8,8.6,8.9,8.2,11.0,8.0,15.0,5,2,True
+La Quinta Inn & Suites by Wyndham Orlando I-Drive Theme Parks,Orlando,479.0,8.6,3,2304.0,9.2,9.0,8.9,9.0,8.8,8.9,9.0,10.0,7.0,15.0,6,1,True
+"Castle , Autograph Collection by Marriott",Orlando,739.0,8.2,4,1451.0,9.3,8.6,9.0,8.7,8.2,8.4,8.2,11.0,10.0,16.0,9,2,True
+Hampton Inn Orlando Near Universal Blv/International Dr,Orlando,490.0,7.5,3,1104.0,8.8,7.9,8.3,8.0,7.8,7.8,6.5,9.0,9.0,16.0,6,2,True
+SpringHill Suites by Marriott Orlando Theme Parks/Lake Buena Vista,Orlando,492.0,8.8,3,922.0,9.3,9.1,8.8,9.0,8.9,9.1,8.2,11.0,10.0,19.0,6,2,False
+Embassy Suites by Hilton Orlando International Drive ICON Park,Orlando,851.0,8.4,3,3140.0,9.3,8.6,8.9,8.7,8.4,8.5,8.3,11.0,10.0,17.0,9,2,True
+Extended Stay America Suites - Orlando - Convention Center - Universal Blvd,Orlando,408.0,7.3,2,487.0,8.8,7.7,8.2,7.7,7.7,7.4,6.9,11.0,10.0,16.0,4,1,True
+Best Western Airport Inn & Suites,Orlando,356.0,7.2,3,888.0,8.0,7.5,8.0,7.6,7.4,7.3,7.5,10.0,1.1,6.0,7,3,False
+Hilton Garden Inn Orlando East - UCF Area,Orlando,464.0,8.4,3,272.0,8.9,8.8,8.9,8.7,8.4,8.5,8.074122807017542,11.0,0.015,13.0,7,1,True
+La Quinta by Wyndham Orlando I Drive/Conv Center,Orlando,617.0,7.5,3,952.0,9.1,7.6,8.3,7.7,7.7,7.5,8.0,11.0,10.0,16.0,6,2,True
+Embassy Suites by Hilton Orlando North,Orlando,493.0,7.9,3,377.0,8.9,8.1,8.5,8.2,7.8,8.0,8.6,8.0,2.9,14.0,7,3,True
+Ramada by Wyndham Altamonte Springs,Orlando,275.0,6.6,3,448.0,8.0,7.0,8.2,7.1,6.9,6.6,8.0,8.0,3.4,14.0,4,1,False
+TownePlace Suites by Marriott Orlando Altamonte Springs/Maitland,Orlando,493.0,8.7,3,125.0,9.0,9.2,9.1,9.0,8.8,9.0,9.6,8.0,3.3,14.0,9,2,True
+SpringHill Suites by Marriott Orlando at SeaWorld,Orlando,725.0,8.2,3,1395.0,9.2,8.6,8.7,8.6,8.3,8.5,8.074122807017542,11.0,8.0,15.0,7,6,False
+Four Points by Sheraton Orlando International Drive,Orlando,546.0,7.9,3,2090.0,9.2,8.2,8.3,8.2,8.0,8.0,8.6,9.0,9.0,16.0,7,2,False
+Home2 Suites By Hilton Orlando South Park,Orlando,528.0,8.9,3,373.0,9.1,9.2,9.2,9.1,8.8,9.2,8.4,10.0,6.0,12.0,6,2,True
+Country Inn & Suites by Radisson Near Universal,Orlando,336.0,6.8,3,2172.0,8.6,7.0,7.9,7.2,7.2,6.9,7.3,10.0,10.0,16.0,5,3,False
+Comfort Inn International Drive,Orlando,406.0,7.0,3,1718.0,8.7,7.3,8.3,7.4,7.4,7.1,8.1,11.0,10.0,17.0,6,3,False
+Homewood Suites by Hilton Orlando Airport,Orlando,969.0,8.6,3,125.0,9.2,9.0,9.2,9.0,8.6,8.9,9.8,12.0,6.0,4.6,6,1,True
+Element Orlando Universal Blvd.,Orlando,584.0,8.7,3,388.0,9.4,9.0,9.0,9.1,8.8,9.1,9.1,11.0,10.0,16.0,5,2,True
+Courtyard by Marriott Orlando East/UCF Area,Orlando,398.0,8.3,3,116.0,8.6,8.5,9.1,8.5,8.0,8.2,8.8,10.0,14.0,13.0,7,1,False
+Marriott's Grande Vista,Orlando,547.0,8.5,4,1195.0,9.1,8.8,8.7,8.8,8.4,8.7,8.6,10.0,7.0,15.0,6,2,False
+Comfort Suites Downtown,Orlando,491.0,7.9,3,383.0,8.3,8.2,8.6,8.3,7.8,8.1,7.9,1.6,0.2,5.0,7,5,False
+Sleep Inn & Suites Orlando Airport,Orlando,306.0,7.4,2,603.0,8.2,7.9,8.3,7.9,7.8,7.5,7.5,10.0,0.95,6.0,4,2,False
+Extended Stay America Suites - Orlando - Lake Buena Vista,Orlando,359.0,6.8,2,304.0,8.6,7.4,8.3,7.5,7.3,7.0,8.2,11.0,10.0,19.0,6,1,True
+Hampton Inn & Suites Orlando North Altamonte Springs,Orlando,464.0,8.7,2,412.0,9.0,9.1,8.9,9.1,8.5,9.0,7.5,8.0,3.3,14.0,10,2,True
+TownePlace Suites by Marriott Orlando Downtown,Orlando,512.0,9.0,3,172.0,8.6,9.3,9.4,9.4,8.7,9.2,10.0,4.8,0.35,5.0,5,1,True
+Hampton Inn Lake Buena Vista / Orlando,Orlando,479.0,8.9,3,448.0,9.4,9.3,9.3,9.2,9.0,9.0,8.074122807017542,11.0,10.0,19.0,7,2,True
+Mi Casa ,Orlando,271.0,6.2,2,2666.0,8.1,6.5,7.6,6.7,6.9,6.5,7.2,11.0,11.0,17.0,4,2,False
+Fairfield Inn & Suites Orlando Ocoee,Orlando,513.0,7.9,3,111.0,8.7,8.4,8.7,8.6,7.7,8.1,9.1,10.0,0.016,21.0,6,2,False
+SpringHill Suites by Marriott Orlando at Millenia,Orlando,553.0,9.1,3,637.0,9.4,9.3,9.2,9.3,9.0,9.2,8.9,6.0,7.0,12.0,7,3,True
+Orlando Palms,Orlando,289.0,7.1,4,662.0,7.9,7.7,7.8,7.7,7.8,7.4,8.074122807017542,10.0,3.8,10.0,2,2,False
+Comfort Inn & Suites Near Universal Orlando Resort-Convention Ctr,Orlando,627.0,7.6,3,2553.0,8.9,7.8,8.2,7.8,8.0,7.6,8.0,10.0,10.0,16.0,4,6,False
+Fairfield Inn and Suites by Marriott Orlando Near Universal Orlando,Orlando,492.0,7.7,3,106.0,9.2,7.9,9.0,8.2,7.9,8.0,8.3,8.0,9.0,14.0,7,1,False
+Residence Inn by Marriott Orlando Downtown,Orlando,584.0,8.5,3,81.0,8.8,8.9,9.1,8.9,8.0,8.8,8.8,2.3,0.5,4.9,6,1,True
+Courtyard Orlando Altamonte Springs Maitland,Orlando,522.0,8.7,3,230.0,8.9,9.0,9.0,9.1,8.8,8.9,8.6,6.0,3.9,12.0,9,2,False
+Best Western International Drive - Orlando,Orlando,625.0,7.1,3,2797.0,8.9,7.3,8.0,7.5,7.5,7.1,8.1,11.0,10.0,17.0,6,8,False
+"Grand Bohemian  Orlando, Autograph Collection",Orlando,1079.0,8.3,4,258.0,9.1,8.9,9.0,8.9,7.9,8.5,7.8,3.7,0.3,4.8,6,3,True
+Floridian  and Suites International Drive,Orlando,309.0,6.1,2,2138.0,8.3,6.4,7.5,6.5,6.9,6.3,7.2,10.0,10.0,16.0,4,3,False
+Hilton Garden Inn Orlando at SeaWorld,Orlando,599.0,8.1,3,609.0,9.2,8.5,8.7,8.5,8.3,8.3,8.3,11.0,9.0,16.0,7,1,True
+TownePlace Suites by Marriott Orlando at SeaWorld,Orlando,581.0,8.6,3,782.0,9.3,8.9,9.0,8.9,8.6,8.7,8.8,11.0,8.0,15.0,7,2,True
+Fairfield Inn & Suites by Marriott Orlando Kissimmee/Celebration,Orlando,445.0,8.3,3,376.0,9.0,8.6,8.7,8.7,8.4,8.5,8.5,9.0,9.0,24.0,7,2,True
+Best Western Plus Universal Inn,Orlando,409.0,7.8,3,1328.0,9.1,8.0,8.5,8.0,8.1,7.7,8.1,8.0,9.0,14.0,7,2,False
+Rodeway Inn Kissimmee Maingate West,Orlando,186.0,6.2,2,1749.0,8.1,6.5,7.2,6.5,7.0,6.4,7.0,14.0,13.0,29.0,8,3,True
+Residence Inn Orlando Lake Buena Vista,Orlando,436.0,8.0,3,681.0,8.9,8.3,8.7,8.4,8.2,8.0,8.3,11.0,10.0,19.0,7,2,True
+Days Inn by Wyndham Orlando Airport Florida Mall,Orlando,248.0,5.4,2,1745.0,6.9,6.1,6.7,6.1,6.2,5.7,6.7,11.0,4.6,10.0,5,3,True
+"The Celeste , Orlando, a Tribute Portfolio Hotel",Orlando,677.0,9.2,4,191.0,9.4,9.6,9.5,9.6,8.9,9.6,9.4,11.0,14.0,13.0,6,2,False
+Floridian Express International Drive,Orlando,255.0,5.3,2,4913.0,8.1,5.7,6.7,5.9,6.3,5.6,6.7,9.0,10.0,17.0,4,2,False
+Fairfield Inn & Suites by Marriott Orlando International Drive/Convention Center,Orlando,538.0,8.0,3,634.0,9.1,8.3,8.6,8.2,8.2,8.2,8.0,11.0,10.0,16.0,7,3,False
+Ramada by Wyndham Kissimmee Gateway,Orlando,202.0,6.9,3,6068.0,8.4,7.3,7.7,7.3,7.6,7.1,7.7,14.0,13.0,29.0,5,3,True
+Element Orlando International Drive,Orlando,625.0,8.5,3,118.0,9.3,9.2,8.8,9.2,8.8,9.0,8.8,11.0,8.0,15.0,5,2,True
+Courtyard by Marriott Orlando Airport,Orlando,519.0,8.3,3,288.0,9.1,8.8,9.0,8.9,8.3,8.4,9.6,9.0,6.0,4.8,7,1,True
+Super 8 by Wyndham Orlando International Drive,Orlando,175.0,5.9,2,1591.0,8.6,6.2,7.1,6.4,6.8,6.0,6.3,9.0,9.0,16.0,3,5,False
+Best Western Orlando West,Orlando,448.0,6.1,3,412.0,6.7,6.5,7.5,6.6,6.5,6.3,6.2,3.0,2.6,8.0,7,3,True
+Days Inn & Suites by Wyndham Altamonte Springs,Orlando,357.0,5.7,2,944.0,7.4,6.2,7.0,6.3,6.2,6.2,7.0,8.0,3.7,14.0,4,1,True
+TownePlace Suites by Marriott Orlando East/UCF Area,Orlando,392.0,8.6,3,103.0,9.0,8.8,9.4,9.0,8.7,9.0,8.8,10.0,13.0,13.0,7,1,True
+Sheraton Orlando North,Orlando,878.0,8.1,3,550.0,8.5,8.4,8.6,8.4,8.0,8.4,8.9,5.0,2.9,11.0,7,1,False
+Extended Stay America Suites - Orlando - Maitland - 1776 Pembrook Dr,Orlando,375.0,7.6,2,326.0,8.0,7.8,8.6,7.9,7.6,7.6,7.6,6.0,3.7,12.0,6,1,True
+Hilton Orlando/Altamonte Springs,Orlando,511.0,8.4,4,492.0,8.7,8.8,8.7,8.8,8.1,8.5,9.2,7.0,3.2,13.0,7,2,False
+"Hilton Garden Inn Apopka City Center, Fl",Orlando,779.0,9.3,3,233.0,9.3,9.6,9.5,9.6,9.0,9.6,8.8,10.0,14.0,22.0,6,1,True
+MainStay Suites Orlando Altamonte Springs,Orlando,231.0,6.5,3,685.0,7.9,6.9,8.0,7.0,7.1,6.8,7.7,6.0,3.3,15.0,5,2,True
+Residence Inn by Marriott Orlando at Millenia,Orlando,677.0,9.2,3,333.0,9.4,9.4,9.3,9.4,9.0,9.3,8.9,6.0,7.0,12.0,7,1,True
+Seralago  & Suites Main Gate East,Orlando,185.0,5.0,3,2393.0,8.1,5.3,6.6,5.6,6.2,5.3,6.4,8.0,9.0,22.0,3,6,False
+Hampton Inn & Suites Orlando International Drive North,Orlando,610.0,8.9,3,837.0,9.0,9.2,9.4,9.2,9.1,9.0,7.5,10.0,10.0,17.0,6,1,False
+Days Inn by Wyndham Orlando Downtown,Orlando,233.0,5.0,2,330.0,6.2,5.7,6.5,5.8,5.9,5.5,7.1,3.7,2.6,8.0,4,1,True
+Monumental Movieland ,Orlando,213.0,5.5,3,1059.0,8.5,5.7,6.7,5.9,6.4,5.7,5.0,9.0,10.0,16.0,5,3,False
+Days Inn by Wyndham N Orlando/Casselberry,Orlando,277.0,5.4,2,11.0,6.1,5.7,6.1,5.9,5.9,5.7,8.074122807017542,4.7,1.7,12.0,7,1,False
+"Motel 6-Kissimmee, FL - Orlando",Orlando,230.0,7.2,2,880.0,8.7,7.7,8.5,7.6,7.8,7.5,8.4,8.0,9.0,23.0,4,1,True
+Quality Inn & Suites Downtown,Orlando,276.0,5.4,2,581.0,6.7,6.0,7.2,6.2,6.1,5.9,6.6,3.9,4.7,10.0,7,1,True
+WoodSpring Suites Orlando North - Maitland,Orlando,271.0,3.7,2,226.0,5.4,4.6,5.7,4.7,4.7,4.6,4.5,7.0,7.0,13.0,4,2,True
+Developer Inn Downtown Orlando,Orlando,248.0,5.1,2,1463.0,6.3,5.8,6.5,5.8,5.9,5.5,4.5,4.1,4.0,10.0,6,2,False
+SureStay Plus by Best Western Orlando Lake Buena Vista,Orlando,306.0,6.9,2,1361.0,8.7,7.1,7.9,7.2,7.4,6.9,7.5,11.0,10.0,19.0,6,2,False
+Main Gate Kissimmee Formally Road Way Inn,Orlando,1714.0,6.6,2,3720.0,8.3,6.8,7.5,6.9,7.5,6.6,7.3,9.0,9.0,23.0,7,1,False
+Residence Inn Orlando Convention Center,Orlando,547.0,7.8,3,103.0,8.9,7.9,8.3,8.3,7.9,8.0,8.074122807017542,12.0,10.0,16.0,7,1,True
+Best Western Orlando East Inn & Suites,Orlando,435.0,6.4,3,232.0,7.4,7.1,8.1,7.1,6.7,6.8,7.8,8.0,9.0,7.0,7,4,False
+Marriott's Royal Palms,Orlando,903.0,9.0,3,62.0,9.4,9.3,9.1,9.3,8.8,9.1,9.6,9.0,10.0,20.0,6,1,False
+"Motel 6-Orlando, FL - International Dr",Orlando,292.0,5.6,2,1017.0,7.9,6.1,7.4,6.2,6.4,6.0,7.4,9.0,10.0,16.0,4,1,True
+OYO Townhouse Orlando West,Orlando,818.0,6.4,2,614.0,7.8,7.0,7.8,7.0,6.9,6.7,7.5,10.0,0.016,21.0,4,1,False
+Courtyard Orlando International Drive/Convention Center,Orlando,694.0,8.7,3,269.0,9.3,8.9,8.9,8.9,8.6,8.8,8.2,11.0,11.0,17.0,7,4,False
+Delta s by Marriott Orlando Lake Buena Vista,Orlando,646.0,8.1,4,383.0,8.9,8.4,8.7,8.5,8.2,8.2,8.1,11.0,11.0,20.0,5,2,False
+Best Western Plus Orlando East - UCF Area,Orlando,406.0,7.6,2,473.0,8.4,8.0,8.6,7.9,7.7,7.8,8.4,11.0,14.0,13.0,6,1,False
+Altamonte Springs  and Suites,Orlando,240.0,3.6,2,575.0,5.6,4.7,6.0,4.9,5.0,4.5,6.1,6.0,3.4,15.0,4,4,True
+SpringHill Suites Orlando Airport,Orlando,625.0,8.2,3,151.0,9.0,8.4,8.8,8.5,8.1,8.2,8.074122807017542,9.0,6.0,5.0,7,1,False
+SpringHill Suites by Marriott Orlando Convention Center,Orlando,712.0,8.3,3,451.0,9.2,8.5,8.7,8.6,8.5,8.4,10.0,12.0,10.0,16.0,7,1,False
+"Motel 6-Orlando, FL - Winter Park",Orlando,292.0,5.5,2,506.0,6.5,5.9,7.0,6.1,6.1,5.9,6.8,4.2,4.3,9.0,4,1,True
+Fairfield Inn & Suites by Marriott Orlando East/UCF Area,Orlando,420.0,8.9,3,164.0,9.2,9.3,9.3,9.3,8.8,9.2,9.6,12.0,13.0,12.0,6,1,False
+Residence Inn by Marriott Orlando East/UCF Area,Orlando,492.0,7.3,3,40.0,8.4,7.9,8.1,7.9,7.8,7.5,8.074122807017542,12.0,13.0,13.0,7,1,True
+Clarion Inn International Drive,Orlando,189.0,5.4,2,2132.0,8.3,6.0,6.5,6.1,6.4,5.7,7.0,11.0,10.0,17.0,4,2,False
+Residence Inn Orlando Airport,Orlando,610.0,8.3,3,119.0,9.2,8.6,8.9,8.7,8.4,8.5,8.074122807017542,9.0,6.0,5.0,7,2,False
+Residence Inn by Marriott Orlando Lake Nona,Orlando,615.0,9.3,3,50.0,9.6,9.6,9.6,9.2,8.9,9.6,8.8,0.018,10.0,6.0,7,1,True
+Days Inn & Suites by Wyndham Orlando East UCF Area,Orlando,263.0,6.0,2,975.0,7.6,6.4,7.3,6.7,6.5,6.4,6.8,11.0,14.0,12.0,6,1,True
+Quality Inn Orlando-Near Universal Blvd,Orlando,168.0,4.4,2,1724.0,7.5,5.0,6.3,5.2,5.5,4.8,6.9,9.0,9.0,16.0,6,2,False
+ Belair Orlando Near Florida Mall,Orlando,204.0,4.5,2,147.0,5.9,5.3,6.6,5.3,5.2,4.9,5.0,8.0,3.4,11.0,4,1,False
+Quality Inn & Suites Orlando / Winter Park,Orlando,266.0,4.9,2,386.0,6.4,5.6,7.0,5.9,5.9,5.2,6.8,3.7,3.8,9.0,4,2,True
+Extended Stay America Suites - Orlando - Convention Ctr - Sports Complex,Orlando,375.0,6.0,2,241.0,7.9,6.5,7.6,6.6,6.5,6.2,6.5,12.0,10.0,16.0,6,1,True
+Renaissance Orlando Airport ,Orlando,756.0,8.4,4,133.0,9.3,8.9,8.8,8.9,8.2,8.7,8.074122807017542,9.0,6.0,5.0,7,1,False
+Howard Johnson by Wyndham Airport Florida Mall,Orlando,263.0,5.6,2,178.0,7.0,6.3,7.5,6.4,6.5,6.0,7.5,11.0,4.9,10.0,5,2,False
+La Quinta by Wyndham Orlando South,Orlando,333.0,4.9,3,763.0,6.6,5.5,6.7,5.7,5.7,5.2,6.6,11.0,4.7,10.0,5,1,True
+Super 8 by Wyndham Kissimmee/Maingate/Orlando Area,Orlando,272.0,6.6,2,664.0,8.2,7.1,7.4,7.2,7.1,6.7,8.0,8.0,9.0,23.0,4,3,False
+Grand  Orlando at Universal Blvd,Orlando,288.0,6.9,3,2229.0,8.6,7.2,7.7,7.3,7.4,7.0,7.5,10.0,10.0,16.0,4,3,False
+"Studio 6-Kissimmee, FL - Orlando",Orlando,264.0,6.7,2,213.0,8.1,7.1,7.5,7.1,7.2,6.9,7.0,8.0,9.0,23.0,4,1,True
+Days Inn by Wyndham Apopka/Orlando,Orlando,248.0,6.0,2,170.0,7.1,6.9,7.1,6.9,6.6,6.5,6.7,9.0,0.016,23.0,6,1,False
+Extended Stay America Suites - Orlando - Maitland - Summit Tower Blvd,Orlando,359.0,6.3,2,339.0,7.4,6.7,7.9,6.7,6.6,6.5,7.1,6.0,4.0,12.0,6,1,True
+Extended Stay America Suites - Orlando - Orlando Theme Parks - Major Blvd,Orlando,375.0,6.6,2,282.0,8.6,7.1,7.8,7.2,7.0,6.7,7.9,7.0,9.0,14.0,6,2,True
+Extended Stay America Suites - Orlando - Altamonte Springs,Orlando,408.0,6.7,2,412.0,8.0,7.1,7.5,7.2,7.1,6.9,7.1,7.0,3.1,14.0,6,1,True
+Extended Stay America - Orlando - Maitland - 1760 Pembrook Dr.,Orlando,294.0,6.9,2,266.0,7.7,7.5,8.0,7.3,7.2,7.1,7.0,6.0,3.8,12.0,6,1,True
+Extended Stay America Suites - Orlando - Southpark - Commodity Circle,Orlando,343.0,5.5,2,174.0,7.4,6.1,7.2,6.2,6.2,5.9,6.9,9.0,6.0,13.0,6,1,True
+Econo Lodge,Orlando,219.0,4.2,2,481.0,5.8,5.5,5.9,5.5,5.3,4.8,5.1,7.0,3.4,11.0,6,1,False
+Extended Stay America Suites - Orlando - Orlando Theme Parks - Vineland Rd,Orlando,359.0,7.2,2,139.0,8.5,7.3,8.2,7.4,7.3,7.1,7.5,8.0,9.0,14.0,3,1,True
+Quality Inn Orlando Airport-Florida Mall,Orlando,234.0,3.5,2,801.0,5.2,4.5,5.6,4.7,4.9,4.4,6.1,10.0,4.1,10.0,4,1,True

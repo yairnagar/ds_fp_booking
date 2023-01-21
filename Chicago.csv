@@ -1,0 +1,127 @@
+Name,City,Price,Rating,Stars,Reviews,Location,Cleanliness,staff,Comfort,Value for Money,Facilities,Wifi,Closest attraction dist,Closest transportation,Closest airport,payment methods,Number of languages,Allowing pets
+Warwick Allerton Chicago,Chicago,"1,199",7.2,4,"3,400",9.4,7.6,7.5,7.7,7.2,7.1,7.3,850,400,16,9.0,6.0,True
+Eurostars Magnificent Mile,Chicago,"1,374",8.2,4,"2,717",9.1,8.7,8.8,8.8,8.2,8.2,8.2,750,250,16,4.0,2.0,False
+Pendry Chicago,Chicago,"2,387",9.0,4,884,9.8,9.5,9.2,9.5,8.6,9.2,9.4,750,250,15,7.0,3.0,True
+SpringHill Suites by Marriott Chicago Chinatown,Chicago,649,9.0,3,409,9.0,9.5,9.4,9.4,8.8,9.4,8.6,2.3,400,12,5.0,4.0,False
+Acme  Company Chicago,Chicago,"1,645",8.2,4,"1,063",9.5,8.5,8.5,8.6,8.0,8.1,9.0,650,100,16,4.0,2.0,True
+citizenM Chicago Downtown,Chicago,"1,817",8.9,4,414,9.7,9.2,9.1,9.3,8.8,9.1,9.5,700,250,15,6.0,1.0,False
+Trump International  & Tower Chicago,Chicago,"2,048",9.0,5,883,9.7,9.3,9.1,9.4,8.4,9.1,8.6,750,300,16,6.0,9.0,True
+The Talbott ,Chicago,890,8.2,4,285,9.5,8.7,9.0,8.8,8.2,8.2,8.0,1.1,300,16,4.0,2.0,True
+The Palmer House Hilton,Chicago,"1,594",7.6,4,678,9.3,8.1,8.2,8.2,7.1,7.8,6.4,750,50,15,7.0,2.0,True
+Hilton Chicago,Chicago,"1,714",8.1,4,423,9.2,8.5,8.7,8.7,7.5,8.4,8.6,900,350,14,7.0,3.0,True
+"The Hoxton, Chicago",Chicago,"1,645",8.4,4,216,9.3,8.8,8.7,8.7,7.8,8.8,8.3,2.2,250,14,5.0,1.0,True
+Chicago Marriott Downtown Magnificent Mile,Chicago,"1,769",8.0,4,563,9.3,8.5,8.4,8.6,7.6,8.3,6.3,850,300,16,7.0,4.0,False
+"Crowne Plaza - Chicago West Loop, an IHG ",Chicago,"1,206",7.9,3,818,8.7,8.4,8.6,8.5,7.7,8.1,8.2,2,550,14,4.0,3.0,True
+ Chicago West Loop,Chicago,"1,061",7.7,2,886,8.4,8.0,8.6,8.1,7.6,7.9,8.2,2.7,500,12,6.0,2.0,True
+"Kimpton  Monaco Chicago, an IHG Hotel",Chicago,"1,817",8.9,4,251,9.6,9.3,9.4,9.4,8.2,8.9,,500,150,15,4.0,3.0,True
+Marriott Marquis Chicago,Chicago,"2,058",8.7,4,200,9.1,9.2,8.9,9.2,7.9,9.0,7.2,1.5,400,13,7.0,5.0,False
+W Chicago - Lakeshore,Chicago,"1,714",8.0,4,"1,251",9.2,8.5,8.6,8.5,7.6,8.1,,850,1.1,17,6.0,3.0,True
+Homewood Suites by Hilton Chicago Downtown,Chicago,"1,450",8.1,3,"1,978",9.2,8.3,8.8,8.4,8.0,8.2,8.2,650,150,16,10.0,7.0,True
+Hyatt Place Chicago/Downtown - The Loop,Chicago,"1,594",8.0,3,"5,363",8.8,8.5,8.5,8.5,8.0,8.3,8.5,1.1,100,15,9.0,2.0,True
+Viceroy Chicago,Chicago,"2,387",9.0,5,"1,247",9.5,9.3,9.3,9.3,8.6,9.2,9.2,1.2,300,17,6.0,6.0,True
+The Langham Chicago,Chicago,"3,624",9.3,5,387,9.7,9.6,9.6,9.7,8.7,9.6,9.6,750,300,15,6.0,5.0,True
+Swissotel Chicago,Chicago,"1,574",8.2,4,675,9.1,8.8,8.5,8.9,7.9,8.5,,600,450,16,4.0,5.0,True
+"Sable At Navy Pier Chicago, Curio Collection By Hilton",Chicago,"1,747",8.9,4,919,9.6,9.3,9.1,9.3,8.5,9.1,8.5,1.7,1.9,17,7.0,1.0,False
+"Staypineapple, An Iconic , The Loop",Chicago,"1,827",8.7,4,989,9.7,9.2,9.1,9.1,8.4,8.7,9.2,800,100,15,6.0,1.0,True
+Hyatt Centric The Loop Chicago,Chicago,"1,989",8.2,4,"1,068",9.2,8.6,8.8,8.7,8.0,8.3,8.6,750,150,15,5.0,1.0,True
+Fairmont Chicago Millennium Park,Chicago,"1,714",7.9,4,114,9.2,8.4,8.5,8.5,7.5,8.2,,750,300,16,4.0,1.0,True
+Kinzie ,Chicago,"1,714",8.3,4,752,9.3,9.0,8.9,9.0,8.2,8.6,,900,300,15,4.0,13.0,True
+"Club Quarters  Wacker at Michigan, Chicago",Chicago,"1,250",8.1,4,"2,973",9.7,8.3,9.0,8.4,8.1,7.9,8.6,600,300,15,4.0,2.0,True
+"The Blackstone, Autograph Collection",Chicago,"2,401",8.6,4,326,9.1,9.2,8.8,9.1,8.2,8.9,,"1,000",300,14,7.0,1.0,True
+The Whitehall ,Chicago,"1,542",7.3,4,"1,366",9.3,7.8,8.3,7.9,7.5,7.0,8.3,950,350,16,5.0,1.0,True
+Loews Chicago ,Chicago,"2,319",8.8,4,"1,220",9.4,9.3,9.1,9.3,8.5,9.1,8.1,750,700,16,6.0,3.0,True
+ Saint Clair - Magnificent Mile,Chicago,"1,543",7.5,4,"3,055",9.2,8.0,8.0,8.0,7.8,7.5,7.9,700,450,16,4.0,1.0,True
+City Suites ,Chicago,958,7.9,3,443,9.1,8.4,8.3,8.6,7.8,7.9,8.9,2.8,40,19,5.0,3.0,False
+Ivy Boutique ,Chicago,"1,611",8.4,4,"1,701",9.2,8.9,8.6,8.9,8.5,8.6,8.0,700,550,16,5.0,2.0,False
+Hyatt Regency Chicago,Chicago,"1,351",8.2,4,"1,595",9.4,8.4,8.7,8.5,7.7,8.4,7.8,600,450,16,7.0,19.0,False
+"LondonHouse Chicago, Curio Collection by Hilton",Chicago,"1,530",8.8,4,"1,310",9.6,9.2,8.8,9.3,8.6,9.0,8.4,600,350,16,5.0,8.0,False
+Hampton Inn Chicago Downtown/Magnificent Mile,Chicago,"1,680",7.7,3,904,9.0,8.3,8.5,8.3,7.8,7.9,7.6,900,450,16,8.0,6.0,True
+Best Western Grant Park ,Chicago,"1,014",7.1,3,"1,108",8.7,7.6,8.2,7.6,7.4,7.1,8.1,850,250,14,9.0,2.0,False
+Nobu  Chicago,Chicago,"2,353",9.0,5,341,9.3,9.5,9.1,9.5,8.4,9.3,9.6,2.3,250,14,6.0,1.0,True
+Travelodge by Wyndham Downtown Chicago,Chicago,"1,169",6.0,2,"2,535",8.4,6.5,7.3,6.6,6.5,6.1,7.6,950,150,14,5.0,2.0,False
+"voco - Chicago Downtown, an IHG ",Chicago,"1,106",7.3,0,9,7.8,8.1,8.1,8.6,6.7,7.8,,1.2,250,15,7.0,,
+Selina Chicago,Chicago,"1,371",7.3,4,629,9.2,7.6,7.8,7.8,7.4,7.4,8.8,1.2,300,16,3.0,1.0,True
+ Versey Days Inn by Wyndham Chicago,Chicago,742,8.0,3,"1,038",9.1,8.4,8.7,8.4,8.0,8.0,7.9,1.8,650,19,6.0,6.0,False
+The Chicago  Collection River North,Chicago,978,7.2,3,560,8.1,8.1,7.8,8.1,7.1,7.8,7.8,1.3,250,16,4.0,1.0,True
+Hyatt House Chicago West Loop,Chicago,"1,714",8.5,3,758,9.1,8.9,8.9,9.0,8.4,8.9,8.6,1.8,400,14,4.0,2.0,True
+The Willows ,Chicago,"1,058",7.6,3,585,8.9,8.1,8.4,8.1,7.5,7.4,8.1,1.9,800,19,6.0,1.0,False
+The Buckingham ,Chicago,"1,450",8.7,3,508,8.9,9.0,9.1,9.1,8.4,8.6,7.7,1.1,50,14,4.0,2.0,False
+Hampton Inn Chicago Downtown/N Loop/Michigan Ave,Chicago,"1,302",7.9,3,"1,096",9.3,8.2,8.5,8.4,7.9,8.0,7.7,550,250,15,8.0,1.0,True
+Hyatt Centric Chicago Magnificent Mile,Chicago,"1,719",8.5,4,707,9.3,9.0,8.8,8.9,8.2,8.7,8.6,600,550,16,7.0,2.0,True
+" Blake, an Ascend Hotel Collection Member",Chicago,"1,646",9.0,4,914,9.3,9.4,9.3,9.4,8.9,9.1,8.9,850,150,14,4.0,1.0,False
+The Robey,Chicago,"1,165",8.5,4,329,9.2,9.2,8.9,9.0,7.8,8.8,8.7,3.6,100,15,4.0,2.0,False
+Sheraton Grand Chicago Riverwalk,Chicago,"1,609",7.9,4,916,9.3,8.3,8.4,8.4,7.4,8.1,6.9,800,650,16,7.0,6.0,True
+Hilton Garden Inn Chicago Downtown Riverwalk,Chicago,"1,419",8.4,3,"1,127",9.5,8.9,8.9,8.9,8.3,8.4,8.0,550,250,15,6.0,2.0,False
+Hampton Inn Chicago McCormick Place,Chicago,"1,855",8.3,3,708,8.8,8.9,8.7,8.9,8.0,8.7,8.3,1.7,300,13,6.0,1.0,True
+SpringHill Suites Chicago Downtown/River North,Chicago,"1,302",8.2,3,618,9.1,8.7,8.8,8.6,8.0,8.4,8.5,900,250,15,7.0,1.0,False
+"Kimpton Gray  Chicago, an IHG Hotel",Chicago,"2,229",8.3,4,174,9.0,8.9,9.0,9.0,7.9,8.5,,800,200,15,6.0,1.0,True
+Hilton Garden Inn Chicago Downtown/Magnificent Mile,Chicago,"1,356",7.5,3,"1,390",8.9,8.0,7.8,8.1,7.4,7.6,7.5,700,50,16,9.0,2.0,True
+Majestic ,Chicago,"1,027",8.1,3,524,9.2,8.5,9.2,8.6,8.1,8.1,7.6,3.3,850,20,6.0,2.0,False
+ Felix,Chicago,"1,481",7.5,4,"2,767",9.0,7.9,8.3,8.0,7.4,7.5,8.2,850,350,16,5.0,3.0,True
+The Emily ,Chicago,"1,289",8.4,4,299,9.4,9.0,9.0,9.0,7.7,8.5,8.4,1.7,200,14,6.0,1.0,True
+"Holiday Inn Chicago Midway Airport S, an IHG hotel",Chicago,976,7.7,3,510,8.0,8.4,8.2,8.4,7.6,8.1,8.1,13,2.2,3.2,7.0,2.0,False
+Aloft Chicago Downtown River North,Chicago,"1,439",8.7,3,355,9.3,9.1,9.3,9.0,8.6,8.9,9.1,800,250,15,7.0,1.0,True
+Fairfield Inn and Suites Chicago Downtown-River North,Chicago,"1,096",8.6,3,"1,011",9.3,8.9,9.2,9.0,8.4,8.7,8.7,800,200,15,7.0,1.0,False
+Moxy Chicago Downtown,Chicago,"1,542",9.0,3,335,9.5,9.2,9.3,9.3,8.7,9.2,9.1,850,350,15,7.0,1.0,True
+"Club Quarters  Central Loop, Chicago",Chicago,"1,628",8.0,4,"2,430",9.2,8.1,8.6,8.2,7.8,7.9,8.7,800,200,14,4.0,1.0,True
+Aloft Chicago Mag Mile,Chicago,"1,594",8.1,3,"1,484",9.1,8.5,8.6,8.6,8.1,8.4,8.7,700,600,16,7.0,1.0,True
+Thompson Chicago,Chicago,"1,759",8.6,4,187,9.7,9.0,9.0,9.2,8.0,8.5,7.9,1.3,450,17,3.0,1.0,True
+River ,Chicago,"1,250",8.3,4,"3,200",9.6,8.5,9.0,8.6,8.4,8.3,8.4,600,300,15,4.0,2.0,True
+"Ambassador Chicago, part of JdV by Hyatt",Chicago,"1,147",8.5,4,392,9.4,8.9,9.1,9.0,8.2,8.6,9.3,1.5,350,17,9.0,2.0,True
+Four Seasons Chicago,Chicago,"2,851",9.0,5,99,9.7,9.3,9.4,9.3,8.3,9.2,10,"1,000",400,16,5.0,8.0,True
+Embassy Suites by Hilton Chicago Downtown Magnificent Mile,Chicago,"1,814",8.0,4,"2,315",9.2,8.3,8.5,8.3,7.7,8.2,,700,650,16,7.0,4.0,True
+Virgin s Chicago,Chicago,"1,923",8.8,4,"1,368",9.5,9.2,9.1,9.3,8.6,9.0,8.6,750,150,15,4.0,2.0,True
+"The LaSalle Chicago, Autograph Collection",Chicago,"1,955",9.2,4,8,9.4,9.4,9.7,9.4,8.1,9.1,,900,100,14,5.0,3.0,True
+AC  Chicago Downtown,Chicago,"1,491",8.4,4,576,9.4,8.7,8.8,8.8,8.4,8.6,8.9,650,300,16,7.0,2.0,True
+Courtyard Chicago Downtown/Magnificent Mile,Chicago,"1,405",8.1,4,364,9.2,8.5,8.6,8.6,7.8,8.2,8.6,700,450,16,7.0,5.0,False
+Freehand Chicago,Chicago,"1,812",7.6,4,"1,914",9.2,7.9,8.2,7.9,7.8,7.7,8.3,600,100,16,8.0,2.0,False
+Homewood Suites by Hilton Chicago Downtown - Magnificent Mile,Chicago,"1,545",7.8,3,463,9.2,8.1,8.4,8.1,7.8,7.9,8.1,900,450,16,9.0,9.0,True
+ Julian Chicago,Chicago,"1,921",8.3,4,807,9.5,8.7,8.4,8.7,8.0,8.5,8.8,600,150,15,4.0,4.0,False
+Chicago Lakeshore ,Chicago,477,6.6,3,907,8.2,7.2,7.9,7.2,6.9,6.8,7.8,7,600,14,3.0,2.0,True
+Waldorf Astoria Chicago,Chicago,"2,748",8.2,5,182,9.3,8.9,8.8,9.0,7.6,8.4,,1.1,350,16,7.0,4.0,True
+Silversmith  Chicago Downtown,Chicago,"1,852",8.6,4,655,9.4,9.0,9.3,9.1,8.5,8.7,9.0,850,100,15,3.0,2.0,False
+The Drake ,Chicago,"1,549",7.8,4,431,9.3,8.2,8.5,8.3,7.4,7.7,8.6,1.1,550,17,7.0,3.0,True
+Claridge House,Chicago,"1,043",7.9,4,611,9.2,8.2,8.5,8.3,7.8,7.9,8.3,1.2,200,17,7.0,2.0,True
+Fairfield Inn and Suites Chicago Downtown/ Magnificent Mile,Chicago,"2,092",8.4,3,726,9.4,8.6,9.0,8.8,8.4,8.5,8.4,700,550,16,7.0,2.0,False
+Central Loop ,Chicago,"1,384",8.0,4,"2,024",9.3,8.1,8.7,8.2,7.9,7.9,8.7,800,200,14,4.0,2.0,False
+"InterContinental Chicago Magnificent Mile, an IHG ",Chicago,"2,281",7.9,4,469,9.5,8.3,8.5,8.4,7.3,7.9,8.4,700,350,16,7.0,8.0,True
+Hampton Inn Chicago-Midway Airport,Chicago,581,8.2,3,701,8.8,8.8,8.8,8.7,8.0,8.6,8.5,13,1.5,1.6,5.0,1.0,True
+Le Meridien Essex Chicago,Chicago,"1,542",8.0,4,512,9.0,8.5,8.5,8.7,7.8,8.3,8.8,850,350,14,4.0,5.0,False
+The Royal Sonesta Chicago Downtown,Chicago,"1,596",8.4,4,"1,790",9.5,8.7,8.8,8.9,8.3,8.4,8.4,600,250,15,9.0,2.0,True
+Home2 Suites By Hilton Chicago River North,Chicago,"1,079",8.2,3,"3,359",9.0,8.6,8.5,8.7,8.1,8.5,8.8,800,350,16,6.0,2.0,True
+Radisson Blu Aqua  Chicago,Chicago,"2,324",7.9,4,"1,494",9.0,8.3,8.4,8.4,7.6,8.3,,750,350,16,5.0,8.0,True
+Hilton Garden Inn Chicago McCormick Place,Chicago,"1,886",8.0,3,241,8.5,8.7,8.4,8.6,7.8,8.4,7.0,1.7,300,13,6.0,1.0,True
+21c Museum  Chicago,Chicago,"1,635",8.3,4,"1,358",9.4,8.9,8.7,9.0,8.3,8.6,8.5,750,250,16,9.0,2.0,True
+Godfrey  Chicago,Chicago,"1,757",8.2,4,636,8.9,8.6,8.4,8.7,7.9,8.4,8.2,850,350,16,4.0,3.0,False
+Courtyard by Marriott Chicago Downtown/River North,Chicago,"1,237",7.7,3,418,8.8,8.4,8.6,8.4,7.6,7.6,8.4,750,200,16,7.0,1.0,False
+Embassy Suites Chicago - Downtown River North,Chicago,"1,893",7.6,4,"1,038",8.9,8.1,8.2,8.1,7.6,7.9,7.1,700,150,16,9.0,2.0,False
+Level Chicago - Old Town,Chicago,"1,565",9.0,8,388,9.2,9.3,9.0,9.4,8.5,9.3,8.7,1.3,300,16,4.0,3.0,
+" Chicago Downtown, Autograph Collection",Chicago,"5,149",8.6,4,700,9.6,9.0,9.1,9.1,8.5,8.6,,850,300,15,6.0,1.0,False
+The Westin Michigan Avenue Chicago,Chicago,"1,851",7.8,4,219,9.4,8.4,8.3,8.5,7.5,8.0,,"1,000",500,17,7.0,2.0,True
+Sonesta ES Suites Chicago Downtown Magnificent Mile Medical,Chicago,"1,381",8.0,3,"1,159",9.1,8.2,8.5,8.4,8.0,8.0,8.0,1.1,650,17,9.0,2.0,True
+Residence Inn by Marriott Chicago Downtown/River North,Chicago,"1,508",8.3,3,327,9.2,8.7,8.8,8.6,8.1,8.4,8.2,900,250,15,7.0,1.0,True
+The Allegro Royal Sonesta  Chicago Loop,Chicago,"1,539",8.0,4,631,9.1,8.4,8.8,8.5,7.6,8.1,8.1,650,200,15,9.0,2.0,True
+Hilton Garden Inn Chicago/Midway Airport,Chicago,711,7.5,3,305,8.4,8.4,8.2,8.3,7.4,8.0,8.6,13,1.5,1.6,7.0,2.0,True
+Omni Chicago  & Suites Magnificent Mile,Chicago,"2,058",8.6,4,"1,037",9.6,8.9,9.1,8.9,8.2,8.7,7.3,800,350,16,8.0,1.0,True
+The Peninsula Chicago,Chicago,"3,177",9.4,5,161,9.8,9.7,9.6,9.7,8.4,9.7,9.5,900,250,16,7.0,17.0,True
+Super 8 by Wyndham Chicago IL,Chicago,859,6.7,2,104,8.1,7.2,8.4,7.4,6.7,6.8,9.1,7,450,21,4.0,1.0,False
+"Hampton Inn Chicago North-Loyola Station, Il",Chicago,978,8.4,3,576,9.0,9.0,8.9,9.0,8.1,8.8,8.4,8,100,21,7.0,1.0,True
+W Chicago - City Center,Chicago,"1,515",7.3,4,88,8.3,7.8,8.4,7.9,6.9,7.4,9.2,950,100,14,7.0,1.0,True
+The Royal Sonesta Chicago River North,Chicago,"1,581",8.3,4,459,9.0,8.8,8.8,8.8,7.9,8.4,8.4,650,50,16,9.0,2.0,True
+The Chicago  Collection Magnificent Mile,Chicago,"1,319",8.0,4,"1,281",9.2,8.5,8.3,8.6,7.9,8.1,8.7,950,450,16,4.0,2.0,True
+Ruby Room,Chicago,"1,027",7.1,0,38,8.6,8.1,7.4,7.6,7.2,7.1,7.5,3.5,400,15,4.0,1.0,False
+The Chicago  Collection Millennium Park,Chicago,"1,016",5.8,3,237,8.4,7.0,5.5,6.9,6.3,6.1,5.0,"1,000",50,15,4.0,1.0,True
+Hyatt Place Chicago Wicker Park,Chicago,963,9.0,3,324,9.2,9.6,9.5,9.5,8.7,9.4,9.6,2.8,750,16,6.0,2.0,True
+Best Western Plus Hawthorne Terrace ,Chicago,"1,019",8.3,3,393,9.2,8.9,8.9,8.8,7.9,8.4,8.6,3,750,20,7.0,2.0,True
+" Zachary, Chicago, a Tribute Portfolio Hotel",Chicago,"1,302",9.2,4,184,9.7,9.6,9.5,9.6,8.2,9.5,8.8,3.7,300,20,6.0,1.0,True
+Gateway Inn,Chicago,374,7.8,2,367,8.3,8.3,8.7,8.1,8.1,7.8,7.7,12,900,8,4.0,1.0,False
+The Westin Chicago River North,Chicago,"1,539",8.6,4,99,9.5,9.1,8.9,9.2,8.0,8.9,,900,300,15,7.0,2.0,True
+Best Western Plus Hyde Park Chicago ,Chicago,"1,327",7.4,3,635,8.3,8.0,8.3,8.1,7.3,7.7,7.5,7,500,14,4.0,1.0,True
+" EMC2, Autograph Collection",Chicago,"2,662",9.0,4,562,9.5,9.2,9.3,9.3,8.6,9.1,,650,550,16,7.0,2.0,True
+Residence Inn by Marriott Chicago Downtown/Loop,Chicago,"1,419",8.5,3,326,9.1,8.9,8.7,8.9,8.3,8.8,9.1,750,150,15,5.0,2.0,True
+JW Marriott Chicago,Chicago,"2,281",8.4,5,227,8.8,8.9,8.8,8.9,8.1,8.7,7.5,900,50,14,7.0,6.0,False
+Red Roof Inn Chicago-Alsip,Chicago,309,5.5,2,146,6.8,6.0,7.4,6.2,6.1,5.9,7.3,14,4.8,13,4.0,1.0,True
+"The Gwen, a Luxury Collection , Michigan Avenue Chicago",Chicago,"2,857",8.8,4,130,9.5,9.4,9.0,9.2,8.4,9.0,,650,250,16,7.0,5.0,True
+Sleep Inn Midway Airport Bedford Park,Chicago,361,6.8,2,907,8.0,7.3,7.8,7.4,6.9,7.1,7.8,13,1.8,1.8,6.0,2.0,False
+EDGEBROOK MOTEL,Chicago,240,6.0,0,242,7.0,6.2,6.8,6.3,6.4,6.0,3.5,8,2.7,11,,1.0,False
+"The Ritz-Carlton, Chicago",Chicago,"3,088",8.7,5,54,9.5,9.1,9.0,9.1,7.9,8.9,,1.2,500,16,6.0,3.0,True

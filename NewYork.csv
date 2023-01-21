@@ -1,0 +1,362 @@
+Name,City,Price,Rating,Stars,Reviews,Location,Cleanliness,staff,Comfort,Value for Money,Facilities,Wifi,Closest attraction dist,Closest transportation,Closest airport,payment methods,Number of languages,Allowing pets
+Courtyard by Marriott New York Manhattan/Central Park,New-York,"1,183",8.2,4,"3,195",9.4,8.4,8.6,8.5,7.7,8.0,8.3,900,150,9,7.0,8,True
+Residence Inn by Marriott New York Manhattan/Central Park,New-York,"1,183",8.4,4,"1,290",9.6,8.6,8.8,8.6,7.9,8.2,8.6,900,100,9,7.0,8,True
+The Cloud One New York-Downtown,New-York,"1,072",8.1,4,375,9.1,8.7,8.4,8.7,7.5,7.9,7.6,1.6,200,14,4.0,2,True
+Riu Plaza New York Times Square,New-York,"1,141",8.4,4,"6,302",9.4,8.8,8.7,8.8,8.3,8.6,8.6,1.4,300,10,6.0,2,False
+MOXY NYC Times Square,New-York,902,8.0,4,"9,310",9.3,8.3,8.5,8.4,8.0,8.2,8.6,1.2,200,10,7.0,5,True
+ Lucerne,New-York,870,8.5,4,"1,078",9.4,9.0,9.1,9.0,8.2,8.4,8.4,1.5,150,9,5.0,5,False
+Grayson ,New-York,"1,245",8.2,4,31,9.5,8.8,8.9,8.6,7.3,8.6,10,900,250,10,5.0,3,True
+M Social  Times Square New York,New-York,"1,245",8.4,4,"5,152",9.6,8.7,8.5,8.7,7.9,8.5,8.3,1.1,150,10,6.0,5,True
+Wingate by Wyndham New York Midtown South/5th Ave,New-York,862,7.9,3,"1,510",9.2,8.4,8.6,8.4,7.9,8.0,8.4,1.1,350,10,6.0,2,False
+Archer  New York,New-York,"1,245",8.8,4,737,9.5,9.0,9.3,9.1,8.3,8.7,9.1,950,300,10,4.0,1,True
+Hyatt Place New York City/Times Square,New-York,"1,072",7.6,4,"14,432",8.7,7.9,8.2,8.0,7.6,7.6,8.4,1.1,350,10,4.0,2,False
+citizenM New York Times Square,New-York,"1,210",8.7,4,"2,943",9.6,9.0,9.2,8.9,8.3,8.9,9.2,900,100,10,3.0,1,False
+Times Square EDITION New York,New-York,"1,326",8.5,5,720,9.2,9.0,9.0,9.1,7.8,8.7,8.6,1.2,150,10,7.0,2,True
+CIVILIAN ,New-York,852,8.5,4,"1,017",9.5,8.8,9.3,8.7,8.0,8.3,8.1,950,150,10,5.0,3,True
+Hard Rock  New York,New-York,"1,488",8.8,5,"1,102",9.4,9.2,9.0,9.3,8.1,8.9,9.1,1.1,100,10,3.0,1,True
+Arlo Midtown,New-York,918,8.7,4,"2,784",9.0,9.1,9.1,9.1,8.3,9.0,9.0,1.5,400,10,3.0,2,False
+Hyatt Place NYC Chelsea,New-York,"1,068",7.9,4,"5,245",9.1,8.2,8.2,8.3,7.6,7.8,8.2,900,150,11,6.0,2,True
+Hyatt House New York/Chelsea,New-York,985,8.1,3,529,9.1,8.5,8.6,8.6,7.7,8.1,9.0,1.3,200,10,7.0,2,False
+ Belleclaire Central Park,New-York,970,8.0,4,"2,419",9.2,8.5,8.8,8.4,7.8,7.7,6.5,1.6,200,9,4.0,6,True
+New York Hilton Midtown,New-York,"1,058",7.6,4,870,9.3,7.9,7.9,8.1,6.7,7.6,6.5,900,250,9,7.0,7,True
+Doubletree By Hilton New York Times Square West,New-York,966,7.0,4,"14,469",8.4,7.5,7.7,7.5,7.3,7.1,7.2,1.2,300,10,7.0,6,True
+TownePlace Suites by Marriott New York Manhattan/Times Square,New-York,746,8.2,3,"1,426",9.2,8.6,9.0,8.5,8.3,8.3,8.5,1.1,200,10,7.0,2,True
+Embassy Suites By Hilton New York Manhattan Times Square,New-York,879,7.9,4,"4,073",9.3,8.0,8.6,8.1,7.8,8.0,7.6,1.1,300,10,5.0,2,True
+The Pearl ,New-York,"1,144",8.6,4,920,9.6,9.0,9.2,9.0,8.0,8.5,9.1,900,150,10,5.0,2,False
+Empire ,New-York,933,6.9,4,"2,533",9.2,7.3,8.0,7.3,6.5,6.6,7.2,700,200,9,9.0,6,True
+"Club Quarters  Times Square, New York",New-York,867,7.8,4,"2,452",9.4,8.0,8.7,8.1,7.8,7.8,8.4,950,250,9,4.0,1,True
+" Indigo - NYC Downtown - Wall Street, an IHG Hotel",New-York,794,8.2,4,438,8.8,8.8,8.8,8.7,8.0,8.2,7.7,800,250,14,7.0,1,True
+NH Collection New York Madison Avenue,New-York,"1,157",8.2,4,"1,093",9.2,8.7,8.6,8.8,7.7,8.3,8.9,950,400,10,6.0,2,True
+Margaritaville Resort Times Square,New-York,"1,007",8.7,4,"1,225",9.4,9.2,9.2,9.2,8.1,8.9,,950,50,10,4.0,7,True
+"Crowne Plaza Times Square, an IHG ",New-York,"1,150",7.8,4,"1,232",9.4,8.1,8.2,8.1,7.3,7.6,8.3,1.3,100,10,9.0,4,True
+TownePlace Suites by Marriott New York Manhattan/Chelsea,New-York,"1,183",8.0,4,"1,828",9.2,8.6,8.8,8.6,7.8,8.2,7.6,1.1,100,11,5.0,2,True
+Royalton New York,New-York,"1,027",7.6,4,"1,282",9.2,8.1,8.7,8.3,7.3,7.3,,800,200,10,5.0,19,True
+"InterContinental New York Barclay , an IHG Hotel",New-York,"1,280",8.1,5,922,9.1,8.7,8.2,8.7,7.6,8.2,8.3,1.3,250,9,4.0,4,True
+Park Terrace ,New-York,"1,245",8.7,4,"2,585",9.7,9.1,9.2,9.2,8.2,8.7,9.1,800,150,10,4.0,1,True
+Square  at Times Square,New-York,851,7.0,3,"2,409",9.3,7.3,8.3,7.4,7.0,6.8,8.0,900,100,10,9.0,5,False
+Michelangelo ,New-York,"1,324",8.5,4,641,9.6,9.0,8.9,9.1,8.2,8.2,8.5,900,100,9,9.0,8,True
+Refinery  - New York,New-York,"1,176",8.2,5,258,9.2,8.9,8.7,8.8,7.6,8.4,7.9,"1,000",300,10,9.0,5,True
+ Edison Times Square,New-York,"1,023",7.4,4,"11,361",9.4,7.8,8.0,7.9,7.3,7.3,,1.3,250,10,6.0,4,False
+"Club Quarters  Grand Central, New York",New-York,936,8.0,4,"2,190",9.2,8.2,8.6,8.4,7.9,7.9,9.0,"1,000",250,9,4.0,2,True
+Broadway Plaza ,New-York,839,8.4,3,506,9.2,8.9,9.3,8.9,8.5,8.4,8.2,1.4,100,10,7.0,3,False
+TBA Times Square,New-York,798,7.4,3,"7,114",8.8,7.7,7.9,7.8,7.3,7.3,8.1,1.1,250,10,5.0,2,True
+Hampton Inn Manhattan Chelsea,New-York,"1,000",7.8,3,"1,362",9.0,8.1,8.7,8.1,7.5,7.6,8.8,1.1,100,11,7.0,3,True
+Fairfield Inn & Suites by Marriott New York Midtown Manhattan/Penn Station,New-York,"1,120",8.2,3,"3,679",9.4,8.7,8.8,8.7,8.2,8.2,8.6,1.2,250,11,6.0,2,False
+The Kitano  New York,New-York,"1,020",8.5,4,482,9.4,9.1,9.1,9.1,8.0,8.4,7.5,"1,000",350,10,6.0,4,False
+New York Marriott Marquis,New-York,"1,731",8.2,5,"1,711",9.5,8.7,8.3,8.7,7.6,8.4,,1.2,300,10,6.0,3,False
+Pod Times Square,New-York,"1,557",8.1,4,"12,491",9.3,8.2,8.4,8.3,7.9,8.1,8.6,1.3,300,10,5.0,2,True
+The Belvedere ,New-York,933,8.0,4,"3,498",9.4,8.4,8.5,8.4,7.9,7.8,8.9,950,200,10,5.0,2,False
+MADE ,New-York,"1,216",8.7,4,"1,108",9.1,9.0,9.4,9.0,8.1,8.6,8.6,1.3,150,10,4.0,9,True
+Fairfield Inn by Marriott New York Manhattan/Financial District,New-York,759,7.5,3,"2,306",8.6,7.9,8.2,8.0,7.5,7.5,8.3,800,300,14,7.0,5,False
+SpringHill Suites by Marriott New York Manhattan/Times Square South,New-York,"1,245",8.0,3,"3,963",8.7,8.5,8.9,8.5,8.0,8.1,8.8,1.5,200,11,7.0,1,False
+Park Central,New-York,"1,106",7.6,4,"2,538",9.4,8.0,8.0,8.1,7.4,7.5,8.2,1.4,150,9,9.0,6,False
+DoubleTree by Hilton New York Times Square South,New-York,964,7.8,4,"4,232",8.7,8.3,8.4,8.3,7.8,7.8,,1.4,200,10,4.0,1,True
+SpringHill Suites by Marriott New York Manhattan Chelsea,New-York,"1,183",8.1,4,"3,001",9.3,8.5,8.9,8.5,7.9,8.1,8.7,1.1,100,11,5.0,1,False
+" Shocard Broadway, Times Square",New-York,936,7.6,3,"1,101",9.5,8.1,8.9,8.1,7.7,7.4,9.0,1.2,50,10,3.0,5,False
+Fairfield Inn & Suites by Marriott New York Manhattan/Central Park,New-York,"1,004",8.0,3,"1,029",8.6,8.2,9.0,8.3,7.8,7.9,8.1,1.4,700,10,6.0,3,False
+Millennium Hilton New York One UN Plaza,New-York,"1,088",7.8,4,"2,187",8.7,8.2,8.2,8.3,7.7,7.9,,1.3,650,9,5.0,1,False
+Arlo NoMad,New-York,921,8.1,4,"2,379",9.0,8.5,8.7,8.6,7.8,8.2,8.1,1.5,250,10,6.0,2,False
+SpringHill Suites by Marriott New York Midtown Manhattan/Fifth Avenue,New-York,"1,033",8.4,3,234,9.5,8.7,8.9,8.8,8.2,8.3,8.1,1.1,300,10,7.0,1,False
+DoubleTree by Hilton - Chelsea,New-York,964,7.3,3,"1,251",8.8,7.7,8.2,7.7,7.3,7.1,8.5,1.2,150,11,7.0,1,True
+Hyatt Place New York/Midtown-South,New-York,"1,725",8.2,4,"2,314",9.4,8.3,8.7,8.4,8.2,8.0,8.0,1.2,200,10,7.0,3,True
+The Knickerbocker,New-York,"1,717",8.4,5,"1,294",9.4,8.9,8.7,9.0,7.7,8.4,8.9,"1,000",100,10,9.0,11,True
+"The New Yorker, A Wyndham ",New-York,"1,245",7.7,4,"8,686",9.3,8.0,8.3,8.1,7.5,7.5,8.3,1.4,50,11,5.0,5,True
+WestHouse  New York,New-York,"1,063",8.1,5,699,9.5,8.6,8.8,8.6,7.7,8.2,8.6,1.4,150,9,9.0,8,True
+The Time New York,New-York,966,7.5,4,"1,220",9.3,7.9,8.4,8.0,7.1,7.4,8.0,1.4,150,10,6.0,7,True
+Hilton Garden Inn West 35th Street,New-York,"1,150",8.3,3,"2,525",9.5,8.6,8.8,8.7,7.8,8.1,8.3,1.1,150,10,6.0,4,True
+Residence Inn by Marriott New York Manhattan/Times Square,New-York,"1,280",8.1,4,"2,990",9.6,8.2,8.7,8.3,7.7,7.8,7.9,900,250,10,7.0,8,True
+La Quinta by Wyndham Time Square South,New-York,873,8.1,3,"1,999",9.0,8.3,8.8,8.4,7.9,8.1,8.6,1.4,350,10,7.0,5,True
+Aliz  Times Square,New-York,871,7.9,4,"3,602",8.6,8.3,8.1,8.4,7.7,8.0,8.5,1.3,200,10,4.0,3,True
+The Muse New York,New-York,"1,245",8.1,4,787,9.1,8.5,8.8,8.8,7.7,8.0,,950,300,10,3.0,4,True
+Courtyard by Marriott Times Square West,New-York,"1,210",8.2,4,"1,798",8.7,8.6,8.6,8.6,8.0,8.2,8.4,1.4,250,10,6.0,2,True
+Concorde  New York,New-York,"1,149",8.6,4,"1,352",9.2,9.1,9.0,9.2,8.4,8.5,8.7,1.1,200,8,4.0,2,False
+The Manhattan at Times Square,New-York,799,5.7,4,"3,939",8.9,6.1,7.0,6.2,5.9,5.6,,950,100,9,9.0,9,True
+Element Times Square West,New-York,"1,089",7.6,4,"5,718",8.8,7.7,8.1,7.8,7.7,7.6,8.3,1.3,250,10,6.0,2,True
+Ink 48 ,New-York,970,7.9,4,"1,268",8.2,8.5,8.3,8.6,7.6,8.1,7.5,1.6,850,11,9.0,2,True
+Hilton Club The Quin New York,New-York,"1,595",8.3,5,862,9.5,8.9,8.9,9.1,7.7,8.2,8.2,1.3,50,9,6.0,2,False
+ Beacon,New-York,"1,133",8.7,4,"1,415",9.6,9.1,9.2,9.0,8.2,8.5,8.4,1.4,200,9,5.0,4,False
+Hampton Inn Manhattan-35th St Empire State Bldg,New-York,"1,214",8.2,3,"3,291",9.5,8.4,9.1,8.4,8.2,8.1,8.6,1.1,150,10,6.0,2,True
+Pestana Park Avenue,New-York,"1,106",8.5,4,833,9.4,9.0,9.0,9.0,8.2,8.5,8.8,1.2,250,9,6.0,3,True
+YOTEL New York Times Square,New-York,751,7.1,4,"3,799",8.6,7.6,7.7,7.7,6.9,7.2,7.6,1.5,550,11,8.0,5,False
+Hyatt Grand Central New York,New-York,"1,120",7.3,4,"1,320",9.1,7.8,7.8,7.9,6.9,7.3,7.3,1.2,30,9,6.0,3,False
+The Manhattan Club,New-York,"1,297",8.1,4,"1,759",9.5,8.5,8.6,8.6,7.8,7.9,7.9,800,100,9,7.0,2,False
+Graduate Roosevelt Island,New-York,933,8.5,4,"1,984",9.2,8.8,8.5,8.8,8.0,8.7,8.7,1.9,400,7,9.0,2,True
+Hilton Garden Inn New York Times Square North,New-York,"1,235",7.8,4,"2,597",9.3,8.1,8.3,8.2,7.7,7.7,8.2,"1,000",300,9,5.0,4,False
+W New York - Times Square,New-York,"1,502",7.7,4,902,9.3,8.1,8.5,8.2,7.1,7.7,6.5,1.2,200,10,7.0,1,True
+"Holiday Inn Express - Times Square South, an IHG ",New-York,885,7.7,3,"3,297",9.3,7.8,8.3,7.8,7.7,7.6,8.6,1.2,200,10,4.0,4,True
+Hilton New York Times Square,New-York,"1,315",8.1,4,36,9.6,9.6,8.7,8.9,8.1,7.9,9.4,1.2,100,10,6.0,3,True
+"Club Quarters  World Trade Center, New York",New-York,777,8.2,4,"2,545",9.3,8.4,8.6,8.4,8.1,8.2,8.0,1.7,200,14,3.0,4,True
+Walker  Greenwich Village,New-York,"1,578",8.4,4,855,9.5,8.6,9.2,8.6,8.0,8.3,9.2,1.5,100,11,4.0,5,True
+Renaissance New York Chelsea ,New-York,"1,245",7.8,4,514,8.8,8.5,8.3,8.5,7.5,8.0,7.7,1.2,150,11,6.0,1,False
+Sheraton Tribeca New York ,New-York,"1,037",7.6,4,"2,465",8.5,8.1,8.1,8.2,7.6,7.5,8.1,1.2,250,13,5.0,3,True
+Citadines Connect Fifth Avenue New York,New-York,"1,072",7.8,3,"3,254",9.4,8.2,8.5,8.2,7.8,7.7,8.2,950,250,9,5.0,2,True
+Sheraton New York Times Square ,New-York,"1,176",7.4,4,955,9.2,7.8,7.8,8.0,6.9,7.5,7.6,950,50,9,7.0,1,True
+LUMA  - Times Square,New-York,"1,717",9.0,4,"2,013",9.7,9.3,9.4,9.4,8.4,9.0,9.1,900,150,10,6.0,1,False
+"InterContinental New York Times Square, an IHG ",New-York,"1,384",8.1,4,"1,394",9.0,8.6,8.4,8.6,7.7,8.2,8.3,1.1,150,10,7.0,8,True
+Iroquois New York Times Square,New-York,"1,349",8.2,5,"1,650",9.5,8.7,9.0,8.8,7.8,8.0,8.0,750,200,10,3.0,11,True
+Casablanca  by Library Hotel Collection,New-York,"1,418",9.2,4,56,9.8,9.5,9.8,9.4,8.9,9.0,8.8,900,200,10,5.0,10,False
+Omni Berkshire Place,New-York,"1,324",8.8,4,497,9.6,9.1,9.2,9.2,8.1,8.5,8.2,1.2,150,9,8.0,1,True
+Hilton Club New York,New-York,"1,500",8.4,4,100,9.6,8.9,8.6,8.9,8.0,8.4,6.7,900,250,9,8.0,2,False
+Dylan  NYC,New-York,940,7.8,4,"2,375",9.4,8.0,8.8,8.1,7.8,7.5,8.3,1.2,150,9,9.0,2,True
+Arlo SoHo,New-York,"1,046",8.0,4,"2,461",8.8,8.4,8.7,8.4,7.8,8.2,8.5,1.4,250,13,5.0,13,False
+"Le Meridien New York, Central Park by Marriott",New-York,"1,592",7.2,5,471,9.2,7.7,8.4,7.8,7.0,7.2,7.9,1.3,100,9,7.0,1,True
+Sofitel New York,New-York,"2,008",7.5,4,523,9.2,8.4,8.3,8.4,6.8,7.1,,750,200,10,6.0,20,True
+Hilton Garden Inn New York - Times Square Central,New-York,"1,033",7.6,3,"1,511",9.3,8.1,8.1,8.2,7.4,7.7,8.5,900,150,10,7.0,1,True
+OYO Times Square,New-York,877,6.9,4,"1,036",9.1,7.3,8.3,7.4,6.8,6.8,7.0,1.1,150,10,9.0,2,True
+Hampton Inn Manhattan - Times Square South,New-York,847,6.5,3,"1,525",8.4,6.8,7.5,6.9,6.5,6.5,7.9,1.4,300,10,6.0,2,True
+Hilton Garden Inn New York/Midtown Park Avenue,New-York,"1,085",8.0,3,781,9.0,8.2,8.6,8.2,7.7,7.9,8.3,1.4,50,10,5.0,2,False
+Artezen ,New-York,"1,027",9.0,4,885,9.3,9.4,9.5,9.4,8.9,9.1,9.4,1.3,100,14,7.0,2,False
+Fairfield Inn & Suites by Marriott New York Manhattan/Times Square South,New-York,"1,245",8.0,3,"5,128",8.5,8.5,8.7,8.5,8.1,8.1,8.4,1.5,200,11,6.0,1,False
+Hyatt Herald Square New York,New-York,949,8.0,4,806,8.9,8.4,8.9,8.5,8.1,8.1,8.2,1.5,200,10,7.0,4,True
+Ace  New York,New-York,933,7.9,4,"1,033",9.1,8.3,8.8,8.3,7.3,7.9,8.7,1.3,50,10,4.0,1,True
+The Shelburne Sonesta New York,New-York,768,7.8,4,"1,150",8.9,8.4,8.4,8.4,7.6,7.7,,1.2,400,9,9.0,2,True
+Executive  Le Soleil New York,New-York,"1,418",8.2,4,"2,395",9.3,8.4,8.9,8.5,7.9,8.2,8.3,1.2,200,10,4.0,5,True
+Arthouse ,New-York,"1,176",7.9,4,890,9.1,8.4,8.4,8.4,7.3,8.0,8.1,1.5,200,9,9.0,7,True
+The Evelyn NoMad,New-York,"1,418",7.7,5,"2,642",9.2,8.1,8.3,8.3,7.5,7.7,8.2,1.3,200,10,4.0,13,True
+The Benjamin Royal Sonesta New York,New-York,"1,049",7.6,5,598,9.0,8.2,8.4,8.3,7.4,7.3,,1.5,50,9,9.0,3,True
+Hyatt Centric Midtown 5th Avenue New York,New-York,"1,089",7.8,4,199,9.0,8.3,8.4,8.3,7.6,7.9,9.4,900,300,10,3.0,1,False
+Pod 39,New-York,"1,210",8.0,3,"5,757",9.3,8.4,8.5,8.4,7.8,8.0,8.2,1.1,300,9,4.0,6,True
+Park Lane New York,New-York,"1,529",8.4,5,"1,485",9.7,8.7,8.7,8.9,7.6,8.3,8.8,1.2,200,9,9.0,2,True
+Royalton Park Avenue,New-York,"1,339",8.2,5,881,9.0,8.7,8.8,8.8,7.6,8.3,8.6,1.7,50,10,9.0,8,True
+JW Marriott Essex House New York,New-York,"1,963",8.2,5,274,9.5,8.5,8.7,8.6,7.2,8.1,,900,150,9,7.0,6,True
+Moxy NYC Chelsea,New-York,"1,644",8.3,4,"3,744",9.1,8.6,8.7,8.7,8.1,8.4,8.9,1.2,200,11,6.0,1,True
+Conrad New York Midtown,New-York,"2,074",8.3,5,154,9.3,8.9,8.6,8.9,7.5,8.5,8.3,850,100,9,8.0,1,True
+City Club ,New-York,"1,058",7.3,4,"1,171",9.2,7.9,8.3,8.0,7.5,7.3,,750,200,10,3.0,4,True
+6 Columbus Central Park ,New-York,954,6.9,4,206,8.9,7.6,7.8,7.5,6.8,7.1,7.9,800,150,9,4.0,6,True
+Pod 51,New-York,"1,002",7.8,3,"7,016",9.1,7.9,8.4,7.9,7.6,7.7,8.4,1.3,250,8,3.0,2,True
+Iberostar 70 Park Avenue,New-York,"1,014",8.3,4,437,9.5,8.8,9.2,8.7,8.0,8.0,8.4,950,300,9,3.0,4,True
+"Crowne Plaza HY36 Midtown Manhattan, an IHG ",New-York,"1,141",8.4,4,601,8.7,9.0,9.3,9.0,8.0,8.6,8.1,1.5,150,11,7.0,4,True
+Millennium  Broadway Times Square,New-York,"1,186",7.0,4,"5,735",9.2,7.3,8.0,7.4,7.1,7.0,7.8,950,250,10,3.0,5,True
+Hilton Garden Inn New York Manhattan Midtown East,New-York,"1,061",7.6,3,"1,202",9.0,7.9,8.2,8.0,7.4,7.6,8.4,1.3,200,8,4.0,5,True
+" 50 Bowery, part of JdV by Hyatt",New-York,"1,314",8.6,4,862,8.8,9.1,9.0,9.2,8.5,8.7,8.8,1.3,350,12,7.0,3,True
+Hilton Garden Inn NYC Financial Center/Manhattan Downtown,New-York,"1,029",8.4,3,"2,633",9.1,8.8,8.9,8.8,8.2,8.4,8.5,900,100,14,6.0,1,False
+Hampton Inn Seaport Financial District,New-York,831,8.0,3,"1,201",8.8,8.2,8.9,8.2,7.9,7.8,,950,450,13,7.0,2,False
+"The Langham, New York, Fifth Avenue",New-York,"2,871",9.1,5,283,9.4,9.5,9.6,9.4,8.1,9.1,9.8,1.1,400,10,5.0,4,True
+The Wallace ,New-York,"1,164",9.3,5,775,9.4,9.8,9.6,9.7,8.8,9.2,9.1,1.5,250,9,4.0,2,True
+"Martinique New York on Broadway, Curio Collection by Hilton",New-York,"1,182",8.2,4,736,9.2,8.7,8.5,8.7,7.7,8.2,8.3,1.4,100,10,9.0,2,True
+Courtyard New York Manhattan/Midtown West,New-York,"1,217",8.6,4,"2,219",9.1,9.0,8.8,9.1,8.5,8.8,9.0,1.4,300,11,6.0,4,True
+ModernHaus SoHo,New-York,"1,535",8.4,5,424,9.2,8.9,9.0,8.9,7.6,8.5,8.3,1.4,150,13,10.0,2,True
+Moxy NYC Downtown,New-York,840,8.3,4,534,9.0,8.7,8.7,8.5,8.0,8.5,7.6,1.2,50,13,6.0,4,False
+"Marriott Vacation Club Pulse, New York City",New-York,"1,384",8.9,4,86,9.6,9.3,9.4,9.3,8.4,8.8,,1.1,300,10,7.0,2,False
+The Tuscany Powered by LuxUrban,New-York,"1,387",8.8,4,54,9.7,8.9,9.0,9.2,9.0,8.7,,950,250,9,4.0,2,False
+ 57,New-York,"1,193",7.7,4,442,9.1,8.2,8.6,8.2,7.4,7.7,7.7,1.2,250,8,9.0,1,True
+Courtyard by Marriott New York Manhattan/Chelsea,New-York,"1,280",8.4,4,709,9.2,8.8,8.6,8.8,8.0,8.3,,1.2,200,10,7.0,5,False
+Cambria  New York - Chelsea,New-York,958,8.0,4,"2,535",9.1,8.1,8.9,8.1,8.0,7.9,9.0,1.2,150,11,7.0,3,False
+DoubleTree by Hilton New York Downtown,New-York,707,7.2,4,"3,252",8.7,7.8,7.8,7.8,7.3,7.2,9.2,800,50,14,7.0,2,True
+The James New York - NoMad,New-York,"1,339",8.1,4,456,9.2,8.5,8.7,8.6,7.5,8.1,8.8,1.7,200,10,9.0,6,True
+Hilton Garden Inn New York/Manhattan-Chelsea,New-York,"1,356",8.1,3,"2,752",9.0,8.4,8.6,8.4,8.0,8.0,8.7,1.2,200,11,8.0,5,True
+World Center ,New-York,777,8.3,4,"3,103",9.3,8.5,8.7,8.5,8.1,8.3,7.9,1.7,200,14,4.0,2,False
+The Frederick  Tribeca,New-York,970,7.8,5,"1,440",9.2,8.3,8.7,8.4,7.5,7.8,7.5,650,30,13,6.0,12,True
+Hampton Inn Times Square Central,New-York,"1,283",8.2,3,"2,262",9.4,8.4,8.6,8.4,8.0,8.2,7.7,950,100,10,5.0,4,False
+"EVEN Midtown East - Grand Central, an IHG ",New-York,"1,072",8.3,4,884,9.3,8.8,8.5,8.8,8.1,8.4,8.7,1.2,350,9,7.0,4,True
+ Boutique at Grand Central,New-York,936,7.8,4,"1,521",9.2,8.1,8.5,8.1,7.7,7.8,8.7,"1,000",250,9,4.0,2,True
+Freehand New York,New-York,902,8.0,4,"1,229",9.1,8.5,8.5,8.4,7.7,8.0,8.4,1.5,200,10,4.0,3,True
+The Westin New York at Times Square,New-York,"1,314",7.9,5,731,9.1,8.2,8.2,8.3,7.4,8.0,,1.1,50,10,7.0,1,True
+"The Algonquin  Times Square, Autograph Collection",New-York,"1,384",7.7,4,80,9.4,8.5,8.8,8.3,7.2,7.3,9.1,900,200,10,9.0,4,True
+The  at Fifth Avenue,New-York,"1,037",7.1,3,"1,831",9.0,7.6,7.8,7.6,7.2,6.9,7.9,1.4,200,10,5.0,1,False
+SIXTY SoHo,New-York,"1,869",8.3,5,734,9.5,8.7,8.7,8.8,7.8,8.4,8.2,1.5,200,12,5.0,5,False
+Warwick New York,New-York,"1,717",7.9,4,"4,520",9.5,8.2,8.3,8.3,7.8,7.6,8.5,1.1,200,9,9.0,3,False
+Hilton Club West 57th Street New York,New-York,"1,182",8.5,4,69,9.5,9.2,9.1,9.3,7.9,8.6,9.0,1.3,50,9,6.0,2,False
+"Candlewood Suites NYC -Times Square, an IHG ",New-York,749,7.6,3,"1,447",8.7,7.7,8.1,7.9,7.5,7.6,8.0,1.4,300,10,4.0,2,True
+Hampton Inn Madison Square Garden,New-York,996,7.5,3,"1,179",9.1,7.8,8.2,7.9,7.5,7.4,8.5,1.3,150,10,8.0,2,True
+TRYP by Wyndham New York City Times Square - Midtown,New-York,793,7.0,4,"2,400",8.4,7.6,7.4,7.7,7.3,7.2,7.3,1.5,200,11,5.0,7,True
+"Holiday Inn Express New York City Chelsea, an IHG ",New-York,"1,092",7.9,3,"3,017",8.9,8.0,8.8,8.1,7.8,7.8,8.5,1.2,150,11,4.0,3,True
+W New York - Union Square,New-York,"1,620",7.6,5,162,9.1,8.4,8.5,8.3,7.0,7.3,,1.4,250,11,7.0,3,True
+" Indigo NYC Financial District, an IHG Hotel",New-York,"1,183",8.1,3,10,9.0,8.3,8.5,8.5,8.5,7.8,,600,30,14,4.0,1,True
+Renaissance New York Times Square ,New-York,"1,904",8.5,4,"1,267",9.5,8.8,8.8,8.9,7.9,8.4,,1.2,100,10,7.0,3,True
+"Blue Angel  NYC, Ascend Hotel Collection",New-York,830,8.7,3,590,9.4,9.1,9.5,9.0,8.7,8.6,8.7,1.3,150,8,4.0,3,False
+Courtyard New York Manhattan/Upper East Side,New-York,"1,106",7.8,3,751,8.5,8.4,8.3,8.4,7.8,7.8,7.8,2.6,550,6,9.0,6,False
+The Renwick,New-York,"1,141",8.2,4,954,9.4,8.6,8.8,8.7,7.9,7.9,8.6,900,150,9,7.0,5,True
+NoMo SoHo,New-York,"1,244",7.3,4,522,9.2,7.8,7.6,7.9,6.7,7.1,7.4,1.4,150,12,9.0,8,True
+The Allen ,New-York,841,8.0,4,"1,331",8.6,8.4,8.6,8.4,8.1,8.2,8.6,1.6,250,12,4.0,3,False
+Four Points by Sheraton Manhattan Midtown West,New-York,"1,127",8.1,4,"2,041",8.7,8.4,8.6,8.4,8.0,8.1,8.3,1.3,300,11,7.0,3,True
+Shoreham ,New-York,"1,002",7.3,4,"1,248",9.5,7.6,8.1,7.8,7.4,6.8,7.0,1.2,200,9,5.0,3,True
+1  Central Park,New-York,"2,077",8.4,5,514,9.5,8.9,9.0,9.0,7.7,8.7,9.3,1.3,100,9,6.0,4,True
+"Holiday Inn Manhattan Financial District, an IHG ",New-York,952,7.9,4,"7,192",9.1,8.0,8.4,8.1,8.1,7.7,8.7,1.6,100,14,6.0,5,False
+Hilton Club The Central at 5th New York,New-York,"1,589",8.2,4,44,9.3,8.9,9.0,8.9,7.6,8.6,2.5,1.2,400,9,6.0,1,False
+Paramount  Times Square,New-York,933,6.5,4,"2,288",9.1,7.0,7.8,7.1,6.2,6.4,7.8,1.3,350,10,9.0,2,True
+Best Western Plus Hospitality House Suites,New-York,"1,129",8.3,3,685,9.3,8.5,8.9,8.6,8.2,8.1,8.6,1.4,150,9,8.0,9,False
+Eurostars Wall Street,New-York,694,7.6,4,522,8.9,7.8,8.8,7.8,7.5,7.3,7.5,850,300,14,6.0,2,False
+Four Points by Sheraton New York Downtown,New-York,881,7.3,3,"2,157",8.4,7.6,8.2,7.7,7.3,7.3,7.9,700,250,14,6.0,1,False
+The Peninsula New York,New-York,"2,934",8.8,5,565,9.7,9.2,9.3,9.3,7.8,8.7,9.4,1.2,150,9,3.0,9,True
+Cachet Boutique  NYC,New-York,885,6.6,4,900,8.3,7.0,7.8,7.0,6.6,6.5,7.5,1.6,600,11,4.0,4,True
+Fairfield Inn & Suites By Marriott New York Manhattan/Times Square,New-York,"1,210",7.6,4,"4,724",8.6,7.9,8.5,8.0,7.7,7.6,8.1,1.3,250,10,7.0,2,True
+ St. James,New-York,"1,002",7.9,2,"1,424",9.7,8.1,9.2,8.1,8.1,7.3,8.4,850,300,10,3.0,6,False
+"EVEN  New York Times Square South, an IHG Hotel",New-York,980,8.5,4,350,8.9,9.1,9.2,9.0,8.4,8.7,,1.5,150,11,6.0,3,True
+Dream Downtown,New-York,"1,561",7.1,4,655,8.9,7.8,7.7,7.9,6.7,7.2,8.2,1.2,250,12,4.0,2,True
+Courtyard New York Downtown Manhattan/Financial District,New-York,790,7.2,3,474,8.4,7.7,7.9,7.7,7.1,7.5,7.8,700,250,14,6.0,1,False
+The Blakely by LuxUrban,New-York,748,7.8,0,"2,039",9.6,8.2,8.5,8.4,8.4,7.5,6.7,1.4,200,9,2.0,1,True
+Hyatt Centric Wall Street New York,New-York,"1,216",8.4,4,241,8.8,8.9,8.9,8.7,8.0,8.5,7.7,750,200,14,6.0,1,True
+Hampton Inn Manhattan Grand Central,New-York,"1,085",7.6,3,"1,483",8.9,7.9,8.4,7.9,7.7,7.5,8.1,1.2,400,9,7.0,3,False
+Nolitan  SoHo - New York,New-York,"1,056",7.9,4,"1,140",9.0,8.4,8.6,8.5,7.9,7.9,7.6,1.8,150,12,3.0,3,True
+Soho Grand ,New-York,"1,651",8.3,4,"1,199",9.3,8.8,8.4,8.9,7.8,8.4,7.2,1.3,200,13,6.0,3,True
+Millennium Downtown New York,New-York,"1,233",7.4,4,"3,563",9.1,7.8,7.8,7.8,7.3,7.2,7.7,1.5,50,14,9.0,4,True
+The Fifty Sonesta Select New York,New-York,920,8.0,4,762,9.0,8.4,8.5,8.3,7.8,8.0,10,1.5,150,9,10.0,4,True
+Andaz 5th Avenue-a concept by Hyatt,New-York,"2,290",8.5,4,108,9.5,8.7,8.9,9.0,7.8,8.4,8.3,1.1,150,10,7.0,12,True
+"Park South , part of JdV by Hyatt",New-York,"1,305",8.5,4,186,9.1,8.9,9.3,8.8,7.7,8.4,,1.3,100,10,5.0,2,False
+Gild Hall - A Thompson ,New-York,"1,282",8.5,4,246,9.0,9.0,9.2,9.0,8.5,8.6,8.6,750,200,14,6.0,4,True
+"Kimpton  Eventi, an IHG Hotel",New-York,"1,464",8.3,5,493,9.2,8.9,8.6,8.9,7.8,8.4,9.1,1.3,200,10,5.0,2,
+Four Seasons  New York Downtown,New-York,"3,104",8.9,5,92,9.1,9.4,9.3,9.5,8.1,9.1,7.5,1.5,30,13,7.0,1,True
+Walker  Tribeca,New-York,"1,270",8.2,4,"1,277",9.1,8.5,8.8,8.5,7.9,8.2,8.0,1.2,100,13,4.0,6,True
+"The Bernic  New York City,Tapestry Collection by Hilton",New-York,986,8.2,4,"1,216",8.8,8.6,8.8,8.6,8.0,8.2,8.3,1.3,300,9,4.0,2,True
+AC  by Marriott New York Times Square,New-York,"1,401",8.3,4,698,8.9,8.6,8.6,8.6,8.0,8.5,8.2,1.2,200,10,5.0,3,False
+"The Lexington , Autograph Collection",New-York,"1,245",7.9,4,367,8.9,8.3,8.6,8.2,7.3,7.8,7.9,1.3,250,9,7.0,3,True
+Four Points by Sheraton Manhattan SoHo Village,New-York,933,7.6,3,760,8.8,7.8,8.6,7.9,7.7,7.5,8.8,1.7,200,12,7.0,1,False
+"Distrikt  New York City, Tapestry Collection by Hilton",New-York,898,7.6,4,257,8.6,8.2,8.3,8.1,7.5,7.7,8.6,1.2,250,10,4.0,2,False
+Trump International New York,New-York,"2,600",8.9,5,917,9.7,9.2,9.2,9.3,8.1,8.9,9.1,900,100,9,5.0,5,True
+Residence Inn New York Downtown Manhattan/Financial District,New-York,822,7.5,4,280,8.4,8.1,8.1,8.1,7.4,7.9,8.8,700,250,14,6.0,1,True
+"voco Times Square South, an IHG ",New-York,975,7.6,4,"1,305",8.6,8.0,7.9,8.1,7.6,7.8,,1.5,250,11,7.0,2,True
+Lex  NYC,New-York,852,8.1,3,545,8.9,8.4,9.4,8.4,8.0,7.9,8.7,1.4,250,10,5.0,2,True
+Carnegie ,New-York,"1,141",8.6,4,976,9.6,9.2,9.3,9.1,8.1,8.5,8.9,1.4,100,9,5.0,2,False
+The Ludlow ,New-York,"1,453",8.8,4,928,9.2,9.3,9.2,9.3,8.1,9.0,9.2,2,350,11,5.0,2,True
+Hampton Inn Manhattan/Downtown- Financial District,New-York,818,7.6,3,652,8.6,8.2,8.5,8.1,7.7,7.8,8.0,850,50,14,7.0,1,True
+"The Beekman, a Thompson ",New-York,"1,655",8.6,5,249,8.9,9.1,8.9,9.3,7.9,8.9,9.2,600,150,13,6.0,8,True
+Conrad New York Downtown,New-York,"1,488",9.2,5,448,9.4,9.6,9.4,9.6,8.4,9.3,8.9,2.1,450,14,8.0,6,True
+Wyndham Garden Chinatown,New-York,"1,037",7.6,4,599,8.5,8.0,8.5,8.2,7.6,7.6,7.4,1.4,200,12,5.0,6,True
+Roxy  New York,New-York,"1,488",8.5,4,974,9.3,8.9,8.7,9.0,8.1,8.7,7.8,"1,000",150,13,5.0,2,
+The Marmara Park Avenue,New-York,"1,453",7.9,5,268,8.7,8.6,8.3,8.5,7.6,8.1,7.9,1.5,100,10,4.0,3,True
+Renaissance New York Midtown ,New-York,"1,835",8.5,4,"1,039",9.2,8.9,8.8,8.9,8.0,8.6,,1.3,100,10,7.0,4,False
+Pestana CR7 Times Square,New-York,"1,214",8.0,4,"1,251",8.9,8.5,8.8,8.5,7.8,8.0,8.6,1.4,350,10,6.0,3,False
+Heritage  New York City,New-York,725,7.1,3,"1,584",9.0,7.2,8.5,7.2,7.2,6.7,8.4,1.3,200,11,6.0,3,False
+The Gardens Sonesta ES Suites New York,New-York,"1,483",8.3,4,475,9.1,8.5,9.0,8.6,7.7,8.1,8.4,1.4,250,8,11.0,2,True
+SoHo 54,New-York,898,7.0,3,"1,705",8.6,7.2,8.1,7.3,7.1,6.7,,1.4,150,13,6.0,4,False
+ Indigo Lower East Side New York,New-York,"1,384",7.7,4,772,8.8,8.4,8.2,8.4,7.5,7.8,8.0,2,350,11,5.0,6,True
+Gansevoort Meatpacking,New-York,"1,994",8.4,5,588,9.6,8.8,8.8,9.0,7.3,8.5,8.2,1.4,250,12,5.0,4,True
+Leon  LES,New-York,"1,264",8.1,3,"1,297",8.4,8.5,8.6,8.5,8.3,8.0,,1.3,250,12,4.0,3,False
+The Westin New York Grand Central,New-York,"1,349",8.0,4,510,9.2,8.5,8.1,8.6,7.7,8.2,,1.3,300,9,7.0,4,True
+AC  by Marriott New York Downtown,New-York,"1,401",8.5,4,"1,686",9.0,8.8,8.9,8.8,8.6,8.6,8.7,750,400,14,4.0,2,False
+Ameritania at Times Square,New-York,"1,065",7.7,4,"3,814",9.4,7.9,8.4,8.0,7.5,7.6,7.9,900,150,9,4.0,6,False
+Selina Chelsea,New-York,964,7.0,4,237,8.4,7.6,8.4,7.6,7.1,7.3,8.5,1.6,500,11,3.0,1,True
+Sixty LES,New-York,"1,488",7.2,4,"1,070",8.3,8.0,7.8,8.0,7.1,7.6,7.8,2,300,11,5.0,2,True
+Washington Square ,New-York,"1,043",8.2,4,553,9.6,8.5,9.0,8.6,7.8,7.9,8.7,1.3,200,12,6.0,7,False
+Aloft Manhattan Downtown - Financial District,New-York,932,7.5,4,"1,090",8.5,7.7,8.1,7.9,7.5,7.5,8.5,650,100,13,7.0,4,True
+Residence Inn by Marriott New York Downtown Manhattan/World Trade Center Area,New-York,"1,453",8.6,4,"1,000",9.2,8.9,9.1,8.9,8.2,8.6,8.7,1.4,150,14,7.0,2,True
+Aloft Harlem,New-York,995,8.1,4,724,8.6,8.4,8.8,8.4,7.8,8.2,8.5,3.5,200,8,6.0,5,True
+Four Points by Sheraton Manhattan Chelsea,New-York,"1,157",7.1,3,969,8.6,7.3,8.0,7.4,7.3,7.0,8.2,950,150,11,7.0,3,False
+ Hugo,New-York,"1,488",7.3,4,477,8.4,7.9,7.8,7.9,7.0,7.3,8.0,1.6,400,13,4.0,2,True
+ 48LEX New York,New-York,"1,279",7.3,4,356,8.6,7.8,8.1,8.0,7.0,7.3,6.9,1.3,200,9,4.0,4,True
+ Mulberry,New-York,864,8.4,3,347,8.9,9.1,9.0,9.0,8.5,8.3,9.7,1.2,450,13,4.0,2,False
+Hilton New York Fashion District,New-York,"1,262",7.3,4,681,8.6,7.8,8.2,7.9,6.9,7.3,7.0,1.3,200,11,7.0,3,False
+Canal Loft ,New-York,294,6.9,2,735,7.7,7.4,7.6,7.4,7.5,6.9,8.4,1.2,300,12,7.0,1,False
+Hilton Garden Inn New York/Tribeca,New-York,"1,179",7.6,4,462,8.9,7.8,8.3,7.9,7.4,7.4,7.9,1.2,200,13,7.0,2,False
+11 Howard,New-York,"1,592",7.4,5,335,9.0,7.8,7.8,8.2,6.8,7.3,7.2,1.4,150,12,4.0,1,True
+Millennium Premier New York Times Square,New-York,"1,203",6.9,4,"1,914",8.8,7.6,7.7,7.7,7.1,7.2,7.6,"1,000",300,10,8.0,1,True
+The  Chelsea,New-York,"1,613",9.3,3,341,9.3,9.6,9.3,9.6,8.7,9.1,10,1.1,100,11,5.0,1,True
+"The Pierre, A Taj , New York",New-York,"3,347",8.4,5,459,9.7,8.9,9.1,9.2,7.4,8.3,8.6,1.3,100,8,6.0,8,True
+"Holiday Inn Manhattan 6th Ave - Chelsea, an IHG ",New-York,"1,089",7.0,4,"5,676",8.7,7.2,8.0,7.3,7.2,6.9,8.4,1.2,250,11,5.0,2,False
+Courtyard by Marriott New York Manhattan / Soho,New-York,"1,307",7.9,4,267,9.0,8.3,8.7,8.4,7.9,8.0,8.4,1.8,100,12,7.0,1,True
+Da Vinci ,New-York,968,7.3,3,626,9.4,7.6,8.9,7.5,7.4,6.9,8.4,950,300,9,4.0,3,False
+"The Paul  NYC-Chelsea, Ascend Hotel Collection",New-York,745,6.8,4,"1,622",8.6,7.4,7.2,7.4,7.1,6.9,7.9,1.3,100,10,7.0,6,False
+Americana Inn,New-York,494,7.2,2,618,9.2,7.5,8.4,7.3,7.4,6.9,,950,300,10,4.0,2,False
+The Flat NYC,New-York,646,8.1,3,440,9.6,8.3,9.3,8.2,8.1,7.9,8.9,1.4,200,11,4.0,2,False
+Smyth Tribeca,New-York,"1,838",8.4,4,250,9.1,9.0,9.2,9.1,7.8,8.3,9.2,600,30,13,9.0,2,True
+Loews Regency New York ,New-York,"2,077",8.3,5,151,9.4,8.8,8.9,8.9,7.6,8.4,8.3,1.4,200,8,4.0,2,True
+ on Rivington,New-York,"1,235",7.4,4,416,8.5,7.9,8.3,7.8,6.9,7.2,7.1,1.8,150,12,9.0,2,False
+Radio City Apartments,New-York,"1,124",8.5,3,"3,758",9.6,8.6,8.8,8.6,8.5,8.3,8.8,1.2,100,10,5.0,2,
+Courtyard New York Manhattan/Midtown East,New-York,"1,384",8.2,4,"1,071",9.2,8.5,8.6,8.5,7.9,8.0,8.7,1.3,100,8,7.0,2,False
+Henn na  New York,New-York,"1,150",8.5,4,"1,431",9.3,9.0,8.8,9.0,8.3,8.3,8.6,1.3,150,10,5.0,4,False
+The Maritime ,New-York,"1,280",8.8,4,525,9.6,9.1,9.3,9.2,8.4,8.6,8.7,1.3,300,12,6.0,1,True
+INNSIDE by Melià New York Nomad,New-York,"1,280",8.3,4,648,9.0,8.7,8.9,8.7,7.8,8.5,8.6,1.2,150,11,6.0,2,True
+The Marlton ,New-York,"1,314",8.3,4,655,9.6,8.8,8.6,8.6,7.7,8.3,9.3,1.2,300,12,5.0,3,True
+"Holiday Inn New York City - Times Square, an IHG ",New-York,"1,249",7.5,3,"1,839",8.6,8.0,8.3,8.0,7.7,7.6,10,1.3,250,10,7.0,3,False
+"Holiday Inn Wall Street, an IHG ",New-York,853,6.9,3,417,8.5,7.5,7.9,7.5,7.0,6.9,7.0,550,200,14,5.0,1,False
+Sanctuary  New York,New-York,"1,028",7.9,4,745,9.5,8.4,8.8,8.4,7.7,7.8,7.9,1.1,200,10,4.0,7,True
+The Mercer,New-York,"2,757",8.3,5,112,9.7,8.9,8.9,8.8,7.2,8.1,8.3,1.9,100,12,5.0,3,True
+Sohotel,New-York,"1,092",7.9,4,895,8.9,8.1,8.6,8.3,7.5,7.7,,1.7,100,12,5.0,7,False
+New York Marriott Downtown,New-York,"1,630",8.3,4,527,9.1,8.8,8.5,8.7,8.2,8.4,6.2,1.7,250,14,7.0,5,False
+Hyatt Centric Times Square New York,New-York,"1,495",8.5,4,743,9.5,9.0,8.8,9.0,7.7,8.5,8.6,950,300,10,7.0,5,False
+Fitzpatrick Grand Central,New-York,"1,276",8.2,4,402,9.4,8.7,9.2,8.6,7.9,8.0,,1.1,200,9,3.0,1,False
+The Whitby ,New-York,"3,797",9.3,5,134,9.5,9.8,9.4,9.8,8.4,9.5,9.5,1.2,200,9,6.0,2,
+"The Standard, High Line New York",New-York,"1,869",8.1,4,"1,811",9.3,8.6,8.4,8.7,7.4,8.2,7.7,1.6,450,12,5.0,2,
+Hilton Garden Inn New York Central Park South-Midtown West,New-York,"1,261",7.1,4,"5,368",9.0,7.5,7.6,7.6,7.0,7.1,6.9,800,150,9,7.0,3,True
+"Holiday Inn Express - Times Square, an IHG ",New-York,750,6.5,3,"2,636",8.4,6.7,7.7,6.8,6.5,6.5,7.6,1.1,300,10,4.0,2,False
+Bryant Park ,New-York,"1,439",8.7,4,821,9.8,9.1,9.1,9.1,8.1,8.4,9.0,800,150,10,3.0,5,False
+Moderne ,New-York,964,7.9,4,543,9.5,8.0,8.8,8.2,7.8,7.6,8.3,850,250,9,3.0,5,False
+Midtown Convention Center  NYC,New-York,791,5.5,3,"1,020",7.8,5.9,6.6,5.9,6.3,5.4,6.2,1.4,300,11,4.0,1,False
+The Gallivant Times Square,New-York,864,6.6,4,"4,146",9.2,6.9,7.3,7.1,6.9,6.4,6.9,1.4,200,10,6.0,4,True
+Homewood Suites Midtown Manhattan Times Square South,New-York,"1,113",8.2,3,"2,893",8.7,8.3,8.7,8.4,8.1,8.4,7.0,1.4,250,10,7.0,4,True
+Fitzpatrick Manhattan,New-York,"1,332",8.2,4,371,9.2,8.8,9.0,8.9,8.0,8.2,,1.2,250,8,3.0,1,False
+Motto by Hilton New York City Chelsea,New-York,"1,145",8.8,4,979,9.5,9.1,9.1,9.2,8.3,8.8,8.9,1.1,150,11,6.0,1,True
+Midtown West ,New-York,551,5.5,3,"1,023",8.5,5.8,6.5,5.9,6.1,5.4,6.1,1.1,150,11,4.0,2,False
+Fairfield Inn & Suites New York Manhattan/Downtown East,New-York,667,8.0,3,311,7.9,8.5,8.9,8.5,8.0,8.2,8.8,1.8,250,12,7.0,3,False
+Madison LES ,New-York,615,7.4,3,609,7.9,8.1,8.0,7.9,7.4,7.5,7.9,1.8,300,12,4.0,2,False
+The Standard - East Village,New-York,"1,453",8.2,4,520,9.2,8.6,9.0,8.5,7.5,8.2,7.6,1.5,200,11,5.0,6,True
+The St. Regis New York,New-York,"4,491",8.1,5,69,9.6,8.6,8.5,8.9,7.4,8.3,9.0,1.2,150,9,7.0,6,False
+Mandarin Oriental New York,New-York,"3,884",8.6,5,219,9.4,9.0,9.0,9.1,7.6,8.6,,950,150,9,6.0,10,True
+ 32 32,New-York,910,6.9,4,790,8.3,7.5,8.0,7.5,7.0,7.0,6.9,1.5,150,10,4.0,2,False
+Residence Inn by Marriott New York Manhattan/ Midtown Eastside,New-York,"1,904",8.4,4,388,9.1,8.8,9.0,8.8,8.1,8.4,7.9,1.4,250,9,7.0,2,True
+The Dominick ,New-York,"2,181",8.5,5,637,9.2,9.0,8.8,9.1,7.7,8.7,8.1,1.6,150,13,5.0,5,True
+Library  by Library Hotel Collection,New-York,"1,512",8.8,4,224,9.6,9.3,9.5,9.1,8.1,8.7,,1.1,150,9,5.0,3,False
+"Holiday Inn Lower East Side, an IHG ",New-York,"1,106",7.9,4,651,8.2,8.4,8.7,8.3,8.0,8.0,8.0,1.7,150,12,6.0,2,False
+The Wall Street Inn,New-York,895,8.2,3,821,9.1,8.7,8.5,8.8,8.3,8.2,7.9,750,250,14,5.0,6,False
+Doxie ,New-York,590,6.3,2,372,8.5,6.6,7.6,6.6,6.8,6.3,6.9,1.3,300,10,5.0,3,True
+The Bowery ,New-York,"2,341",8.9,5,274,9.3,9.2,9.2,9.2,7.9,8.8,9.2,1.7,250,11,5.0,4,
+New York EDITION,New-York,"3,107",8.3,5,48,9.5,9.0,8.8,9.1,6.9,8.5,,1.5,150,10,6.0,1,True
+Courtyard New York Manhattan/Times Square,New-York,"1,058",8.2,3,"1,355",9.5,8.4,8.9,8.4,7.7,8.0,8.7,900,150,10,7.0,8,True
+Moxy NYC Lower East Side,New-York,"1,384",8.0,0,34,8.8,8.6,8.6,8.7,7.5,8.5,,1.6,100,12,4.0,1,
+Hilton Garden Inn New York Times Square South,New-York,"1,187",8.1,3,"2,563",8.6,8.5,8.6,8.5,7.9,8.2,7.3,1.5,250,10,6.0,4,True
+Equinox  Hudson Yards New York City,New-York,"3,797",9.0,5,287,9.2,9.4,9.0,9.5,8.0,9.3,9.6,1.6,200,11,4.0,3,True
+NobleDEN ,New-York,"1,208",9.0,4,"1,391",9.4,9.4,9.3,9.3,8.9,9.0,8.6,1.6,300,12,5.0,5,False
+Mondrian Park Avenue,New-York,"1,349",6.5,4,"1,103",8.4,7.1,7.6,7.3,6.3,6.4,6.4,1.6,150,10,4.0,1,True
+DoubleTree by Hilton New York Midtown Fifth Ave,New-York,"1,135",6.7,4,"2,857",9.3,7.1,7.5,7.3,7.0,6.4,,950,200,9,4.0,1,False
+SpringHill Suites by Marriott New York Midtown Manhattan/Park Ave,New-York,"1,384",8.0,3,44,9.2,8.4,9.0,8.5,7.3,7.9,8.8,1.5,100,10,6.0,1,False
+Kixby,New-York,"1,097",8.5,4,109,9.2,9.0,9.1,9.0,8.2,8.4,8.9,1.1,150,10,6.0,2,False
+The Washington by LuxUrban,New-York,"1,037",8.1,4,"2,192",9.3,8.6,8.5,8.7,7.9,8.0,8.8,1.7,200,14,7.0,2,True
+The Plaza,New-York,"3,520",8.3,5,298,9.6,8.9,8.6,9.0,7.4,8.5,7.9,1.3,150,9,6.0,12,True
+ Hendricks,New-York,"1,141",7.8,4,"1,575",9.2,8.2,8.2,8.3,7.5,7.8,8.0,900,250,10,4.0,2,True
+The Ned NoMad,New-York,"2,039",6.9,5,9,8.6,7.8,6.7,8.6,5.0,7.2,8.3,1.3,30,10,5.0,3,
+San Carlos  New York,New-York,996,8.8,4,"1,389",9.4,9.1,9.4,9.2,8.5,8.6,8.7,1.5,100,9,5.0,3,False
+Radio ,New-York,850,8.3,4,318,7.3,8.9,9.0,8.9,8.3,8.6,7.8,4.5,250,10,5.0,1,True
+"Le Méridien New York, Fifth Avenue",New-York,"1,231",1.0,4,1,2.5,2.5,2.5,2.5,2.5,2.5,,1.5,250,10,5.0,1,
+ Mimosa,New-York,759,8.5,3,440,8.4,8.8,9.6,8.7,8.6,8.2,9.2,1.7,300,12,4.0,6,False
+Thompson Central Park - New York,New-York,"2,060",8.1,5,278,9.4,8.5,8.7,8.4,7.4,7.8,7.5,1.4,100,9,4.0,6,True
+Truss  Times Square,New-York,"1,037",7.3,4,107,8.4,7.9,8.8,7.8,7.1,7.2,6.6,1.2,400,11,,2,True
+Lotte New York Palace,New-York,"2,289",8.3,5,366,9.6,8.7,8.8,8.9,7.5,8.2,,1.4,250,9,6.0,7,True
+The Broome,New-York,"1,624",8.7,4,232,9.7,9.1,9.5,9.2,8.1,8.7,9.0,1.6,200,12,4.0,4,False
+Hudson River ,New-York,787,5.9,3,739,7.9,6.1,7.5,6.2,6.2,5.8,7.3,1.2,350,11,4.0,2,False
+La Quinta by Wyndham New York City Central Park,New-York,"2,668",6.6,3,"2,721",9.0,7.0,7.9,7.0,6.8,6.5,7.4,750,150,9,5.0,3,True
+ Elysee by Library Hotel Collection,New-York,"1,453",8.7,4,158,9.6,9.0,9.6,9.1,8.3,8.5,9.4,1.1,250,9,4.0,8,False
+Ramada by Wyndham New York Times Square West,New-York,"1,495",6.9,3,"2,474",8.9,7.2,7.7,7.2,7.1,6.9,7.9,1.2,250,10,3.0,2,False
+Econo Lodge Times Square,New-York,684,5.7,2,848,8.5,6.1,6.9,6.1,6.2,5.7,7.5,1.4,250,10,4.0,5,False
+The Ridge,New-York,"1,087",6.8,3,558,8.7,7.1,6.7,7.2,6.8,6.7,7.4,2,200,11,4.0,2,False
+Casamia 36 ,New-York,942,6.5,3,78,8.1,6.6,8.1,6.4,6.3,6.4,,1.3,350,11,5.0,1,False
+The Historic Blue Moon  - NYC,New-York,"1,249",7.4,0,39,8.8,8.0,7.8,8.4,7.2,7.5,10,1.6,150,12,6.0,4,True
+Best Western Plus Soho ,New-York,"1,214",9.8,3,5,10,10,10,10,9.5,10,,1.2,150,13,6.0,1,
+The Gatsby ,New-York,871,6.5,3,848,8.5,7.0,8.2,6.9,6.8,6.5,7.6,2,150,12,4.0,1,False
+Mint House at 70 Pine,New-York,"1,072",9.2,4,430,9.2,9.6,9.3,9.5,8.9,9.4,8.6,650,100,14,5.0,3,
+Executive Class at MTS ,New-York,"1,800",6.9,4,166,9.1,7.1,7.4,7.4,6.9,6.8,6.4,950,100,9,6.0,1,False
+Off SoHo Suites ,New-York,714,8.0,2,370,8.7,8.0,9.1,7.8,8.2,7.6,6.9,1.9,150,12,4.0,2,False
+ Giraffe by Library Hotel Collection,New-York,"1,751",8.9,4,221,9.4,9.4,9.3,9.3,8.2,8.8,8.8,1.3,150,10,5.0,7,False
+Edge  Washington Heights,New-York,821,8.0,3,315,8.4,8.6,9.0,8.5,7.7,8.2,8.9,5,200,9,3.0,2,False
+Redford ,New-York,559,6.9,3,362,8.4,7.3,8.3,7.3,7.2,6.8,6.6,1.9,200,12,4.0,2,False
+Pendry Manhattan West,New-York,"2,285",8.9,5,49,9.1,9.3,9.3,9.4,7.9,9.1,9.4,1.3,400,11,9.0,4,True
+JG Sohotel,New-York,923,7.3,3,24,8.4,8.0,8.9,8.2,6.6,7.2,,1.3,150,13,7.0,2,False
+Merrion Row  and Public House,New-York,"1,550",8.7,4,391,9.4,9.0,9.2,9.0,8.2,8.7,8.3,900,300,10,6.0,1,False
+Crosby Street ,New-York,"4,040",9.4,5,185,9.8,9.7,9.5,9.7,8.2,9.6,9.0,1.8,100,12,6.0,4,True
+Orchard Street ,New-York,684,6.8,3,698,8.6,7.2,8.0,7.2,7.0,6.7,7.5,1.9,300,12,4.0,2,False
+Solita Soho ,New-York,734,7.3,3,509,8.8,7.3,8.7,7.5,7.4,7.1,8.4,1.5,250,12,6.0,5,False
+Baccarat  and Residences New York,New-York,"4,248",8.8,5,197,9.5,9.3,8.9,9.4,7.7,9.1,9.4,1.1,100,9,6.0,5,True
+ Barrière Fouquet's New York,New-York,"3,815",9.0,5,8,8.4,10,8.4,10,8.4,9.1,,1.3,300,13,4.0,4,True
+Casa Cipriani New York,New-York,"5,549",9.6,5,25,8.5,9.8,9.4,9.9,7.9,9.5,,1.1,100,14,5.0,1,False
+ Hayden New York,New-York,"1,280",6.9,4,909,8.6,7.2,7.8,7.3,6.9,6.8,7.6,1.1,100,11,4.0,3,True
+Four Points by Sheraton Midtown - Times Square,New-York,"1,210",7.8,4,"2,135",8.7,8.3,8.5,8.2,7.9,7.8,8.0,1.3,250,10,7.0,6,True
+ AKA NoMad,New-York,"1,821",8.4,4,34,9.3,8.4,9.3,8.6,8.1,8.2,,1.5,200,10,6.0,8,True
+Bentley ,New-York,"1,004",6.7,4,"2,090",7.9,7.3,7.9,7.4,6.7,6.7,7.0,1.7,450,7,4.0,6,True
+The Wall Street  New York City,New-York,"2,133",9.1,5,163,9.0,9.6,9.4,9.6,8.3,9.2,10,800,200,14,7.0,2,True
+Chelsea Inn,New-York,550,6.8,3,721,8.9,7.2,6.9,7.1,7.0,6.9,6.1,1.4,250,11,4.0,2,False
+Night  Broadway,New-York,778,6.0,3,"3,115",7.9,6.4,7.2,6.5,6.2,6.1,6.1,1.8,150,9,6.0,6,False
+ Richland LES,New-York,858,7.9,3,193,8.3,8.5,8.8,8.3,8.1,7.9,8.1,1.8,250,12,4.0,3,False
+The Sherry Netherland,New-York,"2,494",9.2,5,208,9.9,9.6,9.6,9.5,8.3,8.9,8.9,1.3,50,9,4.0,6,True
+"The Ritz-Carlton New York, Central Park",New-York,"4,144",9.0,5,60,9.7,9.4,9.5,9.3,7.8,8.9,,1.2,150,9,7.0,7,True
+"Holiday Inn Express - Wall Street, an IHG ",New-York,"1,130",6.5,3,"1,183",8.5,7.0,7.6,7.1,6.7,6.7,7.6,800,200,14,7.0,3,False
+U  Fifth Avenue I Empire State Building,New-York,"3,468",7.8,3,"1,588",9.4,8.3,8.9,8.2,7.7,7.5,,1.1,350,10,4.0,2,False
+Incentra Village ,New-York,"1,443",8.1,3,137,9.7,8.3,8.8,8.3,8.0,7.8,9.4,1.3,250,12,6.0,1,False
+Lowell ,New-York,"3,849",8.8,5,21,9.7,9.2,8.9,9.3,8.0,8.2,10,1.1,250,8,4.0,19,True
+Windsor ,New-York,698,6.2,2,724,7.9,6.3,7.7,6.3,6.8,6.1,7.4,1.6,100,12,4.0,3,False
+Nine Orchard,New-York,"2,410",9.5,4,8,9.1,9.4,9.4,9.4,7.8,9.4,,1.2,150,12,6.0,1,True
+"The Ritz-Carlton New York, NoMad",New-York,"4,491",8.6,5,7,9.6,9.2,9.2,9.6,7.9,9.2,,1.3,50,10,5.0,4,
+The Herald 8 by LuxUrban,New-York,628,7.6,0,"1,659",9.6,7.8,8.1,8.1,8.1,7.2,9.3,1.1,100,10,4.0,1,False
+The Kimberly ,New-York,"1,315",9.0,4,391,9.4,9.3,9.4,9.3,8.4,8.9,,1.5,100,9,6.0,6,False
+33 Seaport  New York,New-York,"1,708",8.7,5,298,9.1,9.1,9.2,9.2,8.3,8.7,8.9,1.1,550,13,4.0,6,True
+The Nomad Suites,New-York,"3,111",6.9,2,35,8.2,6.9,7.1,7.0,7.4,6.9,7.5,1.5,200,10,3.0,1,
+East Village ,New-York,906,7.9,3,815,8.9,8.4,7.9,8.4,8.3,7.9,8.3,1.5,400,11,3.0,2,True

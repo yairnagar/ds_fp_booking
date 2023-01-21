@@ -1,0 +1,213 @@
+Name,City,Price,Rating,Stars,Reviews,Location,Cleanliness,staff,Comfort,Value for Money,Facilities,Wifi,Closest attraction dist,Closest transportation,Closest airport,payment methods,Number of languages,Allowing pets
+The Darwin ,Atlanta,519.0,9.3,2,27.0,8.1,9.5,9.8,9.7,8.8,9.7,7.904301075268817,1.7,1.4,14.0,5.0,1.0,True
+Renaissance Concourse Atlanta Airport ,Atlanta,546.0,8.3,4,1247.0,9.0,8.8,8.8,8.9,7.8,8.5,7.904301075268817,10.0,2.1,1.8,7.0,1.0,False
+"Crowne Plaza Atlanta Midtown, an IHG ",Atlanta,649.0,6.8,4,946.0,8.0,7.5,8.1,7.6,6.8,7.2,7.3,1.1,0.15,14.0,9.0,3.0,True
+Hyatt Regency Atlanta,Atlanta,927.0,8.2,4,4356.0,8.7,8.6,8.6,8.6,8.0,8.5,8.1,0.7,0.25,14.0,7.0,1.0,False
+Atlanta Marriott Marquis,Atlanta,615.0,7.7,4,7075.0,8.5,8.2,8.3,8.2,7.8,8.1,7.904301075268817,0.75,0.3,14.0,7.0,5.0,False
+Nobu  Atlanta,Atlanta,1460.0,8.8,5,9.0,8.1,9.2,8.9,9.2,7.8,9.2,7.904301075268817,7.0,0.9,6.0,5.0,1.0,True
+"Country Inn & Suites by Radisson, Atlanta Airport North, GA",Atlanta,481.0,7.7,3,1844.0,8.3,8.1,8.5,8.1,7.9,8.0,8.4,12.0,1.9,2.5,5.0,1.0,False
+Country Inn & Suites Atlanta Downtown,Atlanta,309.0,5.4,3,1852.0,7.1,5.9,7.1,6.0,6.0,5.7,7.0,2.7,1.7,11.0,4.0,1.0,False
+Omni Atlanta  at CNN Center,Atlanta,986.0,7.9,4,1983.0,9.0,8.5,8.6,8.5,7.6,8.1,7.904301075268817,0.65,0.45,14.0,8.0,1.0,True
+"The Westin Peachtree Plaza, Atlanta",Atlanta,677.0,7.5,4,2491.0,8.6,8.1,8.3,8.2,7.4,7.9,5.0,0.65,10.0,14.0,7.0,1.0,True
+Hyatt Centric Midtown Atlanta,Atlanta,718.0,8.4,3,360.0,9.1,8.9,9.0,8.8,8.1,8.7,8.6,1.4,0.35,13.0,7.0,3.0,True
+"Holiday Inn Express & Suites - Atlanta Downtown, an IHG ",Atlanta,658.0,6.6,3,447.0,8.2,7.1,8.0,7.3,6.8,6.7,7.2,0.6,0.3,14.0,5.0,2.0,False
+"Motel 6-Atlanta, GA - Downtown",Atlanta,343.0,6.6,2,493.0,8.1,7.2,7.6,7.2,7.0,6.9,7.7,1.0,0.5,15.0,4.0,1.0,True
+"The Starling Atlanta Midtown, Curio Collection by Hilton",Atlanta,523.0,8.3,4,1624.0,9.1,8.8,8.8,8.8,8.2,8.6,7.904301075268817,2.8,0.6,13.0,10.0,1.0,True
+"Holiday Inn Express & Suites Atlanta Airport NE - Hapeville, an IHG ",Atlanta,457.0,8.5,3,463.0,8.5,9.0,8.8,9.1,8.5,8.8,8.9,9.0,4.8,3.5,7.0,1.0,False
+Loews Atlanta ,Atlanta,920.0,8.7,4,184.0,9.4,9.1,9.1,9.3,8.2,8.9,7.5,1.3,0.4,13.0,3.0,2.0,True
+"Staybridge Suites Atlanta-Buckhead, an IHG ",Atlanta,457.0,8.1,3,158.0,8.9,8.4,8.4,8.5,8.2,8.1,8.0,5.0,1.3,8.0,4.0,1.0,True
+The Westin Atlanta Airport,Atlanta,581.0,7.8,4,508.0,8.5,8.4,8.4,8.4,7.8,8.2,8.0,14.0,1.9,3.0,7.0,2.0,True
+SpringHill Suites by Marriott Atlanta Airport Gateway,Atlanta,855.0,8.4,3,213.0,9.1,8.9,8.7,8.9,8.0,8.6,8.6,13.0,1.2,2.8,7.0,1.0,False
+" Indigo Atlanta Midtown, an IHG Hotel",Atlanta,617.0,7.8,3,374.0,9.0,8.5,8.7,8.5,7.7,8.1,8.2,1.3,0.3,14.0,6.0,1.0,True
+Artmore ,Atlanta,546.0,6.5,3,416.0,8.1,7.2,7.8,7.4,6.7,6.5,7.3,1.4,0.15,13.0,4.0,1.0,True
+Embassy Suites by Hilton Atlanta Midtown,Atlanta,643.0,7.7,3,451.0,8.9,8.5,8.0,8.5,7.7,8.3,7.7,1.7,1.1,13.0,8.0,1.0,True
+Grand Hyatt Atlanta in Buckhead,Atlanta,804.0,8.6,4,453.0,9.4,9.1,9.1,9.0,8.3,9.0,8.3,6.0,0.4,7.0,6.0,2.0,True
+La Quinta by Wyndham Atlanta Airport South,Atlanta,326.0,6.8,3,1425.0,7.7,7.4,7.7,7.4,7.2,7.2,8.0,14.0,2.1,2.9,4.0,1.0,True
+"Holiday Inn Express Atlanta Airport-College Park, an IHG ",Atlanta,454.0,7.5,3,585.0,8.2,8.2,8.2,8.2,7.8,7.8,8.5,14.0,1.7,2.9,7.0,2.0,False
+"Holiday Inn & Suites Atlanta Airport North, an IHG ",Atlanta,430.0,7.1,4,844.0,8.0,7.7,7.9,7.7,7.2,7.4,7.8,10.0,1.6,2.3,6.0,2.0,True
+"Staybridge Suites Atlanta - Midtown, an IHG ",Atlanta,653.0,7.0,3,192.0,7.9,7.8,8.4,7.7,7.2,7.5,6.9,1.1,0.15,14.0,6.0,1.0,True
+Hyatt Place Atlanta Downtown,Atlanta,455.0,7.5,3,847.0,8.2,8.2,8.4,8.2,7.6,7.8,7.5,0.9,0.3,15.0,7.0,1.0,True
+Residence Inn by Marriott Atlanta Midtown/Georgia Tech,Atlanta,684.0,8.1,3,165.0,8.8,8.5,8.9,8.6,7.7,8.2,7.8,1.6,0.3,13.0,9.0,2.0,True
+Drury Inn & Suites Atlanta Airport,Atlanta,448.0,8.2,3,871.0,8.8,8.6,8.8,8.6,8.2,8.4,9.0,12.0,1.9,2.3,6.0,1.0,True
+Hilton Atlanta Airport,Atlanta,644.0,7.6,4,1375.0,8.6,8.2,8.3,8.2,7.6,7.9,8.1,12.0,2.4,2.4,7.0,2.0,True
+Days Inn by Wyndham Atlanta Marietta Ballpark,Atlanta,773.0,7.2,2,545.0,8.6,7.6,8.3,7.8,7.3,7.4,7.2,10.0,11.0,16.0,4.0,1.0,False
+Atlanta Airport Marriott Gateway,Atlanta,890.0,8.1,4,201.0,9.0,8.7,8.5,8.8,7.5,8.4,7.904301075268817,13.0,1.2,2.8,7.0,1.0,False
+Sleep Inn Atlanta Airport,Atlanta,306.0,7.1,2,478.0,8.1,7.6,7.9,7.6,7.3,7.1,7.4,14.0,1.7,2.7,5.0,3.0,False
+Comfort Inn Atlanta Downtown,Atlanta,304.0,5.1,3,569.0,6.8,5.9,7.1,6.0,5.8,5.4,5.8,2.8,1.8,11.0,6.0,1.0,False
+"Country Inn & Suites by Radisson, Smyrna, GA",Atlanta,417.0,8.1,3,832.0,8.7,8.5,8.8,8.4,8.2,8.2,8.3,10.0,9.0,18.0,4.0,2.0,False
+" Clermont Atlanta, by Oliver",Atlanta,659.0,8.8,4,267.0,9.3,9.3,9.3,9.3,8.5,9.1,9.2,2.0,2.0,13.0,4.0,1.0,True
+Hyatt Place Atlanta Centennial Park,Atlanta,822.0,8.3,3,1681.0,9.1,8.9,8.8,8.9,8.2,8.7,8.4,1.0,0.75,14.0,4.0,1.0,True
+Hilton Garden Inn Atlanta Downtown,Atlanta,537.0,8.2,3,1173.0,9.1,8.6,8.7,8.7,7.9,8.4,8.2,0.9,0.65,14.0,6.0,1.0,False
+Hyatt House Atlanta Cobb Galleria,Atlanta,912.0,8.4,3,931.0,9.0,8.6,9.0,8.6,8.3,8.6,8.6,8.0,9.0,14.0,9.0,2.0,True
+Hampton Inn Atlanta-Georgia Tech-Downtown,Atlanta,489.0,7.9,2,300.0,8.6,8.4,8.8,8.3,7.9,8.1,8.3,0.95,0.8,15.0,8.0,1.0,True
+Hyatt House Atlanta Downtown,Atlanta,516.0,7.6,3,1176.0,8.4,8.1,8.5,8.2,7.6,8.0,7.8,1.2,0.9,14.0,7.0,2.0,True
+Wingate by Wyndham Atlanta Galleria/ Ballpark,Atlanta,1080.0,7.9,2,1355.0,8.8,8.4,8.4,8.4,8.0,8.2,8.1,9.0,11.0,16.0,4.0,2.0,False
+The Westin Atlanta Perimeter North,Atlanta,603.0,8.4,3,672.0,8.9,8.9,9.0,8.8,8.4,8.7,7.904301075268817,9.0,0.6,7.0,7.0,1.0,True
+Wylie ,Atlanta,712.0,8.7,4,172.0,8.9,9.4,9.0,9.3,8.5,9.0,7.904301075268817,1.8,1.7,13.0,5.0,1.0,True
+" Indigo Atlanta Airport College Park, an IHG Hotel",Atlanta,414.0,7.7,3,663.0,8.3,8.3,8.5,8.4,7.8,8.1,8.0,11.0,0.3,2.4,6.0,1.0,True
+Hilton Atlanta,Atlanta,701.0,7.5,4,4464.0,8.4,8.0,8.2,8.1,7.5,7.8,7.904301075268817,0.9,0.4,14.0,7.0,1.0,True
+Atlanta Airport Marriott,Atlanta,584.0,8.1,4,413.0,8.6,8.5,8.7,8.6,7.9,8.5,8.6,0.015,2.2,3.4,7.0,2.0,False
+"Holiday Inn Express  & Suites Atlanta Buckhead, an IHG Hotel",Atlanta,405.0,7.9,3,1020.0,8.4,8.3,8.7,8.3,8.0,8.1,8.6,4.2,0.75,8.0,7.0,2.0,False
+The Ritz-Carlton Atlanta,Atlanta,1577.0,8.3,5,483.0,8.6,8.9,9.0,9.0,8.0,8.7,7.904301075268817,0.6,0.1,14.0,7.0,2.0,False
+W Atlanta Downtown,Atlanta,1103.0,7.8,4,758.0,8.6,8.4,8.6,8.4,7.5,8.2,7.904301075268817,0.95,0.2,15.0,6.0,1.0,True
+Renaissance Atlanta Midtown ,Atlanta,924.0,8.2,4,307.0,9.0,8.8,8.7,8.8,7.8,8.7,7.904301075268817,1.1,0.25,14.0,6.0,1.0,True
+Hyatt House Atlanta Perimeter Center,Atlanta,502.0,9.1,3,1188.0,9.2,9.5,9.3,9.5,9.1,9.4,9.2,8.0,0.1,6.0,4.0,1.0,True
+Residence Inn Atlanta Perimeter Center Dunwoody,Atlanta,701.0,9.4,3,75.0,9.6,9.8,9.5,9.7,9.1,9.7,5.0,11.0,1.5,7.0,6.0,1.0,True
+Hilton Garden Inn Atlanta Midtown,Atlanta,464.0,6.3,3,474.0,7.8,7.4,7.6,7.4,6.4,6.9,6.8,1.0,0.4,13.0,5.0,1.0,True
+Emory Conference Center ,Atlanta,838.0,8.3,4,212.0,9.1,8.6,9.0,8.8,7.7,8.3,8.8,4.7,4.0,9.0,9.0,2.0,False
+Hampton Inn & Suites by Hilton Atlanta Perimeter Dunwoody,Atlanta,513.0,8.9,3,621.0,9.3,9.2,9.1,9.3,8.8,9.0,8.1,11.0,1.2,7.0,7.0,2.0,True
+Doubletree By Hilton Atlanta Perimeter Dunwoody,Atlanta,539.0,7.8,3,1583.0,8.4,8.3,8.2,8.4,8.1,8.2,7.6,11.0,2.6,4.9,6.0,2.0,True
+Residence Inn Atlanta Midtown 17th Street,Atlanta,425.0,7.4,3,232.0,8.5,8.1,8.0,8.1,7.4,7.7,7.904301075268817,1.2,0.3,12.0,7.0,1.0,True
+Embassy Suites by Hilton Atlanta Airport,Atlanta,650.0,8.4,3,459.0,8.9,8.7,8.9,8.8,8.3,8.7,8.3,0.015,2.2,3.5,8.0,1.0,False
+The St. Regis Atlanta,Atlanta,2023.0,8.7,5,33.0,9.3,9.2,9.3,9.2,8.0,8.9,6.9,6.0,1.7,9.0,7.0,1.0,True
+La Quinta by Wyndham Atlanta Ballpark/Galleria,Atlanta,477.0,7.7,3,633.0,8.7,8.2,8.6,8.2,7.9,7.8,7.6,9.0,11.0,17.0,9.0,2.0,True
+Fairfield Inn & Suites by Marriott Atlanta Downtown,Atlanta,409.0,6.6,3,1010.0,6.6,7.4,7.8,7.5,6.9,7.0,7.1,0.7,0.1,13.0,8.0,1.0,False
+Aloft Atlanta Downtown,Atlanta,631.0,7.2,3,866.0,8.5,7.8,8.1,7.8,7.3,7.5,7.7,0.65,0.4,14.0,7.0,1.0,True
+Courtyard by Marriott Atlanta Midtown,Atlanta,893.0,8.8,3,161.0,9.3,9.3,8.8,9.4,8.3,9.0,8.6,1.3,0.25,14.0,5.0,1.0,False
+"Epicurean Atlanta, Autograph Collection",Atlanta,848.0,8.1,4,24.0,9.2,9.3,8.9,9.2,7.5,9.2,10.0,1.5,0.45,13.0,5.0,2.0,True
+"Glenn , Autograph Collection",Atlanta,756.0,8.9,3,217.0,9.4,9.4,9.4,9.3,8.5,9.0,8.1,0.6,0.4,14.0,6.0,2.0,False
+"Holiday Inn Express & Suites Atlanta Perimeter Mall , an IHG Hotel",Atlanta,406.0,8.2,2,1259.0,8.8,8.7,8.6,8.7,8.5,8.5,8.4,9.0,1.2,7.0,4.0,2.0,False
+"Ellis , Atlanta, a Tribute Portfolio Hotel",Atlanta,631.0,8.0,4,227.0,8.7,8.4,9.0,8.5,7.8,8.3,8.3,0.6,0.15,14.0,7.0,1.0,True
+"Inn at the Peachtrees, Ascend  Collection",Atlanta,362.0,5.3,3,947.0,7.3,6.0,7.0,6.1,5.8,5.6,6.9,0.85,0.3,15.0,4.0,3.0,False
+Barclay  Atlanta Downtown,Atlanta,409.0,4.7,3,1115.0,7.6,5.4,7.0,5.5,5.6,5.1,6.5,0.65,0.3,14.0,7.0,1.0,False
+AC  Atlanta Downtown,Atlanta,684.0,8.2,3,1839.0,8.9,8.8,8.7,8.8,8.2,8.6,8.2,0.5,0.3,14.0,7.0,1.0,True
+Homewood Suites by Hilton Atlanta - Buckhead,Atlanta,464.0,8.3,3,412.0,9.2,8.6,8.8,8.8,8.6,8.6,8.6,7.0,1.3,8.0,7.0,1.0,True
+Clarion Inn & Suites Atlanta Downtown,Atlanta,374.0,6.9,3,1062.0,8.0,7.4,8.1,7.4,7.1,7.1,7.6,1.7,0.75,13.0,6.0,1.0,True
+"Hampton Inn & Suites Atlanta-Midtown, Ga",Atlanta,629.0,8.7,3,1021.0,9.2,9.3,9.0,9.3,8.6,9.1,8.4,1.4,0.1,13.0,8.0,1.0,True
+Hampton Inn Atlanta-Buckhead,Atlanta,379.0,8.0,3,973.0,8.9,8.3,8.5,8.4,8.2,8.1,8.0,6.0,0.55,7.0,6.0,1.0,False
+Home2 Suites by Hilton Atlanta Downtown,Atlanta,611.0,7.8,3,763.0,8.4,8.2,8.4,8.3,7.8,8.0,8.0,0.65,0.35,14.0,6.0,2.0,True
+Sheraton Atlanta,Atlanta,684.0,7.5,4,2250.0,8.3,8.0,8.2,8.0,7.5,7.7,7.904301075268817,0.85,0.35,14.0,7.0,2.0,True
+"Holiday Inn & Suites Atlanta Perimeter Dunwoody, an IHG ",Atlanta,492.0,8.6,3,90.0,9.1,9.2,8.7,9.2,8.9,9.0,7.5,11.0,2.8,4.9,7.0,2.0,True
+Radisson  Atlanta Airport,Atlanta,513.0,7.9,3,2019.0,8.3,8.6,8.4,8.5,8.1,8.3,8.6,14.0,1.4,2.9,7.0,4.0,False
+Courtyard by Marriott Atlanta Vinings/Galleria,Atlanta,1130.0,9.0,3,1106.0,9.3,9.3,9.1,9.3,9.0,9.2,9.1,8.0,10.0,16.0,6.0,1.0,False
+AC  by Marriott Atlanta Midtown,Atlanta,692.0,8.7,4,181.0,9.3,9.2,9.0,9.1,8.5,9.0,8.2,1.3,0.35,13.0,9.0,2.0,True
+Embassy Suites by Hilton Atlanta at Centennial Olympic Park,Atlanta,760.0,8.0,3,2200.0,9.1,8.4,8.7,8.4,7.8,8.3,7.904301075268817,0.7,0.6,14.0,6.0,2.0,True
+La Quinta by Wyndham Atlanta Airport North,Atlanta,435.0,7.4,3,5307.0,8.5,7.9,8.2,7.9,7.7,7.6,7.9,12.0,2.1,2.2,4.0,3.0,True
+Homewood Suites Atlanta Midtown,Atlanta,457.0,6.3,3,140.0,7.6,7.0,7.4,7.1,6.5,6.6,6.1,1.0,0.4,13.0,5.0,1.0,True
+Moxy Atlanta Midtown,Atlanta,646.0,7.7,4,255.0,8.9,8.7,8.4,8.8,7.7,8.3,8.6,1.3,0.35,13.0,9.0,2.0,True
+Hyatt Regency Atlanta Perimeter at Villa Christina,Atlanta,504.0,8.5,4,1833.0,8.9,8.9,8.8,8.9,8.5,8.8,8.3,9.0,0.85,6.0,7.0,1.0,True
+Microtel Inn & Suites by Wyndham Atlanta Buckhead Area,Atlanta,378.0,7.3,2,700.0,7.9,8.1,8.0,8.1,7.6,7.5,7.6,4.7,2.3,6.0,5.0,2.0,False
+Hampton Inn & Suites Atlanta-Downtown,Atlanta,785.0,7.7,3,300.0,8.9,8.4,8.1,8.5,7.6,8.1,7.904301075268817,0.6,0.2,14.0,6.0,1.0,True
+Courtyard by Marriott Atlanta Airport South/Sullivan Road,Atlanta,453.0,7.9,3,242.0,8.4,8.5,8.5,8.8,7.9,8.3,10.0,14.0,2.1,3.1,7.0,1.0,False
+" Colee, Atlanta Buckhead, Autograph Collection",Atlanta,862.0,7.8,4,406.0,9.1,8.6,8.6,8.6,7.9,8.3,8.0,6.0,0.15,7.0,6.0,2.0,True
+Home2 Suites by Hilton Atlanta Midtown,Atlanta,470.0,7.4,3,338.0,8.6,8.0,8.5,8.0,7.5,7.7,7.9,1.0,0.1,13.0,4.0,1.0,True
+Residence Inn Atlanta Downtown,Atlanta,639.0,7.8,3,306.0,8.4,8.6,8.7,8.5,7.9,8.1,8.7,0.6,0.25,14.0,9.0,2.0,True
+Embassy Suites by Hilton Atlanta Perimeter Center,Atlanta,526.0,8.5,4,1729.0,9.0,9.0,8.6,8.9,8.5,8.8,7.904301075268817,11.0,0.4,7.0,7.0,2.0,False
+Thompson Buckhead,Atlanta,1153.0,8.8,5,37.0,8.9,9.5,9.2,9.4,8.5,9.1,9.2,5.0,1.3,8.0,5.0,1.0,True
+Hyatt Place Atlanta Airport North,Atlanta,471.0,7.0,3,803.0,8.2,7.7,8.2,7.6,7.2,7.3,8.4,11.0,2.1,2.6,7.0,1.0,True
+Courtyard by Marriott Perimeter Center,Atlanta,491.0,8.7,3,307.0,9.1,8.9,9.1,8.9,8.6,8.9,7.5,10.0,0.75,7.0,7.0,1.0,False
+Sheraton Atlanta Perimeter North,Atlanta,405.0,8.1,4,771.0,8.7,8.6,8.6,8.7,8.3,8.3,8.4,9.0,1.3,7.0,7.0,2.0,False
+Sonesta ES Suites Atlanta Perimeter Center,Atlanta,390.0,8.5,3,650.0,9.2,8.8,9.0,8.8,8.6,8.8,8.6,11.0,0.65,7.0,9.0,2.0,True
+AC  By Marriott Atlanta Perimeter,Atlanta,553.0,9.0,4,162.0,9.3,9.1,9.1,9.2,8.7,9.1,8.2,11.0,0.9,7.0,5.0,1.0,False
+Fairfield Inn & Suites Atlanta Airport North,Atlanta,495.0,8.2,3,461.0,8.8,8.7,9.1,8.8,8.4,8.5,7.9,11.0,1.9,2.8,7.0,1.0,False
+Best Western Plus Atlanta Airport East,Atlanta,383.0,7.4,3,1700.0,8.1,7.8,8.3,7.8,7.5,7.6,8.2,9.0,4.8,3.4,7.0,2.0,False
+Hilton Garden Inn Atlanta Perimeter Center,Atlanta,411.0,8.0,3,626.0,8.6,8.6,8.4,8.6,8.2,8.4,8.1,9.0,0.75,6.0,7.0,1.0,False
+" Indigo Atlanta Vinings, an IHG Hotel",Atlanta,880.0,8.3,3,738.0,9.1,8.7,9.0,8.7,8.5,8.5,7.8,8.0,10.0,16.0,7.0,5.0,True
+"Country Inn & Suites by Radisson, Atlanta Airport South, GA",Atlanta,289.0,6.3,3,3585.0,7.3,6.8,7.7,6.8,6.7,6.5,7.4,0.015,2.8,3.2,4.0,1.0,False
+Courtyard by Marriott Atlanta Downtown,Atlanta,739.0,7.9,3,746.0,8.3,8.4,8.4,8.4,7.8,8.1,7.8,0.65,0.15,14.0,7.0,2.0,False
+SpringHill Suites by Marriott Atlanta Downtown,Atlanta,769.0,8.2,3,1129.0,8.9,8.7,8.7,8.7,8.2,8.6,8.5,1.2,0.7,15.0,5.0,1.0,False
+JW Marriott Atlanta Buckhead,Atlanta,893.0,8.6,5,402.0,9.3,9.1,9.1,9.1,8.3,8.9,7.904301075268817,6.0,0.2,6.0,7.0,1.0,False
+Georgia Tech  and Conference Center,Atlanta,962.0,8.8,4,433.0,9.5,9.3,8.9,9.1,8.4,9.2,9.1,1.5,0.5,14.0,9.0,1.0,False
+Canopy By Hilton Atlanta Midtown,Atlanta,657.0,8.4,4,676.0,9.0,8.9,8.9,9.0,8.3,8.8,8.3,1.4,0.45,12.0,5.0,1.0,True
+Waldorf Astoria Atlanta Buckhead,Atlanta,1606.0,8.9,5,157.0,9.4,9.4,9.3,9.5,8.4,9.2,8.6,7.0,0.2,7.0,5.0,3.0,True
+Renaissance Atlanta Airport Gateway ,Atlanta,910.0,8.7,3,216.0,9.3,9.4,9.2,9.3,8.3,9.0,7.904301075268817,13.0,0.95,2.6,7.0,1.0,False
+Hampton Inn & Suites-Atlanta Airport North-I-85,Atlanta,482.0,7.8,3,905.0,8.6,8.3,8.3,8.4,7.9,8.1,7.6,11.0,2.1,2.6,7.0,2.0,False
+Hyatt Place Atlanta/Perimeter Center,Atlanta,522.0,8.8,3,1412.0,9.2,9.2,9.1,9.2,8.9,9.0,9.0,10.0,0.03,6.0,5.0,1.0,True
+Four Seasons  Atlanta,Atlanta,1676.0,9.1,4,117.0,9.4,9.5,9.4,9.4,8.4,9.3,8.5,1.2,0.35,13.0,5.0,4.0,True
+"Motel 6-Atlanta, GA - Virginia Ave",Atlanta,302.0,5.9,2,1533.0,7.2,6.4,7.1,6.5,6.4,6.2,6.8,12.0,1.7,2.5,4.0,1.0,True
+The American  Atlanta Downtown-a Doubletree by Hilton,Atlanta,712.0,7.8,3,2606.0,8.7,8.4,8.5,8.5,7.8,8.1,7.904301075268817,0.55,0.2,14.0,7.0,2.0,False
+SpringHill Suites by Marriott Atlanta Buckhead,Atlanta,502.0,8.1,3,1489.0,8.9,8.5,8.7,8.5,8.1,8.4,8.1,7.0,0.5,7.0,7.0,1.0,False
+Hampton Inn Atlanta-Northlake,Atlanta,328.0,7.8,3,1207.0,8.6,8.3,8.6,8.2,8.0,8.1,7.7,9.0,6.0,6.0,6.0,1.0,False
+Budgetel Inns & Suites - Atlanta Galleria Stadium,Atlanta,240.0,3.9,2,1177.0,6.5,4.7,5.6,4.9,5.0,4.6,5.8,11.0,12.0,16.0,6.0,3.0,False
+Hilton Garden Inn Atlanta-Buckhead,Atlanta,392.0,7.7,4,1893.0,8.7,8.3,8.1,8.3,7.8,8.0,10.0,6.0,0.25,7.0,5.0,2.0,False
+Homewood Suites Atlanta/Perimeter Center,Atlanta,493.0,8.2,3,1222.0,8.8,8.4,8.7,8.5,8.3,8.4,8.4,10.0,0.7,8.0,6.0,1.0,True
+Hyatt Place Atlanta Airport South,Atlanta,414.0,7.3,3,987.0,8.3,7.7,8.3,7.7,7.3,7.5,7.8,14.0,1.7,2.6,7.0,2.0,True
+Comfort Inn & Suites Ballpark Area,Atlanta,581.0,6.3,3,318.0,8.1,6.9,8.0,7.0,6.7,6.5,6.8,11.0,12.0,16.0,6.0,1.0,False
+Budgetel Inn & Suites Atlanta,Atlanta,252.0,4.4,3,646.0,6.1,5.3,5.5,5.4,5.4,5.0,4.9,12.0,0.8,3.8,5.0,1.0,False
+Quality Inn & Suites Atlanta Airport South,Atlanta,265.0,6.9,2,343.0,7.6,7.6,7.6,7.7,7.4,7.2,7.6,0.016,3.4,4.5,5.0,1.0,False
+"Home2 Suites By Hilton Atlanta Camp Creek Parkway, Ga",Atlanta,347.0,6.3,3,162.0,8.1,7.3,7.1,7.6,7.1,7.1,7.1,0.015,6.0,8.0,8.0,1.0,True
+Element Atlanta Midtown,Atlanta,945.0,8.9,3,61.0,9.5,9.4,9.3,9.6,8.5,9.3,7.5,1.2,0.2,14.0,5.0,1.0,True
+Residence Inn by Marriott Atlanta Buckhead,Atlanta,460.0,7.8,3,184.0,8.3,8.2,8.3,8.2,7.7,8.2,2.5,5.0,1.3,8.0,7.0,1.0,True
+Hampton Inn & Suites Atlanta Buckhead Place,Atlanta,406.0,8.3,3,1428.0,8.9,8.7,8.7,8.8,8.3,8.6,8.1,6.0,0.6,8.0,7.0,2.0,True
+AC  by Marriott Atlanta Buckhead at Phipps Plaza,Atlanta,584.0,8.6,4,318.0,9.3,9.0,9.0,9.0,8.5,8.9,9.2,7.0,0.95,6.0,6.0,1.0,False
+Hyatt Regency Suites Atlanta Northwest,Atlanta,646.0,8.0,3,1479.0,8.7,8.4,8.5,8.4,8.0,8.2,7.7,10.0,11.0,16.0,6.0,2.0,True
+Atlanta Marriott Suites Midtown,Atlanta,769.0,8.2,4,513.0,8.8,8.6,8.7,8.7,7.9,8.3,7.904301075268817,1.2,0.35,13.0,7.0,1.0,False
+DoubleTree by Hilton Atlanta Airport,Atlanta,377.0,6.6,3,436.0,7.8,7.4,7.6,7.5,6.9,7.0,7.9,11.0,2.0,2.9,7.0,1.0,False
+"Kimpton - Sylvan , an IHG Hotel",Atlanta,815.0,8.6,4,345.0,9.1,9.2,8.9,9.2,8.4,8.9,9.5,6.0,1.2,8.0,7.0,1.0,True
+Sonesta Select Atlanta Midtown Georgia Tech,Atlanta,464.0,7.5,3,917.0,8.4,8.0,8.4,8.1,7.5,7.8,7.7,1.9,0.65,13.0,9.0,2.0,True
+Courtyard by Marriott Atlanta Buckhead,Atlanta,429.0,7.7,3,869.0,8.7,8.2,8.5,8.3,7.9,8.1,7.5,6.0,0.3,7.0,7.0,1.0,False
+Four Points by Sheraton Atlanta Airport West,Atlanta,491.0,8.0,3,651.0,8.6,8.5,8.5,8.5,8.1,8.4,8.9,14.0,4.5,7.0,7.0,3.0,False
+Element Atlanta Buckhead,Atlanta,629.0,8.8,3,336.0,9.3,9.2,9.1,9.3,8.7,9.1,8.8,7.0,0.8,8.0,5.0,1.0,True
+Howard Johnson by Wyndham Atlanta Airport,Atlanta,275.0,4.5,3,2962.0,6.5,5.3,6.6,5.4,5.5,5.0,6.4,0.015,2.9,2.8,7.0,2.0,False
+"The Whitley, a Luxury Collection , Atlanta Buckhead",Atlanta,1268.0,8.1,5,775.0,9.1,8.9,8.8,8.9,8.1,8.5,7.904301075268817,7.0,0.45,6.0,7.0,2.0,True
+Microtel Inn by Wyndham Atlanta Airport,Atlanta,213.0,4.6,1,832.0,6.7,5.4,6.3,5.5,5.5,5.2,6.8,0.015,2.1,3.0,4.0,1.0,False
+La Quinta by Wyndham Atlanta Perimeter Medical,Atlanta,343.0,7.3,3,1214.0,8.6,7.8,8.1,7.7,7.7,7.6,7.7,10.0,0.75,7.0,4.0,1.0,True
+Atlanta Marriott Perimeter Center,Atlanta,464.0,7.9,4,583.0,8.7,8.3,8.6,8.4,8.1,8.3,7.3,9.0,0.3,6.0,5.0,2.0,False
+"Twelve Midtown, Marriott Autograph Collection",Atlanta,924.0,7.8,4,190.0,8.8,8.3,8.6,8.3,7.6,8.1,9.5,1.7,1.1,13.0,5.0,2.0,True
+Hilton Atlanta Perimeter Suites,Atlanta,581.0,7.9,3,4212.0,8.7,8.3,8.5,8.2,8.0,8.1,7.904301075268817,9.0,0.7,7.0,6.0,2.0,False
+Home2 Suites By Hilton Atlanta Perimeter Center,Atlanta,404.0,8.2,2,439.0,9.0,8.5,8.7,8.6,8.3,8.5,8.0,9.0,0.65,7.0,6.0,1.0,True
+Home2 Suites by Hilton Atlanta Airport North,Atlanta,493.0,8.3,3,97.0,8.9,8.7,8.8,8.8,7.9,8.7,9.6,11.0,2.0,2.6,7.0,1.0,True
+Atlanta Marriott Buckhead  & Conference Center,Atlanta,631.0,7.1,3,154.0,8.5,7.7,8.1,7.7,7.0,7.6,8.1,7.0,0.4,6.0,9.0,2.0,True
+"Motel 6-Smyrna, GA - Atlanta",Atlanta,210.0,5.9,2,572.0,7.2,6.4,7.1,6.5,6.7,6.2,6.6,10.0,8.0,18.0,4.0,1.0,True
+Le Meridien Atlanta Perimeter,Atlanta,553.0,8.2,4,646.0,9.1,8.6,8.7,8.6,8.3,8.4,7.904301075268817,11.0,0.95,7.0,7.0,2.0,True
+DoubleTree by Hilton Atlanta Northeast/Northlake,Atlanta,377.0,7.9,3,990.0,8.4,8.4,8.3,8.4,7.9,8.1,7.9,9.0,7.0,6.0,4.0,1.0,False
+"Holiday Inn  Atlanta-Northlake, an IHG Hotel",Atlanta,372.0,7.1,4,1230.0,8.3,7.7,8.2,7.7,7.4,7.4,7.8,9.0,7.0,6.0,5.0,2.0,True
+La Quinta by Wyndham Atlanta Midtown - Buckhead,Atlanta,388.0,7.6,3,1088.0,8.0,8.1,8.3,8.1,7.8,7.9,7.8,3.9,1.8,7.0,4.0,1.0,True
+Fairfield Inn & Suites by Marriott Atlanta Buckhead,Atlanta,390.0,7.8,3,598.0,8.5,8.3,8.5,8.3,8.0,8.0,8.5,6.0,0.9,8.0,6.0,1.0,False
+Extended Stay America Suites - Atlanta - Northlake,Atlanta,318.0,7.0,2,266.0,8.3,7.4,8.0,7.4,7.4,7.3,7.904301075268817,9.0,6.0,6.0,7.0,1.0,True
+"InterContinental Buckhead Atlanta, an IHG ",Atlanta,1268.0,8.6,5,682.0,9.2,9.0,9.0,9.0,8.4,8.8,9.3,6.0,0.25,7.0,4.0,7.0,True
+SpringHill Suites by Marriott Atlanta Perimeter Center,Atlanta,461.0,8.3,4,1263.0,8.9,8.9,8.8,8.8,8.5,8.6,8.8,10.0,0.6,8.0,6.0,1.0,False
+AC  by Marriott Atlanta Airport Gateway,Atlanta,879.0,8.7,4,492.0,8.9,9.3,9.0,9.2,8.4,9.1,8.9,13.0,1.1,2.7,6.0,1.0,True
+The Westin Buckhead Atlanta,Atlanta,976.0,8.1,4,713.0,9.1,8.6,8.6,8.7,8.0,8.5,7.904301075268817,7.0,0.2,7.0,6.0,1.0,True
+DoubleTree by Hilton Atlanta North Druid Hills/Emory Area,Atlanta,357.0,6.3,3,466.0,7.9,7.3,7.6,7.3,6.7,6.7,6.8,4.6,2.4,6.0,6.0,1.0,False
+Fairfield Inn & Suites by Marriott Atlanta Vinings/Galleria,Atlanta,646.0,8.2,3,151.0,8.9,8.5,8.6,8.6,8.2,8.3,7.5,9.0,11.0,17.0,7.0,3.0,False
+"Twelve Downtown, Autograph Collection",Atlanta,1141.0,8.4,4,763.0,9.0,8.9,8.6,8.8,8.3,8.7,8.7,0.9,0.1,15.0,4.0,2.0,True
+"Holiday Inn Express  & Suites Atlanta Airport West - Camp Creek, an IHG Hotel",Atlanta,405.0,6.7,3,149.0,8.5,7.2,8.0,7.2,6.9,7.1,7.8,0.016,6.0,8.0,7.0,2.0,False
+Sonesta ES Suites Atlanta - Perimeter Center North,Atlanta,347.0,7.0,3,898.0,8.1,7.4,8.1,7.3,7.5,7.2,7.0,10.0,1.1,8.0,9.0,2.0,True
+Sonesta Select Atlanta Cumberland Galleria,Atlanta,610.0,8.0,3,1186.0,8.8,8.4,8.5,8.5,8.0,8.2,8.9,8.0,10.0,15.0,9.0,2.0,True
+"Kimpton Overland  - Atlanta Airport, an IHG Hotel",Atlanta,716.0,8.4,3,400.0,8.8,9.0,8.6,9.0,8.2,8.8,8.3,9.0,4.5,3.1,9.0,1.0,True
+Best Western Plus  & Suites Airport South,Atlanta,324.0,7.5,3,2730.0,8.0,8.0,8.1,8.0,7.7,7.7,7.9,0.015,3.1,3.0,8.0,4.0,True
+Days Inn by Wyndham Hartsfield Jackson Atlanta Airport West,Atlanta,241.0,4.8,3,521.0,5.9,5.5,6.4,5.7,5.5,5.3,6.1,0.016,4.4,6.0,6.0,1.0,False
+Comfort Inn Atlanta Airport,Atlanta,337.0,7.4,3,1943.0,8.4,7.8,8.4,7.9,7.7,7.6,8.5,14.0,1.7,2.6,6.0,1.0,False
+The University Inn at Emory,Atlanta,464.0,7.4,3,193.0,9.1,7.9,8.6,8.1,7.3,7.3,8.3,4.4,2.7,10.0,4.0,1.0,True
+Hilton Garden Inn Atlanta Airport/Millenium Center,Atlanta,631.0,7.6,3,303.0,8.3,8.3,8.2,8.4,7.6,8.0,8.4,0.015,2.3,3.5,7.0,2.0,False
+Best Western Atlanta-Marietta Ballpark ,Atlanta,581.0,8.5,3,1262.0,8.7,8.9,8.9,8.9,8.6,8.5,9.1,11.0,11.0,16.0,6.0,1.0,True
+"EVEN  Atlanta - Cobb Galleria, an IHG Hotel",Atlanta,976.0,9.1,3,637.0,9.2,9.5,9.3,9.6,9.1,9.4,9.7,8.0,9.0,14.0,7.0,1.0,True
+Stonehurst Place Bed & Breakfast,Atlanta,1150.0,9.7,4,43.0,9.8,10.0,9.9,9.8,9.3,9.9,9.5,1.4,0.55,13.0,4.0,2.0,False
+Hampton Inn Atlanta Perimeter Center,Atlanta,377.0,8.2,3,741.0,8.9,8.5,9.0,8.6,8.3,8.4,7.7,9.0,1.1,7.0,6.0,1.0,False
+"Crowne Plaza  Atlanta Perimeter at Ravinia, an IHG Hotel",Atlanta,618.0,8.8,4,4361.0,9.2,9.2,9.0,9.1,8.8,9.1,8.4,10.0,0.65,6.0,7.0,2.0,True
+Residence Inn Atlanta Buckhead/Lenox Park,Atlanta,477.0,7.6,3,195.0,8.6,8.0,8.3,8.1,7.8,7.7,8.7,3.7,1.1,5.0,7.0,1.0,True
+Sonesta Atlanta Airport South,Atlanta,377.0,7.6,3,1639.0,8.4,8.1,8.4,8.2,7.8,7.8,7.6,14.0,1.6,2.5,9.0,3.0,True
+Courtyard by Marriott Atlanta Executive Park/Emory,Atlanta,522.0,7.5,3,214.0,8.5,8.0,8.4,8.0,7.5,7.6,8.3,4.6,2.6,6.0,7.0,1.0,False
+Hampton Inn & Suites Atlanta Airport West Camp Creek Pkwy,Atlanta,418.0,7.5,2,423.0,8.5,7.9,8.4,8.0,7.5,7.8,8.1,0.015,4.8,7.0,9.0,2.0,True
+Sonesta Atlanta Airport North,Atlanta,377.0,7.3,3,1420.0,8.3,7.9,8.1,7.9,7.4,7.7,8.1,12.0,1.8,2.4,9.0,2.0,True
+Rodeway Inn,Atlanta,197.0,6.0,2,1627.0,7.4,6.5,7.7,6.6,6.8,6.4,7.2,10.0,10.0,18.0,5.0,1.0,True
+Quality Inn Atlanta Northeast I-85,Atlanta,253.0,6.5,2,516.0,7.2,7.1,7.6,7.1,6.8,6.6,6.7,9.0,2.9,1.8,4.0,1.0,False
+"Bellyard, West Midtown Atlanta, a Tribute Portfolio ",Atlanta,1456.0,9.0,4,60.0,9.1,9.3,9.0,9.3,8.3,9.0,9.2,2.5,2.2,14.0,5.0,1.0,True
+Comfort Inn Sandy Springs – Perimeter,Atlanta,260.0,5.2,3,752.0,7.3,5.8,7.1,5.8,5.8,5.5,5.8,8.0,2.5,8.0,4.0,1.0,False
+Comfort Inn & Suites Galleria,Atlanta,347.0,6.3,3,386.0,7.5,6.9,7.5,6.9,6.6,6.4,7.3,10.0,9.0,19.0,7.0,1.0,False
+Homewood Suites Atlanta Airport North,Atlanta,476.0,7.1,3,194.0,8.1,7.7,8.1,7.8,7.3,7.6,7.1,11.0,1.9,2.7,7.0,1.0,True
+Extended Stay America Suites - Atlanta - Perimeter - Peachtree Dunwoody,Atlanta,277.0,6.6,2,196.0,8.1,6.9,7.9,7.0,7.0,6.9,8.4,10.0,0.6,7.0,6.0,1.0,True
+TownePlace Suites Atlanta Buckhead,Atlanta,453.0,7.7,3,49.0,8.5,8.4,8.8,8.0,7.6,8.1,10.0,4.2,0.75,8.0,7.0,1.0,True
+Atlanta Marriott Northeast/Emory Area,Atlanta,581.0,8.4,3,264.0,8.8,9.0,8.8,9.0,8.4,8.7,7.904301075268817,7.0,3.5,3.7,7.0,1.0,True
+Clarion Pointe Atlanta Airport College Park,Atlanta,269.0,6.8,2,413.0,7.8,7.3,7.9,7.4,7.1,7.1,7.5,0.015,3.1,2.9,6.0,2.0,False
+Sonesta ES Suites Atlanta Perimeter Center East,Atlanta,391.0,7.4,3,1766.0,8.2,7.8,8.3,7.9,7.8,7.6,7.6,11.0,3.2,4.8,9.0,2.0,True
+Super 8 by Wyndham Atlanta Northeast GA,Atlanta,277.0,3.5,2,13.0,5.8,4.8,5.0,4.8,4.0,4.6,7.904301075268817,11.0,2.7,2.7,6.0,1.0,False
+Hilton Garden Inn Atlanta Airport North,Atlanta,667.0,7.6,3,225.0,8.6,8.1,8.5,8.3,7.7,8.1,8.0,11.0,2.0,2.6,7.0,1.0,False
+Courtyard by Marriott Atlanta Windy Hill/Ballpark,Atlanta,708.0,7.9,3,411.0,8.7,8.2,8.8,8.2,7.9,8.0,8.2,11.0,12.0,16.0,7.0,1.0,False
+"Motel 6-Atlanta, GA",Atlanta,354.0,5.8,2,33.0,7.1,6.1,7.3,6.6,5.8,6.1,7.5,11.0,2.6,2.7,4.0,1.0,True
+Hampton Inn Atlanta-North Druid Hills,Atlanta,354.0,6.4,3,382.0,7.9,7.2,7.5,7.4,6.9,6.7,8.8,4.3,2.0,6.0,6.0,2.0,False
+Baymont by Wyndham Smyrna,Atlanta,307.0,6.0,2,157.0,7.7,6.8,7.1,6.9,6.5,6.3,9.2,10.0,9.0,19.0,4.0,2.0,True
+"The Burgess , Atlanta, a Tribute Portfolio Hotel",Atlanta,945.0,9.1,4,187.0,9.3,9.5,9.5,9.6,8.8,9.4,8.4,7.0,1.4,8.0,4.0,1.0,True
+Ramada Plaza by Wyndham Atlanta Airport,Atlanta,185.0,4.7,2,393.0,6.6,5.6,6.7,5.8,5.6,5.3,5.5,0.016,3.4,4.6,4.0,3.0,False
+Sonesta Atlanta Northwest Galleria,Atlanta,546.0,7.7,4,826.0,8.5,8.2,8.3,8.3,7.8,8.0,7.3,8.0,7.0,12.0,9.0,3.0,True
+Extended Stay America Suites - Atlanta - Buckhead,Atlanta,343.0,6.0,2,122.0,7.9,6.8,7.8,7.0,6.6,6.6,7.9,4.6,0.3,4.2,6.0,1.0,True
+Fairfield Inn & Suites by Marriott Atlanta Perimeter Center,Atlanta,461.0,8.3,3,340.0,9.1,8.7,8.7,8.7,8.5,8.5,8.8,9.0,0.4,6.0,7.0,1.0,False
+Atlanta Marriott Northwest at Galleria,Atlanta,1543.0,7.6,3,507.0,8.7,8.3,8.7,8.4,7.5,7.9,7.5,10.0,11.0,15.0,9.0,2.0,False
+Courtyard Atlanta Northlake,Atlanta,368.0,6.7,3,235.0,8.2,7.6,8.2,7.6,7.1,7.3,6.3,9.0,7.0,6.0,7.0,1.0,False
+Courtyard Atlanta Airport West,Atlanta,419.0,8.0,3,253.0,8.8,8.4,8.7,8.5,8.1,8.2,8.8,0.015,4.8,7.0,7.0,1.0,False
+Red Roof PLUS+ & Suites Atlanta Airport South,Atlanta,250.0,6.2,2,239.0,7.1,6.8,7.4,6.8,6.7,6.5,8.1,0.016,3.5,4.5,4.0,2.0,True
+Extended Stay America Suites - Atlanta - Clairmont,Atlanta,326.0,6.9,2,176.0,7.8,7.4,7.8,7.3,6.9,7.0,7.5,7.0,2.6,3.3,6.0,2.0,True
+Extended Stay America Suites - Atlanta - Perimeter - Hammond Drive,Atlanta,310.0,6.6,2,133.0,8.4,6.9,7.8,6.9,6.7,6.7,7.5,9.0,0.85,7.0,6.0,1.0,True
+"Studio 6-Atlanta, GA - Chamblee",Atlanta,275.0,5.3,2,558.0,7.0,6.0,6.7,6.0,6.1,5.8,6.3,9.0,0.7,1.9,4.0,1.0,True
+Quality Inn Atlanta Airport-Central,Atlanta,235.0,5.7,2,311.0,7.0,6.4,7.3,6.5,6.2,6.1,5.8,14.0,2.0,2.9,6.0,3.0,True

@@ -1,0 +1,241 @@
+Name,City,Price,Rating,Stars,Reviews,Location,Cleanliness,staff,Comfort,Value for Money,Facilities,Wifi,Closest attraction dist,Closest transportation,Closest airport,payment methods,Number of languages,Allowing pets
+Hyatt Regency Houston,Houston,752.0,8.5,4,960.0,9.1,9.0,8.9,9.0,8.3,8.7,8.1,1.1,0.35,15.0,7,1,True
+Marriott Marquis Houston,Houston,1164.0,8.4,4,1094.0,9.1,8.9,8.6,8.9,7.8,8.8,6.6,1.5,0.05,14.0,7,1,False
+"Holiday Inn Express & Suites - Houston - N Downtown, an IHG ",Houston,431.0,8.8,3,74.0,8.3,9.1,9.0,9.2,9.0,9.1,6.3,3.1,0.8,18.0,6,4,False
+"Holiday Inn Houston Downtown, an IHG ",Houston,615.0,8.5,3,1205.0,8.9,8.9,8.9,8.9,8.3,8.6,8.7,1.4,0.15,15.0,5,2,False
+" ICON, Autograph Collection",Houston,924.0,8.6,4,518.0,9.0,8.9,9.1,8.9,8.1,8.8,8.1,1.7,0.05,15.0,7,4,True
+"Hilton Garden Inn Houston Medical Center, TX",Houston,586.0,8.9,3,192.0,9.1,9.3,9.0,9.2,8.7,9.1,7.5,2.2,1.5,12.0,8,1,True
+"Staybridge Suites - Houston - Galleria Area, an IHG ",Houston,448.0,8.9,3,195.0,9.3,9.2,8.9,9.3,8.9,9.2,8.1,3.8,7.0,21.0,7,2,True
+"Club Quarters  Downton, Houston",Houston,433.0,7.9,4,3678.0,9.0,8.2,8.7,8.3,8.0,8.0,8.5,1.5,0.1,15.0,4,1,True
+Hilton Americas - Houston,Houston,829.0,8.9,4,808.0,9.4,9.1,9.1,9.2,8.4,9.1,7.92749140893471,2.1,0.4,14.0,7,10,False
+" Indigo Houston at the Galleria, an IHG Hotel",Houston,522.0,8.3,3,404.0,9.1,8.8,8.9,8.8,8.4,8.5,8.7,3.6,7.0,21.0,7,1,True
+The Post Oak ,Houston,1762.0,9.3,5,173.0,9.5,9.7,9.5,9.7,9.0,9.5,9.3,4.0,7.0,21.0,5,2,True
+"Holiday Inn Express & Suites Houston SW - Medical Ctr Area, an IHG ",Houston,471.0,8.8,3,466.0,9.0,9.2,8.9,9.3,8.7,9.1,9.0,4.3,1.4,15.0,6,1,False
+Cambria  Houston Downtown Convention Center,Houston,584.0,8.7,4,2115.0,9.2,9.2,9.0,9.3,8.7,8.9,8.8,1.2,0.2,15.0,6,1,False
+The Whitehall Houston,Houston,838.0,8.1,4,489.0,9.0,8.6,9.0,8.6,8.0,8.2,7.5,1.4,0.5,15.0,7,2,True
+"Holiday Inn Houston S - NRG Area - Med Ctr, an IHG ",Houston,615.0,7.4,4,632.0,8.9,7.8,8.1,7.9,7.4,7.6,7.2,4.0,0.7,14.0,7,2,False
+Courtyard by Marriott Houston Medical Center/NRG Park,Houston,461.0,8.1,3,369.0,8.8,8.7,8.7,8.6,8.1,8.4,7.9,3.6,0.85,14.0,7,1,False
+"Holiday Inn Express & Suites Houston South - Near Pearland, an IHG ",Houston,278.0,8.1,2,167.0,8.6,8.6,8.3,8.7,8.4,8.2,6.5,11.0,9.0,12.0,7,3,False
+Courtyard by Marriott Houston Galleria,Houston,581.0,8.2,3,814.0,8.9,8.5,8.7,8.6,8.1,8.3,8.4,5.0,7.0,21.0,7,2,False
+La Quinta by Wyndham Houston NW Beltway8/WestRD,Houston,313.0,8.8,3,384.0,8.9,9.0,9.1,9.1,8.9,9.0,8.8,0.015,0.019,23.0,4,2,True
+La Quinta by Wyndham Houston Channelview,Houston,385.0,8.8,4,433.0,8.9,9.2,8.9,9.1,8.8,9.0,8.6,10.0,0.016,21.0,4,1,True
+"Holiday Inn Express & Suites Houston Southwest Galleria Area, an IHG ",Houston,345.0,8.1,3,262.0,8.5,8.4,8.4,8.6,8.3,8.3,8.5,8.0,10.0,24.0,7,2,False
+Days Inn & Suites by Wyndham Houston Hobby Airport,Houston,242.0,8.3,3,910.0,8.2,8.8,8.4,8.8,8.6,8.6,8.0,12.0,9.0,2.3,4,2,False
+Hampton Inn Houston Downtown,Houston,566.0,8.5,3,658.0,9.2,8.9,8.9,8.9,8.3,8.6,8.1,1.3,0.15,15.0,7,2,True
+"Holiday Inn Express & Suites Houston - Hobby Airport Area, an IHG ",Houston,277.0,7.5,3,319.0,8.1,8.0,8.2,8.2,7.8,8.0,7.7,11.0,9.0,2.6,7,1,False
+"The Laura , Houston Downtown, Autograph Collection",Houston,862.0,8.5,5,492.0,8.9,8.9,8.9,9.0,8.3,8.8,8.4,1.4,0.15,15.0,5,2,True
+"Holiday Inn Express & Suites - Houston IAH - Beltway 8, an IHG ",Houston,323.0,8.1,3,768.0,8.5,8.7,8.4,8.7,8.4,8.4,8.6,0.019,12.0,6.0,4,4,False
+Hyatt Regency Houston Galleria,Houston,727.0,8.1,4,614.0,9.2,8.3,8.4,8.5,7.8,8.2,8.8,5.0,7.0,21.0,6,2,False
+"Staybridge Suites Houston - IAH Airport, an IHG ",Houston,312.0,7.8,3,382.0,8.2,8.2,8.3,8.3,8.1,8.0,7.6,0.019,12.0,6.0,7,2,True
+The Westin Oaks Houston at the Galleria,Houston,863.0,8.5,4,437.0,9.4,8.9,8.7,9.0,8.1,8.6,7.92749140893471,4.5,7.0,21.0,7,2,True
+Blossom  Houston,Houston,646.0,9.3,4,808.0,9.1,9.6,9.4,9.6,9.2,9.5,9.0,2.6,0.55,13.0,5,4,True
+"Holiday Inn Houston Intercontinental Airport, an IHG ",Houston,322.0,8.1,3,523.0,8.8,8.6,8.6,8.6,8.3,8.3,8.6,0.02,13.0,5.0,7,2,False
+Embassy Suites Houston - Downtown,Houston,756.0,8.2,4,704.0,8.9,8.5,8.8,8.6,7.9,8.4,6.3,1.9,0.45,15.0,6,2,True
+Residence Inn by Marriott Houston West/Beltway 8 at Clay Road,Houston,477.0,8.7,3,77.0,9.0,9.1,9.0,9.1,8.6,8.9,7.92749140893471,12.0,0.017,27.0,5,1,True
+"Holiday Inn  Houston Westchase, an IHG Hotel",Houston,277.0,7.9,3,1151.0,8.5,8.3,8.6,8.3,8.0,8.1,8.7,12.0,0.015,29.0,7,2,False
+AC  by Marriott Houston Downtown,Houston,631.0,8.5,4,1012.0,8.8,9.0,8.7,9.1,8.6,8.8,8.8,1.5,0.03,15.0,6,1,False
+Wyndham Houston near NRG Park - Medical Center,Houston,513.0,6.5,4,625.0,8.3,7.3,7.9,7.4,7.1,6.7,7.3,5.0,0.65,14.0,7,4,True
+ Zaza Houston Museum District,Houston,1061.0,8.3,4,377.0,9.2,8.7,8.8,8.8,7.7,8.5,8.9,1.0,0.05,14.0,4,2,True
+Comfort Suites near Texas Medical Center - NRG Stadium,Houston,364.0,8.2,3,258.0,8.9,8.7,8.4,8.7,8.2,8.3,7.1,3.5,1.1,14.0,7,2,False
+"C. Baldwin, Curio Collection by Hilton",Houston,727.0,8.1,5,510.0,8.8,8.8,8.6,8.8,8.0,8.6,7.92749140893471,1.3,0.4,16.0,10,2,True
+Residence Inn Houston Downtown/Convention Center,Houston,522.0,7.9,3,239.0,8.7,8.5,8.6,8.5,8.0,8.2,8.8,1.3,0.15,15.0,5,1,True
+"Home2 Suites by Hilton Houston Medical Center, TX",Houston,510.0,9.1,3,133.0,9.3,9.2,9.5,9.2,9.0,9.3,9.4,2.2,1.4,12.0,8,1,True
+Homewood Suites by Hilton Houston Near the Galleria,Houston,471.0,8.0,4,1635.0,9.2,8.3,8.4,8.4,8.1,8.0,8.5,5.0,7.0,21.0,6,2,True
+DoubleTree by Hilton  Houston Greenway Plaza,Houston,344.0,7.4,4,667.0,8.2,8.0,8.3,8.1,7.4,7.7,8.4,3.4,3.9,18.0,7,1,False
+Sleep Inn and Suites Downtown Houston,Houston,390.0,7.3,2,276.0,8.0,8.1,7.7,8.3,7.8,8.0,8.4,3.5,0.9,19.0,4,2,False
+Courtyard Houston Downtown Convention Center,Houston,1371.0,7.4,3,190.0,8.4,8.1,8.1,8.1,7.4,7.6,6.9,1.3,0.15,15.0,5,2,False
+Courtyard Houston-West University,Houston,495.0,8.2,3,70.0,8.9,8.6,8.9,8.8,8.3,8.6,8.8,3.3,3.1,17.0,6,1,False
+"Holiday Inn Express  and Suites Houston East, an IHG Hotel",Houston,383.0,8.7,2,152.0,8.8,8.8,9.1,9.0,8.9,8.8,7.5,12.0,8.0,15.0,3,1,False
+The Royal Sonesta Houston Galleria,Houston,639.0,8.2,4,1518.0,9.1,8.6,8.9,8.7,8.0,8.4,8.2,3.9,7.0,21.0,9,6,True
+"Holiday Inn Express & Suites Memorial – CityCentre, an IHG ",Houston,581.0,8.7,3,843.0,8.9,9.1,9.0,9.1,8.8,9.0,8.4,11.0,0.017,31.0,5,2,False
+"Staybridge Suites - Houston - Medical Center, an IHG ",Houston,461.0,8.4,1,127.0,9.1,9.1,8.9,9.1,8.4,8.8,8.8,3.8,1.2,15.0,4,1,True
+Hampton Inn & Suites Houston-Medical Center-NRG Park,Houston,393.0,8.0,3,234.0,8.8,8.5,8.5,8.4,8.0,8.2,8.5,3.1,0.25,13.0,6,1,True
+SpringHill Suites by Marriott Houston Downtown/Convention Center,Houston,600.0,7.7,3,432.0,8.6,8.3,8.4,8.3,7.7,8.1,7.3,1.3,0.2,15.0,6,3,False
+The Westin Houston Downtown,Houston,1061.0,9.0,4,288.0,9.5,9.4,9.4,9.5,8.5,9.3,8.5,1.4,0.25,15.0,7,2,False
+Hyatt Place Houston Galleria,Houston,510.0,7.7,3,1232.0,9.0,8.2,8.0,8.1,7.6,7.8,8.3,5.0,7.0,21.0,6,2,True
+Hyatt House Houston Galleria,Houston,366.0,7.5,3,794.0,8.6,7.9,8.3,8.1,7.6,7.7,8.2,4.3,7.0,21.0,7,3,True
+Howard Johnson by Wyndham Houston Hobby,Houston,124.0,5.4,2,296.0,7.0,6.0,6.6,6.0,6.5,5.6,7.4,11.0,9.0,1.8,4,1,False
+"Magnolia  Houston, a Tribute Portfolio Hotel",Houston,800.0,8.3,4,145.0,9.0,8.9,8.9,8.9,8.1,8.7,8.8,0.95,0.1,15.0,6,1,True
+Wingate Houston near NRG Park/Medical Center,Houston,513.0,6.2,3,723.0,8.3,6.9,7.8,6.9,6.8,6.2,5.9,5.0,0.65,14.0,6,2,False
+Crystal Inn,Houston,263.0,9.3,4,74.0,8.6,9.3,9.3,9.4,9.3,9.2,7.92749140893471,12.0,8.0,14.0,3,1,False
+"Holiday Inn - NW Houston Beltway 8, an IHG ",Houston,291.0,8.4,3,225.0,8.6,8.9,8.6,8.8,8.7,8.7,8.8,0.02,0.015,15.0,4,1,False
+"Crowne Plaza Houston Galleria Area, an IHG ",Houston,406.0,7.3,4,877.0,8.3,7.9,8.1,8.0,7.8,7.6,7.6,5.0,10.0,24.0,4,3,True
+TownePlace Suites by Marriott Houston Hobby Airport,Houston,275.0,8.7,3,328.0,8.6,9.2,9.0,9.1,9.0,9.0,9.2,11.0,9.0,2.7,5,2,True
+DoubleTree by Hilton  & Suites Houston by the Galleria,Houston,488.0,6.9,4,1004.0,8.6,7.7,7.6,7.6,7.1,7.3,6.7,5.0,7.0,21.0,8,2,True
+Houston Marriott Medical Center/Museum District,Houston,739.0,8.3,4,250.0,9.2,8.8,8.8,8.8,7.8,8.5,7.92749140893471,1.7,0.02,14.0,7,2,False
+La Quinta by Wyndham Houston Hobby Airport,Houston,260.0,8.1,3,327.0,8.9,8.5,8.7,8.7,8.5,8.3,8.2,11.0,8.0,1.7,4,1,True
+Hilton Houston Plaza/Medical Center,Houston,557.0,8.0,3,603.0,8.9,8.5,8.6,8.6,8.0,8.2,7.92749140893471,1.9,0.25,14.0,7,2,False
+Hyatt Place Houston Downtown,Houston,645.0,8.6,3,557.0,9.1,9.0,8.8,9.1,8.5,8.7,8.9,0.95,0.1,15.0,6,2,True
+Hilton Garden Inn Houston/Galleria Area,Houston,521.0,8.4,3,1403.0,9.1,8.8,8.7,8.8,8.4,8.6,8.0,3.7,7.0,21.0,9,1,True
+The Moran CITYCENTRE,Houston,1000.0,8.5,4,554.0,9.4,8.8,9.0,8.9,8.1,8.6,7.92749140893471,11.0,0.017,31.0,5,1,False
+Four Points by Sheraton Houston Intercontinental Airport,Houston,330.0,8.0,3,564.0,8.0,8.6,8.5,8.5,8.2,8.2,6.7,0.019,12.0,6.0,7,2,False
+The Westin Houston Medical Center,Houston,872.0,8.9,4,416.0,9.2,9.4,9.1,9.4,8.7,9.2,7.92749140893471,1.7,0.05,14.0,6,7,True
+Houston Marriott Westchase,Houston,461.0,7.9,4,372.0,8.6,8.3,8.3,8.3,8.0,8.1,9.0,10.0,0.015,28.0,6,1,False
+"Holiday Inn Express & Suites - Houston Westchase - Westheimer, an IHG ",Houston,319.0,7.8,3,1036.0,8.6,8.3,8.2,8.3,8.2,8.1,8.2,12.0,0.017,31.0,7,1,False
+Best Western Plus Heritage Inn Houston,Houston,303.0,7.8,3,930.0,7.9,8.3,8.0,8.3,8.2,8.1,8.1,11.0,7.0,15.0,7,2,False
+Residence Inn Houston Westchase On Westheimer,Houston,512.0,7.2,3,121.0,8.3,7.8,8.1,8.0,7.5,7.4,8.1,10.0,14.0,28.0,7,1,False
+Best Western PLUS Hobby Airport Inn and Suites,Houston,278.0,8.1,3,993.0,8.6,8.5,8.5,8.4,8.4,8.2,8.2,11.0,8.0,1.8,4,2,True
+"The Sam Houston , Curio Collection by Hilton",Houston,669.0,8.1,4,82.0,8.5,8.8,8.6,8.7,7.9,8.4,7.5,1.1,0.2,15.0,5,2,True
+Courtyard Houston Westchase,Houston,333.0,8.0,3,177.0,8.7,8.3,8.6,8.6,8.2,8.1,7.9,10.0,14.0,28.0,7,1,False
+"Candlewood Suites Houston Medical Center, an IHG ",Houston,371.0,7.4,3,24.0,7.8,8.0,8.0,7.9,7.6,6.8,8.8,5.0,2.0,15.0,5,2,True
+The Lancaster ,Houston,1277.0,9.4,4,472.0,9.5,9.7,9.6,9.7,9.1,9.5,9.7,1.3,0.15,15.0,4,2,False
+Houston Marriott South at Hobby Airport,Houston,616.0,8.2,3,246.0,8.7,8.4,8.8,8.5,8.3,8.5,9.1,11.0,9.0,2.4,6,2,True
+Hampton Inn - Houston/Brookhollow,Houston,307.0,7.2,3,137.0,8.2,8.0,8.3,8.1,7.7,7.5,7.8,10.0,12.0,22.0,7,1,True
+Hilton Houston Post Oak by the Galleria,Houston,663.0,7.7,4,396.0,8.9,8.1,8.3,8.1,7.4,8.0,7.92749140893471,4.0,7.0,21.0,6,2,True
+ Ylem,Houston,318.0,8.5,3,653.0,9.1,8.8,9.1,8.8,8.8,8.7,8.6,3.1,1.2,15.0,7,2,False
+Houston Marriott West Loop by The Galleria,Houston,708.0,7.1,4,90.0,8.3,7.8,7.9,7.7,7.0,7.2,6.1,3.5,7.0,21.0,7,1,False
+"Staybridge Suites Houston - Willowbrook, an IHG ",Houston,299.0,8.3,3,222.0,8.6,8.6,8.9,8.5,8.5,8.5,8.7,13.0,0.02,21.0,7,2,True
+SpringHill Suites Houston Medical Center / NRG Park,Houston,552.0,8.7,3,712.0,9.2,8.9,9.2,9.0,8.7,8.8,8.2,3.7,0.6,14.0,7,1,True
+Best Western Galleria Inn & Suites,Houston,287.0,7.7,3,364.0,8.3,8.0,8.3,8.1,7.9,7.8,7.4,6.0,9.0,23.0,5,3,False
+Hampton Inn and Suites Houston Central,Houston,511.0,8.7,3,309.0,8.5,9.0,9.0,9.1,8.7,9.0,7.0,2.6,6.0,21.0,7,1,False
+"Holiday Inn Express & Suites Houston - Memorial Park Area, an IHG ",Houston,371.0,7.3,3,192.0,8.2,7.9,8.2,8.0,7.7,7.4,7.5,5.0,10.0,24.0,5,1,True
+Sonesta ES Suites Houston Galleria,Houston,506.0,8.2,3,776.0,9.3,8.5,8.6,8.5,8.4,8.2,8.1,3.6,7.0,21.0,9,2,True
+"Holiday Inn Express and Suites Houston North - IAH Area, an IHG ",Houston,291.0,8.3,3,476.0,8.5,8.8,8.8,8.8,8.5,8.4,8.1,0.018,12.0,9.0,4,2,False
+Home2 Suites Bush Intercontinental Airport Iah Beltway 8,Houston,229.0,8.5,3,228.0,8.6,9.0,8.7,9.1,8.7,8.9,8.0,0.019,12.0,7.0,6,1,True
+The Westin Galleria Houston,Houston,943.0,8.4,4,565.0,9.3,8.7,8.5,8.8,7.9,8.5,7.92749140893471,4.7,7.0,21.0,7,2,True
+Comfort Suites Houston Galleria,Houston,280.0,7.7,3,435.0,8.3,8.2,8.7,8.2,8.0,7.9,7.5,5.0,9.0,23.0,7,1,False
+Extended Stay America Suites - Houston - Med Ctr - NRG Park - Kirby,Houston,343.0,7.2,2,350.0,8.7,7.5,8.4,7.7,7.7,7.3,6.7,4.0,0.75,14.0,6,1,True
+La Quinta by Wyndham Houston Energy Corridor,Houston,264.0,8.1,3,954.0,8.5,8.5,8.5,8.4,8.5,8.3,8.2,0.015,0.02,33.0,4,2,True
+"InterContinental Houston Medical Center, an IHG ",Houston,1302.0,9.0,4,630.0,9.3,9.4,9.3,9.4,8.8,9.2,9.1,2.1,0.4,14.0,5,3,True
+Home2 Suites by Hilton Houston Energy Corridor,Houston,347.0,8.7,3,825.0,9.0,9.0,9.0,9.1,8.9,9.0,7.6,13.0,0.019,32.0,6,2,True
+Aloft Houston Downtown,Houston,491.0,7.5,4,796.0,8.4,8.1,8.5,8.2,7.6,7.8,8.5,1.5,0.1,15.0,5,1,True
+Sheraton Houston Brookhollow,Houston,450.0,7.1,3,144.0,7.9,7.7,8.3,7.8,7.2,7.3,8.3,6.0,8.0,23.0,7,2,True
+Comfort Suites Westchase Houston Energy Corridor,Houston,257.0,8.0,3,215.0,8.8,8.3,8.6,8.5,8.4,8.3,8.3,12.0,0.017,30.0,4,2,False
+"Holiday Inn Houston West - Westway Park, an IHG ",Houston,412.0,7.7,3,96.0,8.4,8.2,8.2,8.3,8.1,8.0,7.92749140893471,13.0,0.018,28.0,7,2,False
+"Holiday Inn Express & Suites Houston Northwest-Brookhollow, an IHG ",Houston,294.0,8.2,3,101.0,8.5,8.5,8.6,8.5,8.4,8.4,7.0,9.0,11.0,22.0,4,2,False
+SpringHill Suites by Marriott Houston Westchase,Houston,388.0,8.3,3,203.0,8.8,8.8,8.6,8.8,8.5,8.5,8.1,12.0,0.015,28.0,6,3,False
+Homewood Suites by Hilton Houston-Westchase,Houston,435.0,8.5,3,187.0,9.1,8.6,9.0,8.7,8.6,8.6,9.1,11.0,0.016,29.0,6,1,False
+Hilton Garden Inn Houston Hobby Airport,Houston,464.0,9.0,3,349.0,9.2,9.3,9.2,9.3,9.0,9.3,8.8,11.0,8.0,1.5,8,2,False
+Hilton Garden Inn Houston Westbelt,Houston,253.0,7.9,3,621.0,8.6,8.3,8.5,8.3,8.0,8.0,7.5,12.0,14.0,28.0,9,4,True
+Hampton Inn Houston I-10 West-Energy Corridor,Houston,289.0,8.2,3,375.0,8.8,8.3,9.1,8.4,8.4,8.4,8.6,13.0,0.02,33.0,7,2,True
+SureStay Plus  by Best Western Houston Medical Center,Houston,441.0,7.7,3,1993.0,8.9,8.1,8.3,8.1,8.1,7.7,8.3,2.0,0.35,14.0,7,2,False
+"Motel 6 Houston, TX - Medical Center - NRG Stadium",Houston,172.0,5.7,2,287.0,7.0,6.6,7.3,6.7,6.8,6.1,5.2,5.0,2.2,15.0,4,1,True
+Drury Inn & Suites Houston Galleria,Houston,464.0,8.9,3,499.0,9.3,9.1,9.5,9.1,8.9,8.9,9.2,3.8,7.0,21.0,6,2,True
+Embassy Suites by Hilton Houston Near the Galleria,Houston,603.0,7.2,3,349.0,9.0,7.7,8.0,7.8,7.4,7.5,7.9,5.0,7.0,21.0,6,1,True
+La Quinta by Wyndham Houston Galleria Area,Houston,377.0,7.1,3,939.0,8.7,7.3,8.1,7.4,7.4,7.1,7.9,3.8,7.0,21.0,5,1,True
+SpringHill Suites by Marriott Houston Brookhollow,Houston,352.0,7.9,3,369.0,8.6,8.3,8.7,8.4,8.2,8.1,7.9,6.0,7.0,23.0,7,1,False
+Ramada by Wyndham Houston Intercontinental Airport South,Houston,175.0,6.5,3,1099.0,7.7,7.2,7.2,7.2,7.2,6.7,7.5,0.02,13.0,4.8,5,2,False
+Hilton Houston North,Houston,435.0,7.9,4,149.0,8.1,8.6,8.3,8.7,8.0,8.3,7.92749140893471,0.02,13.0,8.0,8,1,False
+Hampton Inn Houston Hobby Airport,Houston,318.0,7.3,3,353.0,8.2,7.7,8.3,7.9,7.7,7.3,5.0,11.0,8.0,1.7,7,1,True
+Americas Best Value Platinum Inn & Suites,Houston,240.0,8.0,2,33.0,8.6,8.1,8.4,8.2,8.4,8.1,7.92749140893471,0.017,11.0,10.0,4,1,False
+Courtyard Houston NW/290 Corridor,Houston,392.0,8.4,3,239.0,8.7,8.6,8.9,8.7,8.4,8.6,8.2,14.0,0.016,24.0,7,1,False
+"Hampton Inn & Suites Houston North IAH, TX",Houston,276.0,7.9,3,236.0,8.3,8.4,8.7,8.5,8.3,8.3,8.3,0.019,12.0,8.0,8,5,False
+Hilton Houston Westchase,Houston,406.0,7.8,3,220.0,8.8,8.6,8.5,8.5,8.1,8.1,10.0,10.0,0.015,28.0,7,3,True
+Le Meridien Houston Downtown,Houston,821.0,8.1,4,210.0,8.9,8.7,8.6,8.8,8.0,8.5,9.4,1.6,0.04,15.0,7,2,True
+Aloft Houston by the Galleria,Houston,747.0,7.7,3,799.0,9.0,8.1,8.4,8.1,7.7,7.8,7.8,5.0,8.0,21.0,6,2,True
+JW Marriott Houston Downtown,Houston,955.0,8.5,5,578.0,8.9,9.2,9.1,9.1,8.3,8.9,9.1,1.4,0.1,15.0,9,2,True
+GreenTree  - Houston Hobby Airport,Houston,340.0,7.9,3,1423.0,8.2,8.3,8.6,8.3,8.2,8.0,8.8,12.0,9.0,2.5,7,2,True
+The St. Regis Houston,Houston,1817.0,8.5,5,63.0,9.0,8.8,9.1,8.9,7.7,8.4,6.3,3.1,6.0,20.0,5,3,True
+ ZaZa Houston Memorial City,Houston,1230.0,9.0,4,372.0,9.2,9.5,9.2,9.5,8.7,9.3,9.5,11.0,0.015,29.0,5,1,True
+Sonesta Simply Suites Houston CityCentre I-10 West,Houston,309.0,8.2,3,326.0,9.2,8.5,8.9,8.4,8.6,8.1,8.3,10.0,0.017,31.0,6,1,True
+Comfort Suites Northwest Houston At Beltway 8,Houston,368.0,8.9,3,439.0,8.8,9.1,9.2,9.2,9.0,9.1,8.2,13.0,0.02,22.0,6,5,False
+Quality Inn and Suites NRG Park - Medical Center,Houston,201.0,5.0,3,377.0,7.3,5.7,6.9,5.9,5.8,5.2,5.8,5.0,0.9,14.0,4,2,True
+Hilton Garden Inn Houston NW America Plaza,Houston,407.0,7.9,3,212.0,8.6,8.6,8.3,8.6,8.2,8.5,7.1,0.015,0.017,24.0,5,2,True
+Wingate by Wyndham Houston Near Bush Intercontinental,Houston,231.0,7.1,2,25.0,7.7,7.5,7.8,8.1,8.2,7.3,8.8,0.019,12.0,6.0,4,4,False
+Sleep Inn & Suites near Westchase,Houston,225.0,7.7,3,715.0,8.3,8.4,8.0,8.2,8.2,8.0,8.7,13.0,0.016,30.0,6,1,True
+Fairfield Inn by Marriott Houston Northwest/Willowbrook,Houston,291.0,8.6,3,186.0,8.9,9.1,8.5,9.0,8.8,8.9,7.2,13.0,0.02,21.0,7,1,False
+ Granduca Houston,Houston,1469.0,8.7,5,126.0,9.5,9.2,9.0,9.3,7.8,9.0,9.4,4.0,8.0,22.0,5,6,True
+Extended Stay America Suites - Houston - Galleria - Westheimer,Houston,263.0,6.9,2,505.0,8.5,7.0,8.2,7.2,7.3,6.9,7.4,3.9,6.0,20.0,6,1,True
+Hampton Inn Houston Near the Galleria,Houston,424.0,7.7,3,644.0,8.9,7.8,8.2,8.0,7.7,7.6,7.0,3.4,7.0,21.0,7,2,True
+La Quinta by Wyndham Houston - Westchase,Houston,347.0,7.8,3,593.0,8.5,8.2,8.4,8.3,8.1,8.0,7.6,12.0,0.015,29.0,4,2,True
+Comfort Suites Houston West At Clay Road,Houston,234.0,7.6,3,231.0,8.4,8.1,8.3,8.1,8.0,7.9,8.1,13.0,0.018,28.0,7,2,False
+Americas Best Value Inn & Suites Northeast Houston I-610,Houston,240.0,8.6,2,135.0,8.2,9.0,8.5,9.0,8.9,8.8,7.0,9.0,6.0,18.0,3,2,False
+La Quinta by Wyndham Houston NW Brookhollow,Houston,260.0,7.2,3,711.0,7.9,7.5,8.1,7.6,7.7,7.3,8.1,8.0,9.0,23.0,4,1,True
+DoubleTree by Hilton Houston Medical Center  & Suites,Houston,554.0,7.1,4,1055.0,8.5,7.8,7.7,7.8,7.2,7.4,8.4,2.2,0.4,14.0,7,2,True
+Hilton Garden Inn Houston/Bush Intercontinental Airport,Houston,468.0,7.7,3,70.0,8.5,8.3,8.3,8.4,7.9,8.4,7.92749140893471,0.02,13.0,4.7,7,1,True
+Home2 Suites Houston Westchase,Houston,318.0,8.3,3,255.0,8.9,8.8,8.7,8.8,8.7,8.6,7.7,12.0,0.017,30.0,5,1,True
+Best Western Plus Sam Houston Inn & Suites,Houston,220.0,7.7,3,169.0,8.2,7.9,8.5,8.1,8.1,7.9,8.2,13.0,0.019,21.0,8,1,False
+Americas Best Value Inn-Near NRG Park/Medical Center,Houston,532.0,7.5,3,114.0,8.4,7.8,8.4,7.6,7.8,7.6,7.9,3.0,1.1,14.0,4,1,False
+JW Marriott Houston by the Galleria,Houston,893.0,8.4,4,215.0,9.3,8.9,8.8,9.0,8.1,8.5,7.92749140893471,4.8,7.0,21.0,7,1,False
+Comfort Suites near Westchase on Beltway 8,Houston,244.0,7.9,3,744.0,8.5,8.4,8.3,8.4,8.3,8.1,7.7,13.0,14.0,28.0,8,2,False
+SpringHill Suites Houston Hobby Airport,Houston,347.0,8.5,3,115.0,8.4,8.8,8.9,8.6,8.7,8.6,8.3,12.0,9.0,2.4,7,1,False
+Grand Villa Inn Galleria,Houston,235.0,6.4,2,88.0,7.5,7.3,7.2,7.0,6.9,6.7,7.5,5.0,8.0,22.0,5,3,False
+Super 8 by Wyndham Houston NW Beltway 8,Houston,175.0,8.5,3,185.0,8.7,8.8,8.7,8.8,8.7,8.8,10.0,0.015,0.018,22.0,6,1,True
+Best Western Plus Downtown Inn & Suites,Houston,544.0,8.7,3,330.0,8.6,9.0,9.1,9.0,8.4,8.9,8.4,2.5,1.0,16.0,7,1,False
+Home2 Suites At The Galleria,Houston,432.0,8.7,3,206.0,9.1,9.0,8.6,9.0,8.6,8.9,8.6,4.1,7.0,21.0,5,1,True
+DoubleTree by Hilton  Houston Hobby Airport,Houston,461.0,8.1,3,135.0,8.7,8.7,8.5,8.7,7.9,8.4,7.92749140893471,10.0,8.0,1.8,7,1,False
+TownePlace Suites Houston Brookhollow,Houston,257.0,7.7,3,71.0,8.7,8.5,8.5,8.3,8.1,8.2,8.3,10.0,12.0,22.0,7,1,True
+"Crowne Plaza Houston Med Ctr-Galleria Area, an IHG ",Houston,519.0,6.5,4,189.0,7.9,7.4,7.7,7.5,6.7,6.8,7.3,3.0,3.0,17.0,7,2,True
+"The Chifley Houston, Tapestry Collection by Hilton",Houston,581.0,7.6,4,301.0,9.0,7.8,8.1,8.0,7.6,7.5,7.92749140893471,4.0,7.0,21.0,9,2,True
+Sonesta Simply Suites Houston Galleria Medical Center,Houston,325.0,7.8,3,640.0,8.2,8.3,8.5,8.2,8.3,7.9,8.4,4.5,6.0,20.0,9,3,True
+MainStay Suites Texas Medical Center/Reliant Park,Houston,277.0,7.7,3,337.0,8.2,8.2,8.6,8.0,8.2,7.9,7.92749140893471,2.9,2.2,12.0,7,1,False
+"Candlewood Suites Houston I-10 East, an IHG ",Houston,309.0,8.2,2,235.0,8.4,8.6,8.8,8.6,8.5,8.4,9.0,13.0,9.0,15.0,7,1,True
+Fairfield Inn & Suites Houston Hobby Airport,Houston,323.0,7.7,3,264.0,8.0,8.2,8.3,8.3,8.0,8.0,7.9,11.0,8.0,2.7,7,2,False
+Quality Suites Houston Hobby Airport,Houston,269.0,8.3,2,60.0,8.8,8.8,9.0,8.9,9.1,8.7,9.2,12.0,7.0,1.5,7,1,True
+"Holiday Inn Express  & Suites Houston NW Beltway 8-West Road, an IHG Hotel",Houston,323.0,8.0,2,122.0,8.5,8.6,8.2,8.5,8.1,8.1,8.1,0.015,0.018,23.0,4,3,False
+Baymont by Wyndham Houston/Westchase,Houston,179.0,6.7,3,945.0,7.7,7.0,8.2,7.1,7.3,7.0,8.2,11.0,0.016,29.0,6,2,True
+TownePlace Suites by Marriott Houston Westchase,Houston,285.0,8.1,3,153.0,8.7,8.4,8.6,8.5,8.3,8.3,8.6,12.0,0.016,29.0,7,2,True
+TownePlace Suites Houston I-10 East,Houston,309.0,8.9,3,46.0,8.6,8.8,9.0,8.8,8.6,8.8,8.8,11.0,7.0,15.0,5,1,True
+TownePlace Suites by Marriott Houston Northwest Beltway 8,Houston,282.0,8.7,3,40.0,8.9,9.1,9.1,9.1,9.0,9.0,10.0,14.0,0.018,22.0,4,1,True
+Residence Inn Houston by The Galleria,Houston,1275.0,7.8,3,393.0,9.3,8.0,8.3,8.0,7.8,7.8,7.7,4.6,7.0,21.0,7,2,True
+Fairfield Inn & Suites Houston Intercontinental Airport,Houston,318.0,8.4,3,223.0,8.8,8.9,8.9,8.8,8.5,8.6,9.1,0.02,13.0,5.0,6,1,True
+Omni Houston ,Houston,767.0,8.1,4,162.0,8.9,8.6,8.8,8.6,7.7,8.3,7.92749140893471,4.2,8.0,22.0,8,1,True
+Comfort Suites Houston IAH Airport - Beltway 8,Houston,244.0,7.0,3,680.0,7.7,7.6,7.8,7.6,7.5,7.2,7.6,0.019,12.0,6.0,6,2,True
+"Holiday Inn Houston SW-Near Sugar Land, an IHG ",Houston,234.0,5.1,3,606.0,6.6,6.0,6.8,6.1,5.8,5.6,7.2,0.015,0.015,28.0,6,2,False
+TownePlace Suites Houston Intercontinental Airport,Houston,388.0,8.5,3,40.0,8.7,8.9,8.8,9.1,8.7,8.7,6.7,0.02,13.0,5.0,6,1,True
+"The Westin Houston, Memorial City",Houston,893.0,8.4,4,156.0,9.2,8.8,8.7,9.0,7.8,8.8,7.92749140893471,12.0,0.016,30.0,6,1,True
+Best Western Plus Westheimer - Westchase Inn & Suites,Houston,260.0,7.4,3,267.0,8.2,8.1,8.0,8.1,8.0,7.8,7.9,12.0,0.017,31.0,8,1,False
+Residence Inn Houston - West University,Houston,464.0,7.6,3,26.0,8.4,8.1,8.7,8.3,8.0,7.7,7.92749140893471,3.3,3.1,17.0,7,1,False
+Courtyard by Marriott Houston Heights/I-10,Houston,959.0,9.1,3,254.0,9.4,9.4,9.2,9.5,8.8,9.4,8.8,2.3,2.7,18.0,9,2,False
+Sleep Inn & Suites Highway 290/Northwest Freeway,Houston,230.0,8.2,3,96.0,8.8,8.4,8.8,8.6,8.4,8.3,8.6,10.0,12.0,22.0,5,4,False
+Baymont by Wyndham Houston Hobby Airport,Houston,190.0,8.4,3,535.0,8.7,8.8,8.5,8.9,8.8,8.6,9.0,0.015,12.0,4.7,6,1,False
+La Colombe d'Or ,Houston,1752.0,9.5,5,41.0,9.3,9.5,9.5,9.7,8.1,9.5,8.8,1.7,1.3,15.0,4,1,True
+Courtyard Houston/Brookhollow,Houston,329.0,8.2,3,158.0,8.6,8.6,9.0,8.8,8.3,8.3,7.8,5.0,7.0,22.0,7,1,False
+TownePlace Suites by Marriott Houston Galleria Area,Houston,567.0,8.2,3,137.0,8.9,8.7,8.7,8.6,8.4,8.8,8.1,4.8,7.0,20.0,7,1,True
+La Quinta by Wyndham Houston East at Normandy,Houston,274.0,8.1,3,736.0,8.2,8.5,8.7,8.5,8.4,8.3,7.4,12.0,10.0,16.0,4,2,True
+"Motel 6-Houston, TX - Downtown North",Houston,223.0,7.0,2,83.0,7.3,7.4,8.2,7.4,7.7,7.4,5.0,8.0,1.1,17.0,4,1,True
+Extended Stay America Suites - Houston - Med Ctr - NRG Park - Braeswood Blvd,Houston,310.0,6.4,2,1007.0,8.6,6.9,7.6,7.0,7.1,6.6,7.3,2.4,0.25,14.0,6,1,True
+Days Inn by Wyndham Houston,Houston,166.0,6.1,2,614.0,7.4,6.6,7.0,6.7,6.9,6.4,6.4,8.0,9.0,23.0,4,3,False
+The Residency Suites,Houston,278.0,8.8,3,159.0,8.7,9.1,9.2,9.1,9.1,8.8,7.1,0.015,0.017,24.0,4,1,False
+Comfort Inn & Suites Houston I-45 North - IAH,Houston,234.0,8.2,3,448.0,8.6,8.7,8.2,8.7,8.5,8.5,8.2,0.017,11.0,11.0,7,3,False
+Comfort Inn & Suites SW Houston Sugarland,Houston,197.0,6.2,2,300.0,7.1,6.6,7.3,6.7,6.5,6.5,7.5,0.015,0.015,28.0,6,1,False
+Extended Stay America Suites - Houston - Galleria - Uptown,Houston,263.0,6.2,2,892.0,8.4,6.8,7.3,6.9,7.0,6.4,7.1,4.0,7.0,21.0,6,1,True
+"Motel 6-Houston, TX - East",Houston,223.0,6.1,2,299.0,7.0,6.6,7.2,6.7,6.8,6.4,7.7,11.0,7.0,15.0,4,1,True
+Hilton University of Houston,Houston,733.0,8.0,4,84.0,8.8,8.4,8.9,8.5,7.4,8.0,9.5,4.3,0.4,10.0,7,4,False
+Comfort Inn 290/NW,Houston,222.0,7.2,3,362.0,7.8,7.6,7.9,7.6,7.7,7.3,8.1,11.0,13.0,23.0,5,1,False
+Days Inn & Suites by Wyndham Houston North/Aldine,Houston,168.0,6.5,2,652.0,7.4,6.8,7.5,6.9,7.1,6.7,6.8,0.016,9.0,11.0,5,2,False
+Extended Stay America Suites - Houston - Med Ctr - Greenway Plaza,Houston,310.0,6.9,2,335.0,8.1,7.3,7.9,7.4,7.4,7.1,7.3,2.4,2.5,16.0,6,2,True
+Rodeway Inn & Suites Medical Center,Houston,277.0,5.9,3,507.0,8.1,6.7,6.8,6.8,6.9,6.3,7.3,2.2,1.3,15.0,7,2,False
+La Quinta by Wyndham Houston Southwest,Houston,248.0,7.2,3,856.0,8.0,7.7,8.1,7.7,7.7,7.3,7.8,8.0,10.0,23.0,4,1,True
+Courtyard by Marriott Houston Hobby Airport,Houston,398.0,7.8,3,158.0,8.3,8.4,8.8,8.5,8.1,8.2,7.92749140893471,12.0,9.0,2.5,7,2,False
+Extended Stay America Suites - Houston - Westchase - Richmond,Houston,343.0,5.3,2,179.0,6.8,6.1,6.5,6.1,6.1,5.9,6.6,11.0,0.015,29.0,6,1,True
+"Candlewood Suites Houston Westchase - Westheimer, an IHG ",Houston,261.0,6.1,2,54.0,7.2,6.6,7.1,7.0,6.5,6.4,5.0,12.0,0.017,31.0,7,1,True
+Travelodge by Wyndham Houston Hobby Airport,Houston,146.0,4.7,2,547.0,6.4,5.5,5.9,5.7,5.9,5.3,6.3,11.0,9.0,1.9,6,1,True
+La Quinta by Wyndham Houston West at Clay Road,Houston,461.0,8.7,3,124.0,9.3,9.1,8.9,9.2,8.9,8.9,10.0,13.0,0.018,28.0,4,1,True
+"Hampton Inn Houston I-10 East, TX",Houston,350.0,8.2,3,173.0,8.1,8.5,8.3,8.5,8.3,8.4,7.5,11.0,7.0,15.0,6,1,False
+Fairfield Inn & Suites Houston Westchase,Houston,291.0,7.3,3,122.0,8.3,7.8,8.0,7.8,7.7,7.4,7.92749140893471,11.0,0.016,29.0,7,2,False
+Moonlight Suites - Houston/George Bush Int'l Airport,Houston,247.0,7.3,2,102.0,8.1,7.9,7.5,7.6,7.8,7.8,8.1,0.019,12.0,7.0,4,3,False
+Econo Lodge Inn & Suites East,Houston,183.0,7.9,2,181.0,8.2,8.2,8.5,8.1,8.1,7.8,6.4,13.0,9.0,15.0,5,2,False
+"Motel 6 Houston, TX",Houston,206.0,6.3,2,376.0,7.5,7.0,7.3,7.0,7.1,6.8,6.6,11.0,0.016,29.0,6,2,False
+Baymont by Wyndham Houston Brookhollow,Houston,212.0,7.0,2,457.0,7.7,7.5,7.6,7.6,7.7,7.2,7.8,9.0,11.0,22.0,5,1,True
+Super 8 by Wyndham Houston/Dtwn/I-610,Houston,219.0,8.1,2,39.0,8.5,8.8,8.4,8.4,8.4,8.3,7.5,9.0,6.0,18.0,4,2,False
+Super 8 by Wyndham Houston/Brookhollow NW,Houston,172.0,6.8,2,123.0,7.4,7.4,7.4,7.4,7.4,7.2,9.1,8.0,9.0,23.0,4,1,False
+Comfort Inn & Suites Southwest Freeway at Westpark,Houston,208.0,6.8,3,615.0,8.0,7.4,8.0,7.4,7.4,7.2,7.9,7.0,9.0,23.0,5,2,False
+Quality Inn & Suites West Chase,Houston,208.0,6.7,2,378.0,7.4,7.2,7.6,7.4,7.3,7.0,7.6,11.0,0.016,29.0,7,1,False
+"Motel 6-Houston, TX - Brookhollow",Houston,206.0,6.0,2,152.0,6.8,6.6,6.7,6.5,6.8,6.5,7.5,8.0,9.0,23.0,4,1,True
+Sonesta Simply Suites Houston W Beltway,Houston,275.0,7.2,3,416.0,8.0,7.7,8.1,7.8,7.8,7.5,8.2,11.0,0.015,28.0,9,1,True
+Romana  - Houston Southwest,Houston,175.0,3.6,2,939.0,5.8,4.7,5.5,4.7,5.0,4.3,4.8,8.0,10.0,23.0,4,1,False
+Palace Inn North,Houston,196.0,7.0,3,143.0,7.1,7.6,7.5,7.4,7.7,7.2,7.8,6.0,0.75,18.0,6,1,False
+ Solara I-45 & Hobby Airport Houston,Houston,247.0,8.2,3,111.0,7.9,8.6,8.7,8.5,8.3,8.3,8.0,11.0,9.0,2.7,4,1,False
+Blue Way Inn & Suites By Jasper Houston,Houston,206.0,4.0,2,4.0,5.0,4.4,6.3,4.4,5.0,5.6,7.92749140893471,0.019,12.0,7.0,7,2,True
+"Studio 6-Houston, TX - East",Houston,196.0,6.9,2,163.0,7.5,7.5,7.6,7.5,7.4,7.3,7.5,11.0,12.0,16.0,4,1,True
+"Studio 6-Houston, TX - Hobby South",Houston,172.0,6.0,2,170.0,7.4,6.6,7.4,6.8,6.9,6.5,8.0,8.0,0.015,7.0,4,1,True
+Summit Inn - Houston Medical Center - NRG Park,Houston,203.0,5.9,1,90.0,6.9,6.3,7.1,6.4,6.4,6.1,7.5,2.9,2.2,12.0,8,1,False
+Rodeway Inn and Suites Hwy 290,Houston,196.0,7.7,2,79.0,8.0,7.9,8.2,8.0,7.9,7.5,9.7,7.0,9.0,23.0,4,4,False
+"Motel 6-Houston, TX - 249 - Willowbrook",Houston,155.0,5.6,2,155.0,6.9,6.5,6.3,6.4,6.7,6.3,7.5,10.0,0.016,18.0,4,1,True
+Red Roof Inn Houston - Jersey Village,Houston,182.0,7.3,2,93.0,8.1,8.1,8.0,7.9,8.1,7.5,6.9,0.018,0.02,26.0,6,1,True
+Days Inn by Wyndham Houston East,Houston,190.0,7.0,2,33.0,7.7,7.3,7.9,7.3,6.7,6.9,7.92749140893471,12.0,8.0,15.0,4,2,False
+Extended Stay America Suites - Houston - I-10 West - CityCentre,Houston,245.0,6.7,2,194.0,7.8,7.1,7.2,7.2,7.2,6.9,6.5,12.0,0.019,33.0,6,1,True
+Extended Stay America Suites - Houston - Westchase - Westheimer,Houston,343.0,6.4,2,222.0,7.9,6.9,7.7,7.0,6.9,6.6,7.6,11.0,0.016,29.0,6,1,True
+Four Points by Sheraton Houston Hobby Airport,Houston,260.0,7.5,3,106.0,8.3,8.3,8.3,8.1,7.9,8.2,8.8,11.0,8.0,2.7,6,2,False
+Red Roof Inn PLUS & Suites Houston - IAH Airport SW,Houston,213.0,6.4,3,370.0,7.3,7.0,6.8,7.1,7.2,6.7,7.6,0.019,12.0,8.0,6,3,True
+Homewood Suites By Hilton HOU Intercontinental Airport,Houston,397.0,7.9,3,96.0,7.9,8.4,8.0,8.5,8.1,8.1,8.9,0.019,12.0,6.0,8,1,False
+Extended Stay America Suites - Houston - Northwest - Hwy 290 - Hollister,Houston,443.0,5.8,2,24.0,7.2,6.6,7.2,6.4,6.2,6.1,5.8,11.0,13.0,23.0,6,1,True
+Howard Johnson Houston Heights - Downtown,Houston,292.0,6.6,2,90.0,7.4,7.3,7.4,7.3,7.0,6.7,9.0,2.5,4.1,19.0,4,1,False
+Western Inn,Houston,221.0,5.3,2,343.0,6.4,6.0,7.1,6.1,6.4,5.7,6.0,5.0,0.9,20.0,4,3,False
+Super 8 by Wyndham Houston Hobby Airport South,Houston,163.0,6.6,2,139.0,7.4,7.1,7.3,7.1,7.1,6.8,8.0,0.015,12.0,4.6,3,2,False
+OYO  Houston Southwest I-69,Houston,210.0,4.9,2,247.0,5.6,5.6,6.3,5.7,6.1,5.4,6.3,14.0,14.0,26.0,4,2,False
+Extended Stay America Suites - Houston - IAH Airport,Houston,309.0,6.2,2,76.0,7.7,6.8,7.5,6.5,6.9,6.7,8.4,0.019,12.0,6.0,6,1,True
+OYO  & Apartments Houston Galleria,Houston,202.0,3.8,2,71.0,7.4,5.0,5.9,4.7,5.5,4.7,4.3,3.7,7.0,21.0,4,1,False
+Red Carpet Inn,Houston,172.0,4.3,2,68.0,6.3,5.1,6.9,5.2,5.1,5.3,3.8,7.0,2.7,8.0,5,3,False
+Palacio Royale Houston NW at Beltway 8,Houston,213.0,6.7,3,18.0,6.9,7.4,6.7,7.5,6.8,7.2,5.0,0.016,0.019,26.0,8,1,False

@@ -1,0 +1,123 @@
+Name,City,Price,Rating,Stars,Reviews,Location,Cleanliness,staff,Comfort,Value for Money,Facilities,Wifi,Closest attraction dist,Closest transportation,Closest airport,payment methods,Number of languages,Allowing pets
+ Washington,Washington,1027.0,8.6,4,1153.0,9.7,9.0,8.9,9.1,8.1,8.8,8.6,0.65,0.45,5.0,9.0,5,True
+citizenM Washington DC Capitol,Washington,890.0,8.6,4,2391.0,9.1,9.1,9.0,9.0,8.5,8.9,9.1,0.75,0.25,4.2,6.0,1,False
+Riggs Washington DC,Washington,1388.0,9.1,5,759.0,9.7,9.5,9.5,9.5,8.7,9.2,9.3,0.8,0.25,5.0,4.0,7,True
+"Holiday Inn Washington-Central/White House, an IHG ",Washington,799.0,7.7,3,1612.0,8.6,8.1,8.2,8.1,7.7,7.8,7.7,1.2,0.7,7.0,7.0,4,False
+State Plaza ,Washington,890.0,8.6,4,2301.0,9.2,9.1,9.0,9.2,8.5,8.7,8.8,0.8,0.6,5.0,5.0,1,False
+"Holiday Inn Washington Capitol-National Mall, an IHG ",Washington,910.0,7.8,3,2907.0,9.1,8.3,8.4,8.4,7.9,8.0,8.4,0.7,0.15,4.4,7.0,4,True
+Washington Plaza ,Washington,1321.0,8.1,4,3021.0,9.1,8.6,8.8,8.6,8.0,8.2,8.4,1.1,0.6,6.0,5.0,18,False
+Sofitel Lafayette Square Washington DC,Washington,1428.0,8.1,5,437.0,9.4,8.6,8.6,8.6,7.7,8.2,8.159821428571426,0.7,0.1,6.0,6.0,3,True
+The Churchill  Near Embassy Row,Washington,665.0,8.4,4,791.0,9.0,8.9,8.8,9.0,8.4,8.5,8.5,1.7,0.8,7.0,9.0,9,False
+Eaton DC,Washington,1027.0,8.6,4,661.0,9.3,9.1,9.0,9.2,8.3,8.8,8.8,0.75,0.5,6.0,6.0,3,True
+Phoenix Park ,Washington,781.0,8.7,3,1110.0,9.4,9.0,9.2,9.0,8.5,8.7,8.3,0.95,0.2,6.0,9.0,6,False
+Conrad Washington DC,Washington,1611.0,9.1,5,245.0,9.6,9.6,9.6,9.5,8.7,9.3,8.3,1.2,0.4,6.0,7.0,1,True
+"JW Marriott Washington, DC",Washington,1542.0,8.2,5,636.0,9.5,8.8,8.5,8.8,7.8,8.4,7.5,0.5,0.4,5.0,7.0,1,False
+ Hive,Washington,669.0,8.7,3,1435.0,9.4,9.1,9.5,9.0,8.6,8.7,8.8,0.65,0.4,5.0,6.0,1,True
+"ARC HOTEL Washington DC, Georgetown",Washington,890.0,8.0,4,1089.0,8.9,8.4,8.5,8.5,8.1,7.9,8.6,1.1,0.25,6.0,6.0,3,True
+Glover Park  Georgetown,Washington,924.0,8.2,4,691.0,9.0,8.6,8.7,8.6,8.0,8.3,8.5,1.7,1.8,9.0,4.0,1,True
+The St Gregory  Dupont Circle Georgetown,Washington,1165.0,8.3,4,1051.0,9.2,8.8,8.9,8.8,8.1,8.4,8.6,1.7,0.5,6.0,3.0,1,True
+"Willard InterContinental Washington, an IHG ",Washington,1714.0,9.1,4,306.0,9.8,9.5,9.4,9.5,8.6,9.2,8.159821428571426,0.65,0.45,5.0,6.0,1,True
+"The Darcy , Washington DC",Washington,1027.0,8.3,4,699.0,9.0,8.9,8.8,8.8,7.9,8.6,8.1,1.1,0.65,7.0,6.0,4,True
+Hyatt Place Washington DC/Georgetown/West End,Washington,1203.0,7.8,3,1863.0,8.9,8.4,8.1,8.5,7.9,8.1,8.0,0.8,0.5,6.0,6.0,2,True
+Hyatt House Washington DC/The Wharf,Washington,1014.0,8.4,3,2278.0,9.5,8.8,8.7,8.8,8.2,8.7,9.0,0.95,0.6,3.6,7.0,1,True
+The Eldon Luxury Suites,Washington,893.0,8.1,3,473.0,9.1,8.6,8.7,8.6,8.5,8.2,7.2,0.75,0.35,6.0,4.0,4,False
+Washington Marriott at Metro Center,Washington,1302.0,8.2,4,377.0,9.4,8.8,8.9,8.9,7.9,8.3,6.5,0.9,0.1,6.0,7.0,4,False
+Washington Hilton,Washington,949.0,7.5,4,417.0,8.5,8.1,8.3,8.1,7.3,7.8,7.7,1.8,0.75,7.0,7.0,11,True
+Morrison Clark Inn Washington DC Convention Center,Washington,1027.0,8.8,4,486.0,9.3,9.3,9.2,9.4,8.6,8.8,8.6,0.85,0.45,6.0,4.0,4,False
+Henley Park ,Washington,1041.0,8.5,4,1068.0,9.4,9.1,9.1,9.1,8.5,8.5,8.1,0.7,0.4,6.0,4.0,4,False
+Lyle DC,Washington,801.0,8.9,4,1496.0,9.3,9.4,9.2,9.4,8.7,9.0,8.7,2.0,0.55,7.0,4.0,1,True
+Omni Shoreham ,Washington,1344.0,8.3,4,745.0,9.0,8.8,8.8,8.8,8.0,8.5,8.159821428571426,1.5,0.3,8.0,8.0,3,True
+"Club Quarters  White House, Washington DC",Washington,839.0,7.9,4,3852.0,9.4,8.3,8.6,8.4,7.9,7.8,8.5,1.2,10.0,6.0,4.0,1,True
+Hyatt Place Washington D.C./National Mall,Washington,940.0,7.8,3,1195.0,8.8,8.4,8.1,8.5,7.9,8.1,8.1,0.9,0.35,4.2,6.0,2,True
+Homewood Suites by Hilton Washington DC NoMa Union Station,Washington,820.0,7.8,3,468.0,8.0,8.3,8.5,8.4,7.8,8.1,7.5,1.8,0.7,8.0,8.0,2,True
+Grand Hyatt Washington,Washington,1135.0,8.5,4,906.0,9.4,8.7,9.0,8.8,8.1,8.6,8.3,1.0,0.2,6.0,7.0,3,False
+"InterContinental - Washington D.C. - The Wharf, an IHG ",Washington,1371.0,8.9,5,813.0,9.5,9.4,9.1,9.4,8.5,9.2,8.7,1.1,0.65,3.5,7.0,10,True
+Capitol Hill ,Washington,958.0,8.1,4,854.0,9.3,8.4,9.0,8.5,8.0,8.1,8.3,1.2,0.25,5.0,4.0,2,True
+The Royal Sonesta Washington DC Dupont Circle,Washington,890.0,7.6,4,452.0,9.0,8.2,8.4,8.4,7.4,7.8,8.2,2.1,0.35,7.0,9.0,2,True
+Hilton Garden Inn Washington DC/Georgetown Area,Washington,1164.0,7.9,3,592.0,8.8,8.4,8.4,8.5,7.9,8.1,8.3,1.6,0.5,6.0,5.0,1,False
+Georgetown Residences by LuxUrban,Washington,510.0,6.9,3,421.0,8.3,7.7,7.6,7.8,7.8,7.3,5.1,1.0,0.7,6.0,4.0,1,False
+AC  Washington DC Downtown,Washington,1216.0,8.8,4,451.0,9.3,9.2,9.0,9.1,8.7,9.1,8.8,0.85,0.4,6.0,5.0,1,True
+YOTEL Washington DC,Washington,1116.0,8.1,4,1191.0,8.9,8.9,8.5,8.8,8.0,8.5,8.1,0.95,0.4,6.0,6.0,3,True
+District ,Washington,443.0,7.1,2,656.0,8.7,7.6,8.2,7.4,7.4,6.9,7.3,1.3,0.8,7.0,4.0,2,False
+The Hay - Adams,Washington,1439.0,9.3,5,150.0,9.7,9.5,9.6,9.7,8.7,9.2,9.2,0.95,0.25,6.0,8.0,6,True
+Motto by Hilton Washington DC City Center,Washington,867.0,8.4,3,1952.0,8.9,9.0,9.3,8.7,8.4,8.6,8.6,0.95,0.2,6.0,4.0,2,False
+The Fairmont Washington DC,Washington,1095.0,9.0,4,339.0,9.3,9.2,9.2,9.3,8.4,9.0,8.159821428571426,0.8,0.55,6.0,3.0,1,True
+Hamilton  - Washington DC,Washington,1051.0,8.2,4,2156.0,9.3,8.6,8.6,8.6,8.1,8.3,8.4,0.75,0.25,6.0,8.0,10,False
+ Lombardy,Washington,739.0,8.6,4,1425.0,9.4,9.0,9.2,9.0,8.4,8.4,7.8,1.2,0.4,6.0,4.0,9,False
+Hyatt Regency Washington on Capitol Hill,Washington,872.0,7.8,4,537.0,8.9,8.2,8.4,8.2,7.2,7.9,7.9,0.9,0.45,6.0,7.0,9,False
+Canopy by Hilton Washington DC Embassy Row,Washington,891.0,8.7,3,323.0,9.1,9.2,9.1,9.2,8.5,8.9,8.5,1.1,0.45,6.0,4.0,2,True
+Hyatt Place Washington DC/US Capitol,Washington,924.0,7.1,3,3401.0,7.1,7.8,7.7,7.8,7.3,7.5,8.2,1.8,0.4,7.0,6.0,3,True
+Hilton Garden Inn Washington DC Downtown,Washington,1301.0,8.1,3,1458.0,9.3,8.6,8.6,8.6,8.0,8.3,8.3,0.6,0.15,6.0,7.0,2,False
+Courtyard by Marriott Washington Capitol Hill/Navy Yard,Washington,1027.0,8.1,3,371.0,8.8,8.5,8.6,8.7,7.9,8.2,7.9,1.4,0.3,4.4,9.0,2,True
+Thompson Washington D.C.,Washington,780.0,8.7,4,209.0,9.2,9.2,9.1,9.2,8.1,8.9,8.159821428571426,1.8,0.45,4.3,5.0,1,True
+ Madera,Washington,832.0,9.2,4,1046.0,9.5,9.6,9.6,9.6,8.9,9.3,9.4,2.0,0.25,6.0,4.0,3,True
+Hilton Club The District Washington DC,Washington,961.0,8.6,4,155.0,9.1,8.7,9.0,8.8,8.4,8.8,8.3,1.8,0.55,6.0,6.0,2,False
+"The Ritz-Carlton Georgetown, Washington, D.C.",Washington,3006.0,8.6,5,48.0,9.5,9.3,9.5,9.2,8.1,9.0,8.159821428571426,1.6,1.1,6.0,7.0,11,True
+Hilton Washington DC Capitol Hill,Washington,1119.0,8.5,4,672.0,9.0,9.0,8.9,9.0,8.2,8.6,8.2,1.1,0.3,6.0,4.0,1,True
+"The Mayflower , Autograph Collection",Washington,1326.0,8.1,5,314.0,9.2,8.7,8.6,8.6,7.8,8.1,8.159821428571426,1.0,0.15,6.0,7.0,4,True
+Beacon  & Corporate Quarters,Washington,832.0,7.2,4,1513.0,8.7,7.9,7.8,8.0,7.1,7.2,7.5,0.9,0.45,6.0,9.0,3,True
+Hyatt Place Washington DC/White House,Washington,1164.0,8.0,3,3251.0,9.3,8.5,8.7,8.5,8.1,8.2,8.2,0.95,0.2,6.0,6.0,4,True
+Capital Hilton,Washington,1482.0,7.7,4,859.0,9.2,8.3,8.5,8.3,7.6,7.8,8.159821428571426,1.1,0.3,6.0,7.0,10,True
+"Marriott Vacation Club Pulse at The Mayflower, Washington, D.C.",Washington,1130.0,8.2,4,7.0,8.9,9.6,8.9,8.9,7.9,8.6,8.159821428571426,1.0,0.15,6.0,7.0,1,False
+Courtyard by Marriott Washington Downtown/Convention Center,Washington,1264.0,8.6,3,1438.0,9.0,9.2,8.6,9.2,8.5,8.9,8.3,0.8,0.25,6.0,6.0,2,False
+"The Westin Washington, D.C. City Center",Washington,1074.0,8.1,4,210.0,8.8,8.6,8.7,8.6,7.9,8.3,8.8,1.1,0.5,6.0,6.0,5,True
+Fairfield Inn & Suites by Marriott Washington Downtown,Washington,1110.0,8.1,3,928.0,8.8,8.5,8.8,8.5,8.0,8.2,7.8,0.85,0.3,6.0,7.0,1,True
+Hilton Washington DC National Mall The Wharf,Washington,1574.0,8.2,4,966.0,9.1,8.7,8.5,8.8,7.9,8.5,7.6,0.8,0.25,4.0,9.0,1,False
+AC  Washington DC Convention Center,Washington,1165.0,8.5,4,518.0,9.2,9.0,8.8,9.0,8.4,8.7,9.2,0.85,0.3,6.0,9.0,2,True
+Yours Truly DC,Washington,943.0,8.4,5,1213.0,9.1,8.8,8.7,8.8,8.2,8.6,8.8,0.8,0.5,6.0,7.0,1,True
+The River Inn-A Modus ,Washington,801.0,8.8,4,855.0,9.4,9.1,9.5,9.1,8.6,8.7,8.2,1.2,0.25,6.0,4.0,1,True
+Embassy Suites Washington D.C. - at the Chevy Chase Pavilion,Washington,844.0,7.9,3,939.0,8.7,8.5,8.5,8.5,8.1,8.2,8.159821428571426,4.4,0.15,13.0,8.0,5,False
+Canopy By Hilton Washington DC The Wharf,Washington,1184.0,8.8,4,337.0,9.6,9.4,9.1,9.4,8.5,9.2,7.9,1.1,0.55,3.5,6.0,1,False
+"Moxy Washington, DC Downtown",Washington,1367.0,8.3,3,589.0,9.3,8.7,8.7,8.6,8.2,8.6,8.2,0.7,0.5,6.0,9.0,2,True
+Hampton Inn - Washington DC/White House,Washington,1477.0,8.3,3,821.0,9.4,8.8,8.8,8.8,8.2,8.4,7.9,1.4,0.2,6.0,7.0,1,True
+Residence Inn Washington Capitol Hill/Navy Yard,Washington,945.0,9.0,3,194.0,9.0,9.1,9.0,9.2,8.7,9.1,7.7,1.6,0.1,4.1,6.0,4,True
+"Residence Inn Washington, DC/ Downtown",Washington,814.0,8.2,3,270.0,9.1,8.5,8.7,8.5,8.1,8.2,8.4,0.95,0.35,6.0,7.0,1,True
+"Courtyard by Marriott Washington, DC Dupont Circle",Washington,1075.0,8.0,3,107.0,9.1,8.4,8.3,8.7,7.7,8.1,7.5,1.6,0.4,6.0,9.0,4,True
+Comfort Inn Downtown DC/Convention Center,Washington,924.0,7.2,2,848.0,8.6,7.6,8.0,7.6,7.5,7.2,7.7,0.95,0.65,6.0,4.0,3,False
+citizenM Washington DC NoMa,Washington,890.0,8.7,4,410.0,8.5,9.1,9.2,9.0,8.5,9.0,9.0,1.8,0.25,7.0,6.0,1,False
+Waldorf Astoria Washington DC,Washington,1842.0,9.4,5,119.0,9.8,9.6,9.6,9.6,8.7,9.5,10.0,0.65,0.1,5.0,3.0,9,True
+"Homewood Suites by Hilton Washington, D.C. Downtown",Washington,1039.0,7.9,3,922.0,8.5,8.3,8.5,8.3,7.9,8.0,8.3,1.2,0.6,6.0,9.0,2,True
+"Hampton Inn & Suites Washington, D.C. - Navy Yard",Washington,838.0,8.2,3,967.0,9.0,8.7,8.8,8.7,8.2,8.4,8.4,1.7,0.15,4.1,7.0,2,True
+"Cambria  Washington, D.C. Convention Center",Washington,573.0,7.6,4,1634.0,8.3,8.0,8.2,8.0,7.8,7.8,8.0,1.3,0.4,7.0,7.0,2,False
+Park Hyatt Washington,Washington,1661.0,8.8,4,95.0,9.3,9.0,8.8,9.1,8.3,8.9,8.5,0.8,0.5,6.0,7.0,9,True
+Red Carpet Inn Washington DC,Washington,394.0,7.0,1,105.0,7.2,7.1,7.8,7.2,7.4,6.9,6.6,2.0,0.9,8.0,5.0,2,True
+Homewood Suites by Hilton Washington DC Capitol-Navy Yard,Washington,891.0,8.1,3,361.0,8.9,8.6,8.6,8.6,8.1,8.3,8.1,1.5,0.05,4.2,6.0,3,True
+Hampton Inn Washington DC - Convention Center,Washington,1669.0,8.2,3,707.0,9.0,8.7,8.4,8.7,8.0,8.4,7.6,1.0,0.4,6.0,8.0,1,False
+Hilton Garden Inn Washington D.C./U.S. Capitol,Washington,1340.0,7.5,3,1512.0,8.0,8.1,8.2,8.2,7.7,7.8,8.1,1.2,0.25,7.0,6.0,2,False
+Embassy Suites by Hilton Washington D.C. Georgetown,Washington,1331.0,8.6,4,1054.0,9.0,8.9,8.9,9.0,8.4,8.8,7.3,1.8,0.55,6.0,6.0,7,False
+Cambria  Washington D.C. Capitol Riverfront,Washington,873.0,8.0,4,1565.0,7.6,8.9,8.6,8.9,8.1,8.6,8.2,2.0,0.7,3.4,5.0,2,True
+The Jefferson ,Washington,1680.0,9.2,5,108.0,9.6,9.6,9.6,9.6,8.5,9.4,8.3,1.1,0.4,6.0,6.0,4,True
+Renaissance Washington DC Downtown ,Washington,1295.0,8.3,4,315.0,9.3,8.6,8.6,8.7,8.0,8.4,7.1,1.2,0.4,6.0,7.0,1,False
+The Graham Georgetown,Washington,2161.0,8.5,4,303.0,9.6,8.8,8.9,8.8,7.9,8.5,8.8,1.1,0.95,6.0,4.0,3,True
+"Courtyard Washington, DC/U.S. Capitol",Washington,838.0,7.6,3,945.0,8.0,8.3,8.3,8.4,7.9,7.9,8.159821428571426,1.3,0.1,7.0,7.0,1,True
+"Residence Inn by Marriott Washington, DC National Mall",Washington,1061.0,8.0,3,364.0,8.8,8.5,8.4,8.6,7.9,8.2,7.4,0.95,0.2,4.3,7.0,1,False
+HighRoad Washington DC,Washington,1001.0,8.9,3,457.0,9.0,9.2,9.5,9.0,9.0,9.1,9.5,1.6,1.1,8.0,4.0,1,False
+Residence Inn by Marriott Washington - DC/Foggy Bottom,Washington,958.0,8.2,3,168.0,9.4,8.6,8.9,8.6,8.3,8.3,8.8,1.1,0.2,6.0,7.0,1,True
+The Watergate  Georgetown,Washington,1749.0,7.7,5,634.0,8.6,8.5,8.5,8.5,7.1,8.1,7.9,0.95,0.4,6.0,5.0,9,True
+"Kimpton Banneker , an IHG Hotel",Washington,1115.0,8.1,4,72.0,8.8,8.9,8.6,9.1,8.0,8.3,8.8,1.0,0.65,7.0,4.0,1,True
+The Baron ,Washington,377.0,6.5,3,641.0,8.4,7.1,7.5,6.9,7.1,6.4,6.6,2.2,0.45,7.0,3.0,2,False
+"Westin Georgetown, Washington D.C.",Washington,1171.0,8.1,4,84.0,9.2,8.6,8.9,8.6,7.8,8.2,8.159821428571426,0.85,0.45,6.0,7.0,1,False
+"West End Washington DC, Tapestry Collection by Hilton",Washington,815.0,7.8,4,287.0,8.8,8.5,8.2,8.4,8.0,8.0,7.9,0.85,0.45,6.0,6.0,2,False
+The Normandy ,Washington,855.0,7.7,3,1238.0,8.6,8.2,8.6,8.2,8.0,7.7,7.8,1.6,0.95,8.0,5.0,2,True
+"The Ven at Embassy Row, Washington, D.C., a Tribute Portfolio ",Washington,1063.0,8.1,4,216.0,9.1,8.5,9.0,8.6,7.7,8.0,8.0,2.3,0.25,7.0,4.0,3,True
+Salamander Washington DC,Washington,2009.0,8.4,5,226.0,9.0,9.2,9.0,9.0,7.6,8.5,8.159821428571426,0.9,0.55,3.9,5.0,3,True
+The LINE  DC,Washington,1008.0,8.3,5,225.0,8.9,9.0,8.9,8.8,7.8,8.6,7.6,1.3,0.95,8.0,6.0,2,True
+The Dupont Circle ,Washington,1155.0,8.8,5,701.0,9.4,9.3,9.3,9.2,8.3,8.9,8.9,2.1,0.1,7.0,4.0,4,True
+The Avery Georgetown,Washington,1199.0,8.9,4,88.0,9.4,9.3,9.2,9.5,8.5,8.8,10.0,1.7,1.1,7.0,5.0,2,True
+"2500 Penn, a Placemakr Experience",Washington,670.0,8.5,3,388.0,9.3,8.5,9.2,8.7,8.5,8.6,8.3,1.2,0.4,6.0,7.0,1,False
+Selina Union Market,Washington,804.0,7.8,3,264.0,7.9,8.2,8.5,8.2,8.0,8.3,8.159821428571426,1.8,0.65,8.0,2.0,1,True
+Four Seasons Washington DC,Washington,4723.0,9.2,5,43.0,9.5,9.4,9.6,9.6,8.3,8.8,9.2,1.2,0.75,6.0,7.0,12,True
+"Courtyard by Marriott Washington, D.C./Foggy Bottom",Washington,1110.0,8.5,3,328.0,9.3,8.9,8.9,8.9,8.2,8.6,8.3,0.65,0.7,5.0,7.0,1,True
+Kellogg Conference  at Gallaudet University,Washington,709.0,7.7,3,650.0,8.2,8.4,8.4,8.4,7.8,8.1,8.7,2.0,0.65,8.0,3.0,1,False
+Days Inn by Wyndham Washington DC/Connecticut Avenue,Washington,399.0,6.3,2,2792.0,8.0,6.9,7.6,6.9,7.0,6.4,6.2,2.2,0.35,11.0,6.0,3,False
+Generator  Washington DC,Washington,883.0,7.8,3,1094.0,8.7,8.5,8.4,8.4,8.0,8.2,7.8,1.7,0.75,7.0,7.0,2,False
+Georgetown Inn,Washington,1048.0,8.2,4,409.0,9.7,8.7,8.7,8.8,7.9,8.0,8.1,1.3,1.4,7.0,4.0,2,False
+"Motel 6-Washington, DC",Washington,351.0,5.3,2,906.0,6.9,5.9,6.9,6.0,6.1,5.7,6.5,3.7,0.85,9.0,4.0,1,True
+Residence Inn by Marriott Washington Downtown/Convention Center,Washington,1620.0,8.6,3,414.0,9.1,9.2,8.7,9.1,8.6,8.9,8.4,0.8,0.25,6.0,9.0,2,True
+Washington Marriott Georgetown,Washington,924.0,7.8,4,119.0,8.9,8.6,8.5,8.8,7.7,8.0,8.159821428571426,1.7,0.55,6.0,7.0,5,False
+Pendry Washington DC - The Wharf,Washington,1652.0,7.7,5,6.0,10.0,7.9,7.5,9.2,7.5,8.8,8.159821428571426,1.2,0.45,3.4,7.0,5,True
+The Madison ,Washington,1371.0,8.1,4,263.0,8.9,8.6,8.6,8.6,7.8,8.2,8.6,1.1,0.45,6.0,5.0,3,True
+Wyndham Garden Washington DC North,Washington,815.0,6.7,3,2606.0,7.1,7.3,7.6,7.3,7.2,6.9,7.7,9.0,2.3,4.9,4.0,2,True
+Ivy City ,Washington,492.0,5.8,2,822.0,6.6,6.4,7.1,6.4,6.5,6.2,7.0,3.3,1.5,9.0,4.0,1,False
+"Residence Inn Washington, DC / Dupont Circle",Washington,1006.0,8.3,3,23.0,9.5,8.3,9.1,8.5,7.6,8.4,8.159821428571426,2.1,0.35,7.0,7.0,2,False
+"Motel 6-Washington, DC - Convention Center",Washington,347.0,4.6,2,185.0,5.9,5.1,6.4,5.3,5.3,5.1,5.9,1.8,0.6,8.0,4.0,1,True

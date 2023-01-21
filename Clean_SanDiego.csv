@@ -1,0 +1,158 @@
+Name,City,Price,Rating,Stars,Reviews,Location,Cleanliness,staff,Comfort,Value for Money,Facilities,Wifi,Closest attraction dist,Closest transportation,Closest airport,payment methods,Number of languages,Allowing pets
+" Indigo San Diego - Gaslamp Quarter, an IHG Hotel",San-Diego,1027.0,8.3,4,1910.0,9.1,8.8,8.9,8.8,8.0,8.5,7.5,1.8,1.4,4.1,7.0,5,True
+Omni San Diego ,San-Diego,1002.0,8.7,4,1531.0,9.4,9.1,9.3,9.1,8.3,8.9,8.0,1.8,1.5,4.3,8.0,1,True
+Best Western Plus Bayside Inn,San-Diego,790.0,8.4,3,1224.0,9.4,8.9,9.2,8.8,8.3,8.4,8.4,1.5,0.4,2.7,8.0,3,False
+Hard Rock  San Diego,San-Diego,1027.0,8.2,4,1689.0,9.3,8.7,8.7,8.8,7.8,8.5,8.3,1.7,1.4,4.1,3.0,1,False
+Manchester Grand Hyatt San Diego,San-Diego,1268.0,8.6,4,2660.0,9.5,8.9,9.0,8.9,8.0,8.8,8.4,2.3,0.7,3.3,7.0,2,True
+Days Inn by Wyndham San Diego  Circle,San-Diego,371.0,7.4,3,2118.0,8.3,7.8,8.3,7.8,7.5,7.5,7.7,3.2,3.1,3.8,5.0,1,True
+Gaslamp Plaza Suites,San-Diego,718.0,8.0,4,869.0,8.9,8.5,9.1,8.5,7.8,8.1,8.2,1.4,0.95,3.6,5.0,3,False
+"Staypineapple,  Z, Gaslamp San Diego",San-Diego,638.0,9.1,3,873.0,9.5,9.5,9.6,9.5,8.8,9.2,9.3,1.7,1.2,3.9,6.0,2,True
+Residence Inn by Marriott San Diego Downtown/Gaslamp Quarter,San-Diego,1027.0,8.1,3,384.0,9.3,8.6,8.7,8.7,7.8,8.3,8.118243243243233,1.7,1.3,4.0,7.0,2,True
+El Cordova,San-Diego,873.0,9.1,3,633.0,9.8,9.3,9.6,9.3,8.8,9.1,9.4,3.6,3.9,3.5,6.0,2,False
+Handlery  San Diego,San-Diego,435.0,7.5,3,867.0,8.3,7.9,8.1,7.8,7.3,7.5,8.5,3.5,2.7,3.6,6.0,5,True
+"InterContinental San Diego, an IHG ",San-Diego,1264.0,8.5,4,502.0,9.3,9.0,8.8,9.0,7.8,8.7,8.0,1.9,0.2,2.6,7.0,3,True
+Hyatt Regency La Jolla at Aventine,San-Diego,958.0,8.3,4,996.0,9.0,8.8,8.9,8.8,7.9,8.6,8.4,6.0,0.6,16.0,7.0,3,True
+"Holiday Inn Express  & Suites San Diego Airport - Old Town, an IHG Hotel",San-Diego,842.0,8.4,2,965.0,8.6,8.9,8.9,8.8,8.1,8.6,8.4,3.1,1.6,1.4,5.0,3,False
+Bay Club  and Marina,San-Diego,615.0,8.5,3,899.0,9.4,8.8,9.1,8.8,8.2,8.6,8.7,4.6,5.0,2.4,4.0,2,False
+Homewood Suites by Hilton San Diego Downtown/Bayside,San-Diego,1384.0,8.2,4,1128.0,8.9,8.6,8.5,8.7,7.9,8.4,7.4,1.7,1.1,2.0,8.0,2,True
+San Diego Mission Bay Resort,San-Diego,1129.0,7.9,4,342.0,8.8,8.4,8.7,8.4,7.2,8.3,7.0,3.4,1.3,6.0,6.0,1,True
+" Indigo San Diego Del Mar, an IHG Hotel",San-Diego,813.0,8.2,3,239.0,9.1,8.8,8.9,8.9,7.9,8.5,5.8,10.0,4.9,20.0,7.0,1,True
+"The Guild , San Diego, a Tribute Portfolio Hotel",San-Diego,523.0,8.4,4,379.0,9.2,8.8,9.1,9.0,8.0,8.5,9.1,1.8,0.15,2.9,6.0,1,True
+Ocean Park Inn,San-Diego,1130.0,8.9,3,1163.0,9.6,9.4,9.2,9.4,8.4,9.2,9.0,7.0,4.1,9.0,5.0,2,False
+Wyndham San Diego Bayside,San-Diego,730.0,7.6,3,1530.0,9.3,8.1,8.1,8.2,7.3,7.7,7.8,1.9,0.45,2.3,6.0,3,True
+Sands Of La Jolla,San-Diego,512.0,8.6,4,1186.0,9.1,9.0,8.8,9.0,8.7,8.7,8.4,9.0,5.0,11.0,7.0,1,False
+"Holiday Inn Express - Downtown San Diego, an IHG ",San-Diego,878.0,7.7,3,1219.0,8.3,8.1,8.4,8.2,7.7,7.9,8.6,1.4,1.2,3.4,6.0,2,False
+"Holiday Inn Express San Diego - Sea World Area, an IHG ",San-Diego,1027.0,8.3,2,1104.0,7.9,8.9,8.8,8.9,8.2,8.4,7.8,4.5,2.0,3.8,3.0,3,False
+Best Western Plus Hacienda  Old Town,San-Diego,787.0,8.0,3,1313.0,9.3,8.2,8.8,8.3,7.7,8.0,7.8,3.1,0.55,2.3,7.0,2,False
+San Diego Marriott Mission Valley,San-Diego,958.0,8.1,3,554.0,8.7,8.5,8.6,8.5,7.7,8.4,8.118243243243233,4.5,6.0,7.0,7.0,1,False
+Hyatt Regency Mission Bay Spa and Marina,San-Diego,863.0,8.0,4,1011.0,8.9,8.4,8.7,8.5,7.3,8.2,8.4,4.3,4.0,6.0,7.0,6,True
+"Holiday Inn Express & Suites San Diego - Mission Valley, an IHG ",San-Diego,890.0,8.4,3,653.0,8.7,8.6,8.8,8.7,8.2,8.6,8.3,3.2,3.1,3.8,6.0,1,False
+"Motel 6-San Diego, CA - Downtown",San-Diego,275.0,6.9,2,1310.0,8.1,7.2,8.3,7.2,7.2,6.8,7.1,1.2,0.8,3.0,4.0,1,True
+The Dana on Mission Bay,San-Diego,769.0,7.9,3,1044.0,9.0,8.3,8.5,8.3,7.2,8.2,7.5,4.0,3.8,6.0,4.0,1,True
+Comfort Inn Gaslamp Convention Center,San-Diego,461.0,7.2,3,1522.0,8.6,7.6,8.3,7.6,7.3,7.2,7.5,1.6,1.2,3.8,9.0,2,False
+Ramada by Wyndham San Diego Airport,San-Diego,443.0,7.0,2,468.0,8.5,7.6,7.9,7.5,7.2,7.1,8.7,4.4,4.4,3.4,6.0,3,False
+Pantai Inn,San-Diego,1405.0,8.2,5,408.0,9.7,8.7,9.0,8.6,7.8,8.2,8.5,8.0,4.7,15.0,6.0,2,False
+Moxy San Diego Gaslamp Quarter,San-Diego,910.0,8.6,4,727.0,9.2,9.1,9.2,8.9,8.4,8.8,9.1,1.5,1.1,3.7,6.0,1,False
+SpringHill Suites by Marriott San Diego Mission Valley,San-Diego,1027.0,8.6,3,354.0,8.9,9.1,9.0,9.0,8.3,9.0,8.8,4.3,6.0,7.0,9.0,1,True
+Kings Inn,San-Diego,414.0,8.1,3,2193.0,8.6,8.5,8.9,8.5,8.3,8.2,8.4,3.4,2.3,3.2,4.0,2,False
+TownePlace Suites by Marriott San Diego Downtown,San-Diego,993.0,8.2,3,542.0,8.4,8.8,8.6,8.8,8.1,8.5,8.9,1.4,1.1,3.3,7.0,2,True
+Best Western Cabrillo Garden Inn,San-Diego,1061.0,8.0,3,353.0,8.6,8.4,8.8,8.3,7.6,7.9,7.8,1.5,1.3,3.6,7.0,2,False
+Surfer Beach ,San-Diego,822.0,7.3,3,512.0,9.5,7.3,8.9,7.6,7.0,6.9,7.8,7.0,4.2,9.0,5.0,4,True
+Grande Colonial La Jolla,San-Diego,924.0,8.9,4,213.0,9.7,9.3,9.3,9.3,8.1,8.9,9.2,9.0,4.8,15.0,5.0,2,False
+La Pensione ,San-Diego,684.0,8.3,3,609.0,9.6,8.6,9.0,8.8,8.2,8.2,8.2,1.3,0.75,2.4,4.0,3,False
+The Sofia ,San-Diego,1312.0,7.6,4,478.0,8.7,7.9,8.6,8.1,7.1,7.6,8.118243243243233,1.1,0.45,3.2,4.0,2,True
+Old Town Inn,San-Diego,704.0,8.6,2,3033.0,8.5,9.0,9.4,8.9,8.8,8.7,8.4,2.6,0.4,2.3,6.0,2,True
+San Diego Marriott Gaslamp Quarter,San-Diego,975.0,7.9,4,678.0,9.2,8.5,8.5,8.5,7.5,8.1,8.118243243243233,1.8,1.4,4.1,7.0,2,False
+Pendry San Diego,San-Diego,1298.0,8.8,5,275.0,9.5,9.4,9.2,9.4,8.1,9.2,9.4,1.7,1.3,4.0,4.0,1,True
+Hilton San Diego Bayfront,San-Diego,1052.0,8.0,4,1393.0,9.0,8.6,8.4,8.7,7.4,8.4,7.0,2.0,1.8,4.5,7.0,1,True
+Best Western PLUS Island Palms  & Marina,San-Diego,629.0,8.4,3,837.0,9.4,8.7,8.9,8.6,8.2,8.5,8.2,4.7,5.0,2.4,7.0,1,False
+Andaz San Diego - a Concept by Hyatt,San-Diego,1010.0,8.0,5,435.0,8.5,8.5,8.8,8.6,7.5,8.3,7.7,1.5,1.1,3.8,6.0,4,True
+Ramada by Wyndham near SeaWorld / Mission Beach,San-Diego,515.0,7.0,2,602.0,7.9,7.5,7.8,7.6,7.1,7.1,7.4,4.5,1.7,3.4,3.0,3,False
+The Bristol  San Diego,San-Diego,849.0,7.9,4,1403.0,8.6,8.4,8.4,8.4,7.8,8.1,8.3,1.2,0.55,3.2,8.0,2,False
+Beach Haven,San-Diego,787.0,8.2,2,318.0,9.3,8.6,9.1,8.7,8.3,8.3,8.5,8.0,4.1,10.0,4.0,1,False
+Courtyard by Marriott San Diego Gaslamp/Convention Center,San-Diego,976.0,8.3,3,241.0,9.2,8.7,8.9,8.7,8.0,8.4,8.118243243243233,1.7,1.3,4.0,7.0,1,False
+Courtyard by Marriott San Diego Downtown,San-Diego,1106.0,8.4,4,622.0,8.5,8.8,8.9,8.8,8.0,8.5,8.0,1.3,0.95,3.6,7.0,2,False
+DoubleTree by Hilton San Diego Del Mar,San-Diego,761.0,7.3,3,1538.0,8.2,7.9,8.2,7.9,7.2,7.6,8.0,8.0,3.9,22.0,7.0,2,True
+Tower 23 ,San-Diego,1336.0,9.1,4,215.0,9.7,9.3,9.5,9.4,8.0,9.2,8.1,7.0,4.2,9.0,4.0,2,False
+Hampton Inn San Diego Downtown,San-Diego,1068.0,8.0,3,2156.0,9.0,8.4,8.6,8.5,7.8,8.1,8.1,1.7,0.55,2.3,10.0,2,False
+Homewood Suites by Hilton San Diego Airport-Liberty Station,San-Diego,945.0,8.7,3,317.0,9.3,9.1,9.2,9.0,8.3,8.9,8.0,3.8,3.3,2.4,6.0,2,True
+Hilton San Diego Airport/Harbor Island,San-Diego,1008.0,8.3,3,1249.0,9.2,8.9,8.7,8.8,8.0,8.6,8.2,3.5,3.5,2.0,7.0,6,True
+Courtyard by Marriott San Diego Mission Valley/ Circle,San-Diego,1017.0,7.9,3,1425.0,8.6,8.3,8.3,8.3,7.6,8.0,7.5,3.1,3.0,3.7,7.0,2,False
+The Westin San Diego Bayview,San-Diego,845.0,7.9,4,378.0,8.7,8.4,8.5,8.4,7.5,8.2,9.1,1.7,0.2,3.0,6.0,1,True
+Sheraton San Diego  & Marina,San-Diego,787.0,7.7,4,1349.0,8.9,8.2,8.4,8.2,7.2,8.0,8.118243243243233,3.0,2.9,950.0,7.0,5,True
+Horton Grand ,San-Diego,921.0,8.1,4,1671.0,9.3,8.5,8.6,8.5,7.8,8.1,7.9,1.5,1.1,3.8,4.0,1,True
+Fairmont Grand Del Mar,San-Diego,2779.0,9.1,5,62.0,9.4,9.4,9.2,9.6,8.0,9.5,9.2,6.0,4.8,22.0,6.0,12,True
+" Republic San Diego, Autograph Collection",San-Diego,924.0,8.3,4,559.0,8.8,8.9,8.7,8.9,7.9,8.5,8.118243243243233,1.5,0.3,2.9,7.0,2,True
+"The Monsaraz San Diego, Tapestry Collection By Hilton",San-Diego,698.0,8.2,4,217.0,8.4,9.1,8.5,9.0,7.9,8.7,8.118243243243233,4.3,4.3,3.5,7.0,1,True
+Hampton Inn & Suites San Diego Airport Liberty Station,San-Diego,1079.0,8.9,3,934.0,9.3,9.2,9.2,9.3,8.4,9.1,8.5,3.7,3.1,2.0,6.0,2,False
+The Shoal  La Jolla Beach,San-Diego,739.0,8.3,2,781.0,9.2,8.8,9.1,8.8,8.3,8.3,8.8,9.0,6.0,14.0,4.0,3,False
+Best Western Seven Seas,San-Diego,584.0,6.9,3,1425.0,8.1,7.4,7.7,7.4,7.1,7.2,7.6,3.1,3.2,3.9,7.0,2,False
+Courtyard San Diego Airport/Liberty Station,San-Diego,923.0,8.7,3,627.0,9.3,9.0,9.2,9.1,8.5,9.0,7.9,3.8,3.1,2.4,7.0,1,False
+Wyndham Garden San Diego,San-Diego,512.0,6.8,3,1018.0,7.7,7.5,7.9,7.5,7.1,7.0,7.6,4.7,1.5,3.3,5.0,2,False
+"Carte  San Diego Downtown, Curio Collection By Hilton",San-Diego,794.0,8.4,4,312.0,8.9,9.1,8.7,9.1,8.1,8.8,8.8,1.1,0.45,2.8,5.0,1,True
+DoubleTree by Hilton San Diego-Mission Valley,San-Diego,1016.0,7.5,4,628.0,8.4,8.0,8.3,8.1,7.2,7.8,8.118243243243233,3.9,4.1,5.0,6.0,2,True
+Embassy Suites by Hilton San Diego La Jolla,San-Diego,996.0,8.6,3,867.0,9.0,8.8,8.9,8.9,8.1,8.7,8.118243243243233,7.0,0.5,16.0,7.0,6,True
+Pacific View Inn,San-Diego,1124.0,7.7,2,412.0,9.6,8.2,8.9,8.3,7.7,7.8,9.3,8.0,4.2,10.0,6.0,1,False
+Hampton Inn San Diego/Del Mar,San-Diego,592.0,8.4,3,879.0,8.7,8.8,9.1,8.8,8.2,8.6,8.8,8.0,3.9,22.0,8.0,3,True
+Four Points by Sheraton San Diego,San-Diego,677.0,7.5,3,205.0,8.2,8.2,8.6,8.0,7.5,7.7,7.3,8.0,6.0,10.0,7.0,2,False
+Humphreys Half Moon Inn,San-Diego,891.0,8.4,3,797.0,9.2,8.5,8.9,8.5,7.8,8.5,8.0,4.8,4.8,2.5,5.0,1,False
+Sheraton La Jolla,San-Diego,1130.0,7.7,3,554.0,8.4,8.3,8.4,8.3,7.4,7.9,8.3,6.0,0.45,16.0,7.0,1,False
+La Quinta by Wyndham San Diego SeaWorld/Zoo Area,San-Diego,418.0,6.2,3,3269.0,7.7,6.8,7.4,6.9,6.6,6.5,7.3,3.7,4.0,4.6,4.0,2,True
+Empress  La Jolla,San-Diego,1014.0,8.2,3,380.0,9.4,8.6,8.9,8.7,7.9,8.1,7.9,9.0,4.9,15.0,8.0,2,True
+Glorietta Bay Inn,San-Diego,1388.0,8.0,3,416.0,9.5,8.3,9.0,8.3,7.3,7.9,7.5,3.7,4.0,3.7,6.0,1,False
+"Kimpton Alma San Diego, an IHG ",San-Diego,1131.0,7.8,5,31.0,7.4,8.2,8.3,8.0,6.9,7.6,8.118243243243233,1.3,0.9,3.5,7.0,2,True
+"Hilton Garden Inn San Diego Downtown/Bayside, CA",San-Diego,1679.0,8.0,4,937.0,8.9,8.6,8.5,8.7,7.7,8.3,6.6,1.7,1.1,2.0,6.0,2,True
+Sea Harbor  - San Diego,San-Diego,584.0,7.8,2,150.0,8.8,8.5,8.3,8.4,7.4,8.2,7.8,4.6,4.5,3.2,4.0,2,False
+The Wayfarer San Diego,San-Diego,1234.0,8.4,4,1244.0,9.6,8.7,9.1,8.7,7.7,8.4,8.0,7.0,4.2,9.0,7.0,2,False
+San Diego Marriott La Jolla,San-Diego,986.0,7.7,3,224.0,8.7,8.4,8.6,8.4,7.5,8.1,8.118243243243233,6.0,0.25,16.0,7.0,2,False
+Porto Vista  In Little Italy,San-Diego,548.0,6.2,3,1429.0,8.7,6.7,7.4,6.8,6.3,6.3,8.0,1.4,0.9,2.4,6.0,3,True
+"Marriott Vacation Club Pulse, San Diego",San-Diego,728.0,8.8,3,509.0,8.6,9.2,9.2,9.3,8.6,9.0,8.8,1.5,1.2,3.5,7.0,2,False
+Hilton Garden Inn San Diego Mission Valley/Stadium,San-Diego,907.0,7.6,3,1341.0,8.1,8.1,8.3,8.2,7.7,8.0,7.0,6.0,9.0,11.0,7.0,4,True
+Hilton Garden Inn San Diego Old Town/Sea World Area,San-Diego,858.0,7.9,3,902.0,8.8,8.5,8.5,8.5,7.7,8.3,8.1,4.8,0.35,2.9,8.0,1,True
+La Avenida Inn,San-Diego,1094.0,7.3,3,291.0,9.5,7.8,8.3,7.8,7.4,7.1,9.2,4.0,3.9,3.4,3.0,2,False
+Bahia Resort ,San-Diego,1027.0,7.9,3,809.0,9.1,8.2,8.7,8.3,7.4,8.0,8.9,5.0,4.4,7.0,4.0,1,True
+TownePlace Suites by Marriott San Diego Central,San-Diego,646.0,8.6,3,113.0,8.8,9.2,9.1,9.2,8.6,9.1,9.1,7.0,7.0,11.0,6.0,2,True
+Hampton Inn San Diego Mission Valley,San-Diego,977.0,7.8,3,1123.0,8.5,8.2,8.4,8.2,7.5,8.1,7.3,3.8,1.7,2.9,7.0,2,True
+Pacific Terrace ,San-Diego,1466.0,8.9,4,571.0,9.6,9.3,9.5,9.2,8.0,9.0,8.8,8.0,4.2,10.0,4.0,3,False
+Howard Johnson by Wyndham San Diego Sea World,San-Diego,446.0,6.8,2,2641.0,7.8,7.2,7.7,7.3,7.1,6.9,7.5,4.5,1.1,2.4,3.0,2,False
+Ramada Suites by Wyndham San Diego,San-Diego,787.0,5.8,3,1771.0,7.6,6.4,7.4,6.4,6.2,6.1,6.8,3.7,3.9,4.5,6.0,2,False
+Days Inn by Wyndham San Diego/Downtown/Convention Center,San-Diego,436.0,6.1,2,753.0,7.7,6.8,8.0,6.8,6.6,6.3,6.8,1.4,1.3,3.6,5.0,1,False
+Homewood Suites By Hilton San Diego Central,San-Diego,810.0,8.4,3,312.0,8.7,8.7,8.9,8.7,8.6,8.7,8.3,13.0,11.0,22.0,5.0,4,False
+California Suites ,San-Diego,399.0,6.9,2,1540.0,7.7,7.3,7.8,7.2,7.3,6.9,7.0,9.0,4.9,11.0,4.0,2,False
+Courtyard San Diego Central,San-Diego,770.0,8.1,3,412.0,8.6,8.4,8.7,8.5,7.9,8.3,7.8,8.0,7.0,11.0,7.0,2,False
+Lamplighter Inn & Suites at SDSU,San-Diego,704.0,8.4,3,1693.0,8.4,8.8,9.0,8.7,8.6,8.5,8.2,9.0,12.0,13.0,7.0,2,True
+Courtyard San Diego Old Town,San-Diego,832.0,8.2,3,424.0,8.9,8.7,8.8,8.7,8.0,8.2,7.9,3.2,0.7,2.0,6.0,2,True
+"Inn by the Sea, La Jolla",San-Diego,1027.0,8.3,3,1583.0,9.4,8.6,9.1,8.7,8.2,8.4,8.5,9.0,4.9,15.0,5.0,2,False
+The Westin San Diego Gaslamp Quarter,San-Diego,1542.0,8.2,4,259.0,8.9,9.0,8.7,8.9,7.8,8.6,8.118243243243233,1.2,0.65,3.4,7.0,3,True
+DoubleTree by Hilton San Diego Downtown,San-Diego,844.0,7.3,3,540.0,8.5,8.0,8.1,8.1,7.1,7.4,5.9,1.3,0.8,2.8,7.0,2,True
+Estancia La Jolla  & Spa,San-Diego,1130.0,8.5,4,234.0,9.1,8.8,8.8,8.9,7.5,8.7,9.7,4.2,1.4,18.0,5.0,2,True
+Hampton Inn by Hilton San Diego - Kearny Mesa,San-Diego,932.0,8.7,3,843.0,8.7,9.0,9.0,9.0,8.5,8.9,8.1,10.0,7.0,12.0,6.0,1,True
+"Candlewood Suites San Diego, an IHG ",San-Diego,987.0,7.6,2,81.0,8.5,8.1,8.3,8.3,8.3,8.2,8.8,3.4,2.4,3.3,7.0,2,True
+La Valencia ,San-Diego,2092.0,7.7,4,202.0,9.4,8.3,8.5,8.3,6.8,8.0,8.118243243243233,8.0,4.6,15.0,4.0,3,True
+Comfort Inn San Diego Airport At The Harbor,San-Diego,430.0,7.4,2,229.0,8.5,7.8,8.0,7.9,7.4,7.5,8.1,4.3,4.2,3.4,8.0,3,False
+"Motel 6 - San Diego, CA – near Sea World",San-Diego,292.0,7.1,2,3341.0,7.4,7.6,7.9,7.4,7.5,7.2,7.4,5.0,0.6,2.9,4.0,1,True
+The Westgate ,San-Diego,1061.0,8.1,4,68.0,8.6,8.7,8.8,9.0,8.1,8.7,8.118243243243233,1.2,0.7,3.3,4.0,4,False
+Residence Inn by Marriott San Diego Downtown,San-Diego,961.0,7.5,3,180.0,8.9,7.9,8.4,8.0,7.2,7.6,7.3,1.6,0.75,2.2,7.0,2,True
+San Diego Marriott Del Mar,San-Diego,844.0,8.2,4,438.0,8.6,8.7,8.8,8.8,8.1,8.7,8.118243243243233,8.0,4.0,22.0,7.0,2,True
+Catamaran Resort  and Spa,San-Diego,1247.0,7.2,4,319.0,9.1,7.5,8.4,7.4,6.6,7.3,8.5,7.0,4.1,9.0,3.0,2,True
+ Marisol Coronado,San-Diego,1216.0,9.4,3,236.0,9.8,9.6,9.6,9.6,8.9,9.4,8.3,3.8,3.7,3.1,4.0,1,False
+San Diego Marriott Marquis and Marina,San-Diego,3019.0,8.4,4,1059.0,9.3,8.8,8.8,8.8,7.8,8.7,8.118243243243233,1.6,0.95,3.7,7.0,5,False
+Pleasant Inn,San-Diego,412.0,7.9,3,823.0,8.2,8.3,8.8,8.2,7.8,7.8,7.6,9.0,5.0,11.0,4.0,3,False
+Sheraton Mission Valley San Diego ,San-Diego,873.0,7.9,3,330.0,8.5,8.3,8.6,8.2,7.5,8.0,8.8,3.4,4.8,5.0,6.0,1,True
+Best Western Plus Suites  Coronado Island,San-Diego,814.0,7.9,3,322.0,9.0,8.4,8.7,8.3,7.7,7.8,8.2,2.5,2.4,3.2,7.0,2,False
+"Motel 6-San Diego, CA -  Circle - Mission Valley",San-Diego,330.0,6.0,2,1108.0,7.5,6.5,7.6,6.6,6.3,6.3,6.8,3.6,1.4,3.1,4.0,1,True
+SpringHill Suites by Marriott San Diego Downtown/Bayfront,San-Diego,1206.0,8.8,3,756.0,9.6,9.1,9.1,9.1,8.3,9.0,8.5,2.0,0.25,2.6,7.0,2,False
+Legacy Resort  & Spa,San-Diego,863.0,8.8,4,203.0,8.9,9.2,9.0,9.2,8.5,9.0,7.8,3.2,2.8,3.5,6.0,1,False
+The Inn at Sunset Cliffs,San-Diego,1082.0,8.5,3,242.0,9.5,8.8,9.2,8.8,8.4,8.5,8.1,6.0,6.0,6.0,4.0,1,False
+Ocean Villa Inn,San-Diego,615.0,7.7,2,1413.0,9.3,7.8,8.9,7.8,7.8,7.6,7.4,4.9,4.7,6.0,5.0,2,True
+La Jolla Cove Suites,San-Diego,692.0,6.8,3,1144.0,9.3,7.3,8.5,7.5,6.6,6.6,7.1,8.0,4.5,15.0,7.0,2,False
+La Quinta by Wyndham San Diego Mission Bay,San-Diego,813.0,7.6,3,1157.0,7.6,8.1,8.4,8.1,7.8,7.7,7.9,6.0,0.35,9.0,4.0,2,True
+DoubleTree By Hilton San Diego  Circle,San-Diego,702.0,6.8,4,1103.0,8.1,7.3,8.0,7.3,6.7,7.1,8.118243243243233,3.5,2.2,3.1,6.0,2,True
+Fairfield Inn & Suites San Diego Old Town,San-Diego,1103.0,7.6,3,136.0,8.6,8.1,8.1,8.1,7.6,7.8,8.2,3.4,0.9,1.8,7.0,2,False
+Homewood Suites by Hilton San Diego-Del Mar,San-Diego,742.0,8.0,3,272.0,8.5,8.3,8.7,8.3,7.9,8.0,7.5,6.0,1.7,21.0,8.0,3,False
+Comfort Inn San Diego Old Town,San-Diego,435.0,6.9,3,408.0,7.8,7.5,8.0,7.5,7.0,7.1,7.9,3.3,0.85,1.8,7.0,2,False
+"Motel 6-San Diego, CA - North",San-Diego,361.0,6.7,2,453.0,7.4,7.0,7.9,6.9,6.9,6.7,6.3,9.0,5.0,12.0,4.0,1,True
+Four Points by Sheraton San Diego Downtown Little Italy,San-Diego,684.0,6.8,3,338.0,7.6,7.6,7.7,7.6,6.9,7.0,8.4,1.2,0.85,2.9,7.0,2,False
+Americas Best Value Inn Loma Lodge,San-Diego,1714.0,6.6,2,1047.0,7.6,7.0,7.9,7.0,7.2,6.7,7.9,4.6,1.4,2.4,4.0,1,False
+TownePlace Suites by Marriott San Diego Airport/Liberty Station,San-Diego,1079.0,9.0,3,351.0,9.3,9.4,9.1,9.4,8.7,9.2,8.118243243243233,3.7,3.0,1.9,6.0,1,True
+Hilton Garden Inn San Diego Del Mar,San-Diego,697.0,8.0,4,164.0,8.5,8.3,8.6,8.4,7.9,8.1,7.0,6.0,1.7,21.0,6.0,1,False
+Days Inn by Wyndham Mission Valley Qualcomm Stadium/SDSU,San-Diego,359.0,5.9,2,2515.0,7.0,6.5,7.1,6.6,6.5,6.2,6.5,8.0,11.0,11.0,5.0,3,False
+Sonesta ES Suites Carmel Mountain - San Diego,San-Diego,692.0,8.3,3,294.0,9.2,8.8,8.6,8.7,8.3,8.6,7.9,0.016,0.016,25.0,9.0,2,True
+"Motel 6-La Mesa, CA",San-Diego,378.0,6.6,2,231.0,7.6,7.2,7.5,7.3,6.9,7.0,7.9,10.0,12.0,14.0,4.0,1,True
+Super 8 by Wyndham San Diego  Circle,San-Diego,301.0,5.7,2,3826.0,7.2,6.3,7.2,6.4,6.5,6.0,6.6,3.1,3.2,3.8,5.0,2,False
+SureStay  by Best Western San Diego Pacific Beach,San-Diego,391.0,6.9,2,706.0,7.8,7.4,8.1,7.4,7.2,7.2,7.6,6.0,0.35,8.0,6.0,2,True
+Courtyard by Marriott San Diego Miramar,San-Diego,780.0,8.7,3,46.0,8.5,9.5,9.1,9.3,8.3,9.0,8.3,13.0,9.0,19.0,5.0,3,False
+Residence Inn San Diego Del Mar,San-Diego,684.0,8.1,3,76.0,8.7,8.7,8.6,8.7,7.9,8.1,8.1,8.0,3.9,22.0,7.0,1,True
+Howard Johnson by Wyndham San Diego  Circle,San-Diego,684.0,6.0,3,1168.0,7.3,6.7,6.8,6.7,6.5,6.1,7.5,3.6,2.1,3.1,5.0,2,False
+Urban Boutique ,San-Diego,2748.0,7.9,3,1349.0,9.5,8.1,9.1,8.1,8.0,7.7,8.6,1.3,0.7,2.5,6.0,2,True
+"The US Grant, a Luxury Collection , San Diego",San-Diego,1824.0,7.9,5,112.0,8.2,8.8,8.8,8.8,7.2,8.3,8.8,1.3,0.75,3.4,7.0,1,True
+Fairfield Inn & Suites by Marriott San Diego Pacific Beach,San-Diego,1233.0,8.3,2,47.0,8.4,9.0,8.8,8.8,8.3,8.9,10.0,6.0,0.5,8.0,5.0,2,False
+Residence Inn San Diego La Jolla,San-Diego,1010.0,8.4,3,484.0,9.0,8.7,9.0,8.8,8.4,8.5,8.1,6.0,0.75,16.0,7.0,5,True
+Riverleaf Inn Mission Valley,San-Diego,2934.0,6.0,2,2799.0,7.3,6.5,8.0,6.4,6.7,6.2,8.118243243243233,3.4,1.2,3.1,4.0,2,True
+Extended Stay America Suites - San Diego - Fashion Valley,San-Diego,489.0,6.5,2,183.0,7.5,7.1,7.9,7.1,6.7,6.7,7.8,4.4,4.5,6.0,6.0,1,True
+The Lodge at Torrey Pines,San-Diego,2401.0,8.5,5,82.0,9.5,9.3,9.0,9.1,7.6,8.7,10.0,4.3,1.9,20.0,3.0,1,True
+Quality Inn San Diego I-5 Naval Base,San-Diego,457.0,7.5,2,157.0,7.5,8.0,8.1,7.9,7.3,7.4,7.5,6.0,7.0,9.0,9.0,2,False
+ Iris - Mission Valley-San Diego Zoo-SeaWorld,San-Diego,368.0,5.3,2,1215.0,7.3,5.9,6.9,5.9,5.8,5.6,7.1,3.2,2.9,3.7,4.0,2,True
+Extended Stay America Suites - San Diego - Mission Valley - Stadium,San-Diego,636.0,6.2,2,143.0,7.6,6.9,7.4,6.9,6.4,6.4,7.2,6.0,9.0,11.0,6.0,1,True
+Extended Stay America Suites - San Diego -  Circle,San-Diego,636.0,6.7,2,177.0,7.9,7.4,7.8,7.3,6.8,7.1,7.4,3.8,1.8,3.1,6.0,2,True
+Rodeway Inn San Diego Mission Valley/SDSU,San-Diego,337.0,6.8,3,663.0,7.5,7.2,7.7,7.2,6.9,6.8,7.2,8.0,11.0,12.0,5.0,2,False

@@ -1,0 +1,131 @@
+Name,City,Price,Rating,Stars,Reviews,Location,Cleanliness,staff,Comfort,Value for Money,Facilities,Wifi,Closest attraction dist,Closest transportation,Closest airport,payment methods,Number of languages,Allowing pets
+NOPSI  New Orleans,New-Orleans,558,8.7,5,"1,087",9.3,9.2,9.0,9.2,8.5,9.0,8.8,1.1,800,11,6.0,2,True
+Pontchartrain  St. Charles Avenue,New-Orleans,649,8.8,4,198,9.2,9.2,9.3,9.1,8.3,8.6,8.4,2.2,1.4,13,4.0,2,True
+The Mercantile ,New-Orleans,522,8.5,3,"1,330",9.1,8.8,8.8,8.8,8.6,8.6,8.5,900,1.3,11,4.0,1,False
+ St. Marie,New-Orleans,546,8.8,3,519,9.5,9.0,9.0,9.1,8.5,8.8,8.4,600,750,10,4.0,1,False
+International House ,New-Orleans,453,8.2,4,525,9.2,8.6,9.2,8.7,8.0,8.3,7.8,950,1.1,11,4.0,1,False
+"Astor Crowne Plaza New Orleans French Quarter, Corner of Bourbon and Canal",New-Orleans,581,7.6,4,"2,130",9.0,8.0,8.3,8.1,7.6,7.8,,700,1.2,11,7.0,1,False
+Place D'Armes ,New-Orleans,477,8.8,3,453,9.8,8.9,9.3,9.0,8.7,8.7,9.6,600,450,10,3.0,1,False
+"Holiday Inn Express New Orleans - St Charles, an IHG ",New-Orleans,321,7.6,3,886,8.4,8.1,8.4,8.2,7.7,7.8,8.5,1.1,750,12,7.0,2,False
+"Holiday Inn Club Vacations New Orleans Resort, an IHG ",New-Orleans,553,8.5,3,66,9.3,9.1,9.3,8.9,8.7,8.8,7.5,950,950,11,4.0,1,False
+Dauphine Orleans ,New-Orleans,522,8.2,3,308,9.5,8.3,9.1,8.4,7.8,8.0,8.6,650,950,10,4.0,1,False
+French Market Inn,New-Orleans,443,8.5,3,617,9.6,8.6,9.2,8.7,8.5,8.4,8.2,650,700,10,3.0,1,False
+The Jung  and Residences,New-Orleans,464,8.5,3,"1,597",8.7,8.9,8.5,9.0,8.5,8.6,8.8,1.5,1.2,11,4.0,1,False
+Prince Conti ,New-Orleans,512,8.6,3,397,9.6,8.9,9.1,8.9,8.6,8.6,9.1,650,950,10,4.0,1,False
+"Holiday Inn Express New Orleans Downtown, an IHG ",New-Orleans,473,7.4,3,985,8.6,7.8,8.2,7.9,7.5,7.7,8.1,1.2,700,11,4.0,1,False
+Pelham ,New-Orleans,519,8.1,3,"1,034",9.2,8.7,8.8,8.7,8.3,8.2,8.1,900,1.2,11,4.0,1,False
+ Villa Convento,New-Orleans,533,8.3,3,698,9.5,8.4,9.4,8.4,8.6,8.1,8.9,700,250,10,6.0,1,False
+Homewood Suites by Hilton New Orleans,New-Orleans,599,8.0,3,966,8.9,8.4,8.7,8.5,8.1,8.2,8.3,950,650,11,7.0,2,False
+"Kimpton  Fontenot, an IHG Hotel",New-Orleans,815,8.8,4,89,9.4,9.2,9.4,9.2,8.6,9.2,7.5,850,1.1,11,7.0,2,True
+ Mazarin,New-Orleans,615,8.3,4,790,9.5,8.6,8.9,8.8,8.1,8.3,8.9,800,1.1,11,5.0,2,False
+Best Western Plus French Quarter Courtyard ,New-Orleans,522,8.2,4,"2,369",9.1,8.4,9.0,8.4,8.2,8.2,8.6,850,800,10,7.0,1,False
+"The Higgins  New Orleans, Curio Collection By Hilton",New-Orleans,949,8.8,4,212,9.3,9.4,9.0,9.4,8.5,9.2,8.8,1.2,"1,000",12,6.0,1,False
+MOXY New Orleans Downtown/French Quarter Area,New-Orleans,512,7.6,4,353,8.8,8.3,8.2,8.3,7.7,7.9,8.0,1.1,850,11,7.0,2,True
+The Frenchmen,New-Orleans,632,8.3,0,53,9.5,8.8,9.0,8.5,7.8,8.3,10,1.1,350,9,9.0,1,False
+Maison de la Luz,New-Orleans,"1,048",9.6,5,194,9.5,9.7,9.7,9.8,8.9,9.5,9.7,950,700,11,4.0,4,True
+" Indigo New Orleans Garden District, an IHG Hotel",New-Orleans,553,8.1,4,369,9.0,8.6,8.4,8.6,8.3,8.3,8.2,2.4,1.5,13,7.0,1,True
+The Royal Sonesta New Orleans,New-Orleans,908,8.2,4,"1,983",9.2,8.7,8.6,8.7,7.8,8.5,8.2,750,950,11,9.0,2,True
+Alder  Uptown New Orleans,New-Orleans,443,8.6,3,778,8.4,9.0,9.0,9.0,8.7,8.8,8.8,2.5,2.8,14,4.0,1,True
+Ace  New Orleans,New-Orleans,553,8.6,4,689,9.3,8.9,9.1,8.7,8.4,9.0,8.5,1.1,650,11,4.0,1,True
+Wyndham New Orleans French Quarter,New-Orleans,554,8.0,4,"2,723",9.1,8.4,8.7,8.5,8.0,8.0,8.6,650,1.2,11,7.0,2,False
+Four Points by Sheraton French Quarter,New-Orleans,697,8.6,4,606,9.4,9.0,9.1,9.1,8.3,8.8,8.8,600,750,10,6.0,2,False
+La Quinta by Wyndham New Orleans Downtown,New-Orleans,460,7.7,3,"2,319",9.0,8.3,8.5,8.3,8.1,8.0,7.8,950,1.1,11,9.0,2,False
+"Holiday Inn New Orleans-Downtown Superdome, an IHG ",New-Orleans,421,7.9,4,"2,392",8.7,8.3,8.3,8.4,7.9,8.1,7.9,1.2,750,11,7.0,2,False
+"voco St James , an IHG hotel",New-Orleans,435,7.3,4,395,8.9,7.7,8.4,7.7,7.6,7.5,7.2,700,1.1,11,4.0,1,True
+Virgin s New Orleans,New-Orleans,958,8.9,4,211,9.2,9.3,9.2,9.3,8.5,9.2,9.1,1.1,550,11,8.0,1,True
+Brent House ,New-Orleans,512,8.0,3,609,8.1,8.6,8.5,8.6,8.1,8.3,8.6,4.1,7,12,4.0,2,False
+Canopy by Hilton New Orleans Downtown,New-Orleans,482,8.0,3,109,8.6,8.8,8.6,8.5,8.1,8.5,5.8,1.1,850,11,9.0,1,False
+La Galerie French Quarter ,New-Orleans,715,8.2,4,"1,049",9.3,8.6,8.9,8.5,8.2,8.2,8.3,700,1.1,11,4.0,5,True
+Sheraton New Orleans ,New-Orleans,769,8.0,4,843,9.3,8.5,8.6,8.6,7.8,8.3,,800,1.2,11,7.0,5,True
+The Westin New Orleans,New-Orleans,890,8.8,4,"1,142",9.5,9.2,9.1,9.2,8.6,9.1,7.8,750,1.1,11,9.0,3,True
+New Orleans Marriott,New-Orleans,769,8.2,4,854,9.2,8.5,8.6,8.6,7.8,8.4,8.0,750,1.2,11,7.0,2,False
+DoubleTree by Hilton New Orleans,New-Orleans,"1,109",8.2,4,"2,210",9.2,8.5,8.7,8.6,8.0,8.3,8.4,900,1.3,11,9.0,2,False
+Magnolia New Orleans,New-Orleans,410,7.8,4,137,9.0,8.3,8.6,8.3,7.9,7.8,7.5,950,1.1,11,4.0,1,
+Omni Royal Orleans ,New-Orleans,940,8.5,4,"1,281",9.6,8.8,9.0,8.8,8.1,8.6,,550,750,10,8.0,1,True
+ Monteleone,New-Orleans,"1,027",9.0,4,427,9.7,9.5,9.4,9.5,8.5,9.2,8.6,850,1.1,11,3.0,2,True
+Hilton Garden Inn New Orleans Convention Center,New-Orleans,435,7.8,3,"1,281",8.3,8.5,8.2,8.5,7.9,8.2,8.0,1.4,1.5,12,7.0,1,True
+Hyatt Regency New Orleans,New-Orleans,"1,067",8.6,4,983,9.1,8.9,8.8,9.0,8.2,8.8,8.1,1.3,350,11,7.0,5,False
+Hampton Inn Downtown / French Quarter Area,New-Orleans,524,8.2,3,"1,583",9.0,8.5,8.6,8.6,8.3,8.3,8.6,900,950,11,7.0,1,True
+Hyatt Centric French Quarter,New-Orleans,910,8.5,4,733,9.4,8.9,9.0,9.0,8.2,8.7,8.2,900,1.2,11,7.0,2,True
+"St Charles Inn, Superior ",New-Orleans,581,8.3,3,680,9.2,8.6,9.0,8.7,8.3,8.2,8.7,3.2,2.7,14,7.0,3,True
+"The Saint , New Orleans, French Quarter, Autograph Collection",New-Orleans,756,8.2,4,183,9.3,8.8,9.0,8.6,8.0,8.6,8.1,750,1.2,11,5.0,2,False
+ Provincial,New-Orleans,615,8.6,4,658,9.6,8.9,9.1,8.9,8.5,8.6,8.6,700,250,10,4.0,1,False
+ Peter and Paul,New-Orleans,591,9.2,4,410,9.3,9.4,9.4,9.4,8.8,9.2,8.9,1.4,900,9,4.0,1,True
+Homewood Suites By Hilton New Orleans French Quarter,New-Orleans,610,8.3,3,998,9.1,8.7,8.7,8.8,8.2,8.6,7.9,"1,000",1.2,10,7.0,2,True
+"St Charles Coach House, Ascend  Collection",New-Orleans,485,8.8,3,352,9.1,9.0,9.3,9.1,8.8,8.8,7.3,2.2,1.4,13,6.0,2,False
+Fairfield Inn & Suites by Marriott New Orleans Downtown/French Quarter Area,New-Orleans,551,8.2,3,342,8.8,8.6,8.5,8.7,8.1,8.3,8.8,800,750,11,6.0,2,False
+ St. Pierre French Quarter,New-Orleans,398,7.6,3,"1,307",9.1,7.6,8.9,7.7,7.7,7.6,8.1,800,700,10,4.0,1,True
+The Lafayette by LuxUrban,New-Orleans,440,8.1,3,157,9.0,8.6,8.9,8.5,8.1,8.1,8.5,1.1,750,11,3.0,1,True
+Hilton New Orleans / St. Charles Avenue,New-Orleans,626,8.0,4,692,8.9,8.6,8.6,8.6,8.0,8.2,,700,900,11,6.0,2,True
+Hyatt House New Orleans Downtown,New-Orleans,787,8.6,3,654,9.1,9.1,8.8,9.0,8.4,8.8,8.1,1.3,400,11,7.0,1,False
+Selina Catahoula New Orleans,New-Orleans,421,7.9,3,93,9.1,8.3,8.7,8.0,7.9,8.1,8.8,1.2,750,11,3.0,2,True
+The Old No. 77  & Chandlery,New-Orleans,453,7.8,4,967,9.1,8.2,8.5,8.3,7.8,8.0,7.4,900,1.2,11,4.0,1,True
+Omni Riverfront New Orleans,New-Orleans,615,8.0,4,432,9.0,8.6,8.6,8.6,7.9,8.3,,"1,000",1.4,11,8.0,1,True
+Loews New Orleans ,New-Orleans,686,8.5,4,562,9.4,9.0,9.1,9.0,8.4,8.8,7.9,800,1.3,11,4.0,3,True
+"Holiday Inn Express New Orleans East, an IHG ",New-Orleans,535,8.1,2,668,8.0,8.6,8.7,8.7,8.2,8.4,8.8,12,14,6,5.0,2,False
+"The Eliza Jane, in The Unbound Collection by Hyatt",New-Orleans,930,8.9,4,355,9.5,9.3,9.2,9.2,8.5,9.0,8.6,650,1.1,11,4.0,2,False
+"InterContinental New Orleans, an IHG ",New-Orleans,682,8.2,4,"1,057",9.1,8.7,8.7,8.7,8.1,8.5,8.1,700,900,11,9.0,4,True
+Royal Frenchmen  and Bar,New-Orleans,830,8.3,4,295,9.3,8.8,8.7,8.9,8.3,8.5,8.9,"1,000",600,9,5.0,1,True
+New Orleans Marriott Warehouse Arts District,New-Orleans,756,8.8,4,104,9.1,9.2,9.0,9.2,8.5,9.0,5.8,1.3,1.5,12,6.0,4,False
+Le Méridien New Orleans,New-Orleans,690,7.7,4,"1,892",9.1,8.2,8.4,8.2,7.7,8.0,,800,1.3,11,7.0,2,True
+SpringHill Suites by Marriott New Orleans Downtown/Canal Street,New-Orleans,492,8.4,4,430,8.5,8.9,8.6,8.9,8.5,8.6,8.5,1.7,1.3,11,6.0,1,False
+Four Seasons New Orleans,New-Orleans,"1,666",8.9,5,95,9.3,9.6,9.3,9.3,8.3,9.4,8.8,750,1.2,11,7.0,3,True
+Hilton Garden Inn New Orleans French Quarter/CBD,New-Orleans,477,7.5,3,730,8.7,8.0,8.1,8.0,7.7,7.8,7.3,1.1,850,11,7.0,2,True
+One11 ,New-Orleans,771,8.9,4,452,9.5,9.4,9.3,9.5,8.6,9.2,9.5,750,1.1,11,9.0,1,True
+ Indigo - New Orleans - French Quarter,New-Orleans,813,7.4,3,132,8.4,8.2,7.9,8.3,7.7,7.8,,850,1.1,11,7.0,1,False
+Mint House New Orleans - Riverside,New-Orleans,394,9.2,6,13,9.0,9.4,8.5,9.2,8.5,9.0,,850,1.2,11,5.0,1,
+Cambria  New Orleans Downtown Warehouse District,New-Orleans,547,8.4,4,270,9.1,8.7,9.1,8.8,8.4,8.7,8.4,750,1.2,11,6.0,1,True
+Andrew Jackson  French Quarter,New-Orleans,465,7.8,3,399,9.4,7.9,9.1,7.9,7.8,7.7,8.2,550,400,10,4.0,1,True
+Best Western Plus St. Christopher ,New-Orleans,492,7.6,3,"1,624",8.9,8.2,8.3,8.3,7.8,7.8,7.8,850,1.2,11,7.0,3,True
+Courtyard by Marriott New Orleans French Quarter/Iberville,New-Orleans,708,8.4,3,829,9.3,8.8,9.0,8.8,8.2,8.5,8.4,850,1.2,11,7.0,1,False
+SpringHill Suites by Marriott New Orleans Warehouse Arts District,New-Orleans,551,8.2,3,571,8.6,8.6,8.8,8.6,8.2,8.4,8.7,1.2,1.3,12,7.0,1,False
+Sonesta ES Suites New Orleans Convention Center,New-Orleans,653,8.1,3,840,8.6,8.5,8.8,8.5,8.2,8.3,8.7,"1,000",1.1,12,9.0,2,True
+Courtyard by Marriott New Orleans Downtown Near the French Quarter,New-Orleans,553,7.9,3,268,8.9,8.2,8.8,8.4,7.8,8.1,7.9,850,1.1,11,7.0,1,True
+Harrah's New Orleans  & Casino,New-Orleans,752,7.7,4,135,8.8,8.0,8.2,8.2,7.4,7.9,,850,1.3,11,8.0,3,False
+"The Ritz-Carlton, New Orleans",New-Orleans,"1,450",8.8,5,235,9.1,9.3,9.2,9.3,8.4,9.0,,750,1.2,11,7.0,6,True
+Super 8 by Wyndham New Orleans,New-Orleans,291,7.0,2,836,6.4,7.7,8.3,7.6,7.3,7.2,7.8,7,7,3.7,4.0,1,False
+ de la Monnaie,New-Orleans,542,8.4,0,534,9.3,8.6,9.1,8.6,8.4,8.3,8.8,1.1,300,9,4.0,1,False
+Days Inn by Wyndham New Orleans Pontchartrain,New-Orleans,209,6.7,3,483,6.7,7.3,7.4,7.4,7.0,6.9,5.8,4.2,5,4.7,3.0,1,False
+Le Pavillon New Orleans,New-Orleans,600,8.3,4,"1,171",9.2,8.8,8.9,8.9,8.2,8.3,8.2,900,650,11,4.0,1,True
+Maison Dupuy ,New-Orleans,551,7.4,3,362,9.1,7.9,8.3,7.9,7.2,7.3,8.8,750,900,10,4.0,1,False
+Bourbon Orleans ,New-Orleans,801,8.3,4,814,9.5,8.6,8.7,8.7,7.9,8.5,8.6,550,550,10,4.0,1,True
+"Holiday Inn  French Quarter-Chateau Lemoyne, an IHG Hotel",New-Orleans,751,8.1,3,986,9.4,8.4,8.7,8.5,8.1,8.2,8.5,700,1.1,10,7.0,2,False
+"Blake  New Orleans, BW Premier Collection",New-Orleans,409,6.8,4,"1,350",8.6,7.2,8.0,7.3,7.2,7.1,7.6,850,800,11,7.0,2,False
+Drury Plaza  New Orleans,New-Orleans,618,9.2,3,"1,621",9.5,9.4,9.5,9.4,9.0,9.3,8.7,900,650,11,6.0,2,True
+Hampton Inn New Orleans/St.Charles Ave,New-Orleans,483,8.3,3,244,9.2,8.8,8.8,8.8,8.2,8.4,8.5,3.2,2.7,14,6.0,2,False
+Jean Lafitte House,New-Orleans,551,8.5,3,195,9.4,8.8,9.1,8.6,8.6,8.4,8.9,850,400,9,4.0,1,False
+Wyndham Garden Baronne Plaza,New-Orleans,406,7.6,3,546,8.8,7.9,8.4,8.1,7.5,7.7,7.3,950,900,11,4.0,2,False
+The Windsor Court,New-Orleans,"1,460",9.5,5,113,9.8,9.7,9.8,9.8,8.9,9.6,8.8,700,1.3,11,6.0,3,True
+Hilton New Orleans Riverside,New-Orleans,"1,353",8.1,4,"1,067",9.1,8.5,8.5,8.6,7.7,8.2,8.1,850,1.4,11,7.0,5,False
+"Q&C  and Bar New Orleans, Autograph Collection",New-Orleans,436,8.4,4,468,9.2,8.8,9.1,8.7,8.2,8.5,8.9,700,"1,000",11,6.0,1,True
+Aloft New Orleans Downtown,New-Orleans,614,8.0,3,418,9.0,8.4,8.5,8.6,8.0,8.2,8.3,"1,000",850,11,7.0,1,True
+Olde Town Inn New Orleans,New-Orleans,340,6.2,3,"1,467",8.0,6.4,8.0,6.5,6.9,6.4,6.7,1.4,"1,000",9,4.0,1,True
+Courtyard by Marriott New Orleans Warehouse Arts District,New-Orleans,"1,089",7.8,3,468,8.5,8.5,8.4,8.4,7.8,8.1,9.1,1.1,1.3,12,7.0,1,False
+Renaissance New Orleans Pere Marquette French Quarter Area ,New-Orleans,646,8.2,4,106,9.1,8.7,8.6,8.6,8.0,8.2,6.0,900,950,11,7.0,3,False
+Maison St. Charles,New-Orleans,364,7.3,3,"1,004",8.5,7.6,8.1,7.7,7.4,7.4,8.1,1.5,850,12,9.0,1,True
+Renaissance New Orleans Arts Warehouse District ,New-Orleans,553,8.6,4,108,8.9,8.8,9.0,8.9,8.0,8.7,,800,1.2,11,7.0,1,False
+Residence Inn by Marriott New Orleans French Quarter Area/Cen B,New-Orleans,538,9.0,3,375,9.5,9.2,9.1,9.3,8.9,9.2,8.8,700,950,11,5.0,1,True
+Lafitte  & Bar,New-Orleans,787,8.6,3,92,9.7,8.8,9.4,8.7,8.2,8.5,9.2,650,450,10,8.0,1,False
+ Vinache,New-Orleans,464,6.9,4,"2,110",8.2,7.5,7.9,7.5,7.1,7.1,7.4,1.3,1.2,11,5.0,2,True
+Quality Inn New Orleans I-10 East,New-Orleans,179,5.6,2,358,6.5,6.3,7.0,6.4,6.1,6.0,6.1,11,12,5,6.0,1,True
+TownePlace Suites by Marriott New Orleans Downtown/Canal Street,New-Orleans,522,8.5,4,688,8.6,9.0,8.7,9.0,8.8,8.8,8.4,1.7,1.3,11,6.0,1,True
+Lucky Inn New Orleans,New-Orleans,387,8.3,1,172,8.1,8.9,9.1,9.0,8.5,8.4,8.9,2.1,2.2,10,4.0,1,False
+Haunted  New Orleans,New-Orleans,876,8.9,3,60,9.7,9.0,9.7,9.3,8.8,8.8,5.8,700,300,10,4.0,1,True
+JW Marriott New Orleans,New-Orleans,"1,079",8.9,4,248,9.5,9.3,9.3,9.4,8.7,9.2,7.0,750,1.2,11,7.0,1,False
+"Motel 6-New Orleans, LA - Near Downtown",New-Orleans,278,6.0,2,454,6.8,6.4,7.0,6.5,6.6,6.2,7.1,4.3,5,4.6,4.0,1,True
+Federal City Inn & Suites,New-Orleans,334,7.6,3,574,8.1,8.0,8.6,8.0,7.9,7.7,8.4,2.9,2.8,10,5.0,1,True
+Embassy Suites by Hilton New Orleans Convention Center,New-Orleans,712,6.8,4,685,8.3,7.5,7.7,7.6,6.8,7.1,,"1,000",1.3,12,6.0,1,True
+Saint Philip Residence,New-Orleans,"1,327",7.3,3,424,9.1,7.8,7.5,7.8,7.6,7.3,7.0,650,300,10,4.0,2,False
+The Mansion on Royal,New-Orleans,977,7.9,3,404,8.8,8.4,7.8,8.3,8.0,7.7,,1.5,800,9,,1,False
+Comfort Suites New Orleans East,New-Orleans,467,8.0,2,255,8.2,8.3,8.8,8.4,8.0,8.2,8.5,12,14,6,5.0,1,False
+W New Orleans - French Quarter,New-Orleans,"1,048",7.4,4,80,9.3,7.9,8.5,8.1,6.7,7.8,,700,900,11,7.0,1,True
+Rodeway Inn & Suites,New-Orleans,438,4.8,2,72,5.7,5.4,6.2,5.6,5.3,5.4,,5,6,4,6.0,1,False
+Trident Inn & Suites New Orleans,New-Orleans,"1,466",5.6,3,"1,972",6.7,6.3,6.9,6.4,6.4,5.9,6.4,13,14,7,9.0,1,False
+Audubon Cottages,New-Orleans,995,9.2,4,36,9.7,9.5,9.5,9.6,8.9,9.2,,750,950,10,4.0,1,False
+Stunning Apartments with Luxury Amenities,New-Orleans,392,7.2,4,99,8.8,7.5,7.4,7.4,7.5,7.4,6.3,900,1.2,11,,2,
+The Alexandre,New-Orleans,907,8.3,0,417,9.1,8.7,8.0,8.7,8.7,8.5,8.0,700,1.1,11,,1,False
+The Brakeman ,New-Orleans,477,8.8,3,6,10,10,8.8,9.6,9.5,9.6,,950,1.2,10,4.0,1,False
+The Magnolia Mansion,New-Orleans,498,6.7,4,103,8.9,7.6,8.0,7.3,7.2,6.9,5.4,,,,9.0,2,False
+Royal Street Inn & Bar,New-Orleans,929,9.8,3,13,9.4,9.6,10,9.8,9.2,9.8,,850,500,9,4.0,1,False
+Antonine Apartment Upper Garden District,New-Orleans,477,7.8,2,5,8.5,7.5,8.1,8.5,8.0,8.0,,2.8,3.5,15,5.0,2,False
+Travelers New Orleans,New-Orleans,551,9.2,0,50,9.4,9.7,8.9,9.6,8.6,9.4,10,1.4,1.6,13,4.0,1,False

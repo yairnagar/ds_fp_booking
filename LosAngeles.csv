@@ -1,0 +1,250 @@
+Name,City,Price,Rating,Stars,Reviews,Location,Cleanliness,staff,Comfort,Value for Money,Facilities,Wifi,Closest attraction dist,Closest transportation,Closest airport,payment methods,Number of languages,Allowing pets
+Ace  Downtown Los Angeles,Los-Angeles,855,7.7,4,665,8.2,8.2,8.4,8.3,7.1,7.9,8.0,1.6,800,15,3.0,4.0,True
+Level Los Angeles - Downtown South Olive,Los-Angeles,"1,026",8.0,4,"1,474",8.6,8.5,8.2,8.4,7.9,8.5,8.2,1.8,550,15,5.0,2.0,
+citizenM Los Angeles Downtown,Los-Angeles,615,8.8,4,"2,176",8.3,9.2,9.3,9.1,8.4,9.1,8.9,1.2,350,16,6.0,1.0,False
+The Adler a Hollywood ,Los-Angeles,908,7.8,3,"2,000",8.6,8.1,8.6,8.1,7.7,7.7,8.5,2.6,500,11,7.0,4.0,False
+Hollywood Historic ,Los-Angeles,602,8.0,3,"1,760",8.2,8.4,9.0,8.4,8.1,7.9,8.1,3.4,2.1,14,3.0,3.0,False
+Hilton Los Angeles-Universal City,Los-Angeles,"1,242",8.2,4,"2,611",9.4,8.5,8.6,8.6,7.5,8.4,7.9,4.3,450,7,7.0,7.0,True
+Park Plaza Lodge,Los-Angeles,670,8.6,3,"1,095",9.2,8.9,9.4,9.0,8.4,8.4,9.4,3.7,3.7,11,5.0,1.0,False
+The London West Hollywood at Beverly Hills,Los-Angeles,"1,577",8.9,5,381,9.3,9.3,9.3,9.4,8.4,9.1,9.2,3.2,4.4,10,3.0,2.0,True
+"InterContinental - Los Angeles Downtown, an IHG ",Los-Angeles,"1,233",8.7,4,"2,659",9.1,9.1,8.9,9.1,8.4,9.0,8.7,1.5,200,16,7.0,1.0,True
+"Holiday Inn Los Angeles - LAX Airport, an IHG ",Los-Angeles,548,7.4,3,"4,589",8.0,7.9,8.0,8.0,7.4,7.6,8.1,11,14,3.7,6.0,2.0,False
+ Aventura,Los-Angeles,606,8.4,3,983,8.2,8.8,8.8,8.7,8.3,8.5,8.4,3.2,1.1,15,3.0,2.0,False
+Omni Los Angeles  California Plaza,Los-Angeles,890,8.5,4,"1,121",8.8,9.0,9.1,9.1,8.1,8.8,,1.2,400,17,8.0,3.0,True
+ Normandie - Los Angeles,Los-Angeles,611,8.1,3,612,8.6,8.5,9.0,8.5,8.0,8.1,8.5,4,150,15,7.0,1.0,True
+"Holiday Inn Express Hollywood Walk of Fame, an IHG ",Los-Angeles,804,8.0,3,839,8.7,8.6,8.5,8.5,7.7,8.2,8.8,1.6,500,11,5.0,2.0,False
+"Holiday Inn Express Los Angeles LAX Airport, an IHG ",Los-Angeles,704,8.5,3,"1,715",8.7,8.9,8.9,9.0,8.2,8.6,7.7,9,14,3.1,7.0,5.0,False
+Homewood Suites By Hilton Los Angeles International Airport,Los-Angeles,787,8.0,3,"1,302",8.7,8.5,8.3,8.6,7.7,8.4,8.4,9,15,1.8,5.0,2.0,False
+Fairmont Century Plaza Los Angeles,Los-Angeles,"1,475",8.9,5,76,9.2,9.1,9.4,9.4,8.5,9.1,9.2,4.3,6,6,5.0,1.0,True
+"The Hoxton, Downtown LA",Los-Angeles,876,8.4,4,653,8.4,9.1,9.0,9.1,8.1,8.6,9.2,1.7,"1,000",15,5.0,2.0,
+"H  Los Angeles, Curio Collection By Hilton",Los-Angeles,821,8.1,4,"1,812",8.7,8.7,8.3,8.8,7.9,8.5,8.4,9,15,1.8,5.0,3.0,False
+Hilton Santa Monica,Los-Angeles,"1,505",7.9,4,974,8.3,8.6,8.6,8.6,7.1,8.1,,2.3,8,3.6,7.0,2.0,False
+"Beverly Wilshire, A Four Seasons ",Los-Angeles,"3,177",8.9,5,247,9.8,9.2,9.2,9.3,8.2,8.9,8.6,3.7,7,7,7.0,10.0,True
+Montrose at Beverly Hills,Los-Angeles,"1,199",8.6,4,354,9.3,9.0,9.1,9.1,7.9,8.6,7.9,3.3,4.8,10,3.0,7.0,
+Fairmont Miramar  & Bungalows,Los-Angeles,"1,728",8.0,5,333,9.3,8.5,8.7,8.6,7.1,8.3,,4.4,7,4.7,6.0,6.0,True
+Dunes Inn - Sunset,Los-Angeles,511,8.0,3,"1,535",8.4,8.3,8.6,8.2,8.1,7.8,8.8,2.7,500,12,4.0,2.0,False
+Waldorf Astoria Beverly Hills,Los-Angeles,"2,951",9.2,5,130,9.6,9.6,9.3,9.6,8.6,9.5,9.6,3.2,6,7,8.0,8.0,True
+"Santa Monica Proper , a Member of Design Hotels",Los-Angeles,"2,229",8.9,5,245,9.0,9.3,9.1,9.6,7.7,9.2,9.5,2.5,7,4.2,5.0,13.0,True
+ Sofitel Los Angeles at Beverly Hills,Los-Angeles,"1,266",8.0,4,808,8.9,8.2,8.6,8.4,7.4,7.9,8.0,4.4,4.6,10,5.0,4.0,True
+Best Western Plus Sunset Plaza ,Los-Angeles,"1,061",7.9,4,966,9.0,8.2,8.3,8.4,7.5,7.9,8.7,3.3,3.2,11,8.0,2.0,False
+Chamberlain West Hollywood,Los-Angeles,"1,199",8.3,4,294,9.2,9.0,8.7,9.0,7.9,8.6,8.6,3.5,4,11,3.0,2.0,
+Super 8 by Wyndham Los Angeles-Culver City Area,Los-Angeles,420,8.1,2,594,8.4,8.6,8.8,8.6,7.9,8.1,8.0,3.9,10,2.7,5.0,2.0,False
+Hollywood Inn Suites ,Los-Angeles,417,7.8,3,"3,035",7.0,8.4,8.0,8.4,8.1,8.1,7.8,11,15,4,4.0,1.0,False
+AC  by Marriott Los Angeles South Bay,Los-Angeles,718,8.8,4,833,8.9,9.2,9.0,9.2,8.6,9.1,8.7,11,17,2.8,6.0,1.0,True
+Inn at Venice Beach,Los-Angeles,987,8.0,4,899,9.1,8.4,8.7,8.5,7.5,7.8,8.4,4.5,11,4.1,3.0,2.0,False
+Loews Hollywood ,Los-Angeles,"1,233",8.4,4,"2,765",9.2,8.8,8.9,8.8,7.8,8.5,8.3,1.7,200,11,4.0,2.0,True
+Dream Hollywood,Los-Angeles,"1,110",8.1,4,"1,389",8.7,8.7,8.5,8.7,7.6,8.5,8.8,2.2,450,12,4.0,5.0,True
+Hyatt Regency Los Angeles International Airport,Los-Angeles,682,8.2,3,"2,122",9.1,8.7,8.7,8.8,7.8,8.5,8.7,9,15,1.5,5.0,2.0,False
+Silver Lake Pool & Inn,Los-Angeles,"1,563",8.8,4,213,9.3,9.4,9.3,9.3,8.1,9.0,9.5,3.8,900,14,4.0,2.0,True
+The Garland,Los-Angeles,884,8.9,4,"1,353",9.1,9.2,9.2,9.2,8.4,9.1,8.5,4.6,950,6,7.0,4.0,True
+Luskin ,Los-Angeles,"1,151",9.1,4,"1,035",9.5,9.5,9.4,9.5,8.6,9.3,9.0,2.9,2.9,6,4.0,2.0,True
+The Charlie West Hollywood,Los-Angeles,"1,319",9.4,4,153,9.6,9.5,9.6,9.6,8.7,9.3,10,3.2,3.4,11,4.0,2.0,True
+Mayumi,Los-Angeles,752,8.8,3,571,8.6,9.3,9.0,9.4,8.5,9.0,9.0,7,11,6,8.0,2.0,False
+JW Marriott Los Angeles L.A. LIVE,Los-Angeles,"1,680",8.7,4,494,9.2,9.2,9.0,9.2,8.3,9.0,8.2,1.9,900,15,7.0,5.0,False
+The LINE ,Los-Angeles,890,7.7,4,985,8.6,8.3,8.4,8.3,7.3,8.0,8.4,3.9,50,15,6.0,3.0,True
+Beverly Hills Plaza  & Spa,Los-Angeles,"1,206",7.9,4,691,8.7,8.3,8.4,8.4,7.5,8.0,8.3,4.7,4.7,6,5.0,3.0,False
+Short Stories ,Los-Angeles,"1,250",8.8,3,297,9.4,9.2,9.2,9.3,8.3,8.9,9.3,3.7,3.8,11,5.0,2.0,True
+Trylon  - Hollywood,Los-Angeles,461,7.4,2,899,8.3,7.7,8.5,7.7,7.6,7.3,8.1,1.9,700,11,2.0,2.0,False
+Le Parc at Melrose,Los-Angeles,"1,336",8.1,4,317,9.1,8.6,8.6,8.8,7.7,8.3,8.1,2.9,4.1,10,6.0,2.0,
+Sheraton Grand Los Angeles,Los-Angeles,"1,061",8.3,4,982,8.8,8.7,8.5,8.7,7.9,8.4,,1.5,100,16,7.0,5.0,True
+ Erwin,Los-Angeles,"1,192",8.2,4,676,9.2,8.6,8.8,8.6,7.5,8.2,8.6,5,10,3.8,6.0,2.0,False
+El Royale  - Near Universal Studios Hollywood,Los-Angeles,842,9.0,4,394,9.4,9.4,9.5,9.4,9.0,9.0,9.5,5,950,7,2.0,2.0,False
+Tuscan Garden Inn,Los-Angeles,481,7.4,3,"1,628",7.4,7.9,8.1,7.8,7.6,7.5,6.6,2.9,750,15,3.0,2.0,False
+Sheraton Gateway Los Angeles ,Los-Angeles,546,7.6,4,"2,954",8.5,8.2,8.0,8.3,7.5,7.9,7.8,9,15,1.9,7.0,5.0,False
+"Hilton Los Angeles-Culver City, CA",Los-Angeles,821,7.8,3,614,8.1,8.5,8.5,8.6,7.6,7.9,7.4,7,12,4.7,7.0,1.0,False
+Hilton Checkers Los Angeles,Los-Angeles,893,7.8,4,408,8.4,8.3,8.3,8.4,7.5,7.9,6.8,1.5,200,16,9.0,2.0,False
+Courtyard by Marriott Los Angeles L.A. LIVE,Los-Angeles,"1,302",8.4,3,438,8.9,8.7,8.8,8.8,8.1,8.6,8.4,1.8,750,15,6.0,1.0,False
+Palihouse West Hollywood,Los-Angeles,"1,254",8.8,4,59,9.2,9.1,8.9,9.2,8.2,9.1,9.2,4.4,4.5,10,7.0,2.0,True
+Shutters On The Beach,Los-Angeles,"2,920",9.0,5,262,9.7,9.6,9.4,9.7,7.9,9.3,,2.5,8,3.9,5.0,6.0,True
+"Hampton Inn & Suites Los Angeles/Hollywood, CA",Los-Angeles,"1,044",8.5,2,477,8.5,9.0,9.0,8.9,8.2,8.7,8.3,3,1.1,13,8.0,1.0,True
+Bayside ,Los-Angeles,"1,326",8.0,3,"1,349",9.4,8.2,8.6,8.3,7.3,7.8,8.8,2.7,8,3.8,3.0,2.0,True
+Century Park  LA,Los-Angeles,756,7.7,3,558,8.2,8.3,8.0,8.3,7.7,7.8,7.8,4.6,6,5,4.0,2.0,False
+Hilton Los Angeles Airport,Los-Angeles,591,7.1,4,"2,900",8.2,7.7,8.0,7.8,6.9,7.4,,10,15,2.7,7.0,2.0,True
+Sunset Marquis ,Los-Angeles,"1,717",8.9,4,286,9.5,9.3,9.4,9.3,8.3,9.0,,3.5,3.7,11,3.0,10.0,True
+"Holiday Inn Express West Los Angeles, an IHG ",Los-Angeles,976,8.0,3,456,7.9,8.6,8.8,8.6,7.7,8.2,8.5,4.3,4.4,3.5,7.0,2.0,False
+Doubletree by Hilton Los Angeles Downtown,Los-Angeles,660,7.3,4,779,7.9,7.9,8.2,8.0,7.0,7.6,,2.1,550,17,6.0,2.0,False
+Sheraton Universal,Los-Angeles,"1,220",8.4,4,955,9.4,8.8,8.9,8.8,7.9,8.6,9.1,4.4,300,7,7.0,7.0,True
+Palihotel Westwood Village,Los-Angeles,"1,185",8.7,4,572,9.3,9.3,9.3,9.2,8.2,8.8,9.2,3.6,3.6,5,4.0,1.0,True
+" Figueroa, Unbound Collection by Hyatt",Los-Angeles,796,8.2,5,"1,007",8.6,8.8,9.0,8.7,7.6,8.4,8.7,1.7,600,15,9.0,2.0,True
+Ramada by Wyndham Los Angeles/Wilshire Center,Los-Angeles,567,7.1,3,"1,336",8.0,7.4,7.8,7.5,7.2,7.0,7.5,4.4,250,14,4.0,1.0,False
+Embassy Suites Los Angeles - International Airport/North,Los-Angeles,727,7.6,3,"2,445",8.3,8.2,8.2,8.3,7.5,8.0,7.9,9,15,2.4,7.0,2.0,False
+Hollywood Celebrity ,Los-Angeles,644,8.6,2,995,9.5,8.8,9.4,8.8,8.5,8.4,8.4,1.8,250,11,6.0,1.0,False
+ Carmel Santa Monica,Los-Angeles,941,7.1,3,"1,070",9.2,7.5,8.1,7.7,6.9,6.9,7.4,2.9,8,4.2,4.0,4.0,False
+Four Seasons  Los Angeles at Beverly Hills,Los-Angeles,"3,452",8.9,5,184,9.3,9.3,9.3,9.3,8.2,9.0,8.9,2.9,6,9,6.0,7.0,True
+The Beverly Hills  - Dorchester Collection,Los-Angeles,"4,792",9.5,5,130,9.7,9.6,9.5,9.7,8.4,9.6,9.2,3.7,6,8,6.0,7.0,True
+La Quinta by Wyndham LAX,Los-Angeles,473,7.4,3,"3,944",7.9,7.9,7.8,8.0,7.4,7.7,7.9,10,14,3.6,9.0,2.0,True
+Comfort Inn & Suites Near Universal - North Hollywood – Burbank,Los-Angeles,752,8.3,3,434,8.0,8.6,9.0,8.5,8.1,8.4,8.3,8,1.8,3.2,8.0,2.0,False
+SIXTY Beverly Hills,Los-Angeles,"1,577",7.0,4,658,8.9,7.6,7.8,7.6,6.8,7.2,6.9,3.3,7,8,5.0,3.0,True
+Miyako  Los Angeles,Los-Angeles,666,8.7,3,"1,318",8.8,9.2,9.0,9.2,8.4,8.8,8.6,1.1,800,17,6.0,2.0,False
+Hilton Garden Inn Los Angeles Marina Del Rey,Los-Angeles,907,7.5,3,354,8.4,7.9,8.3,8.0,6.8,7.6,7.0,4.7,11,3.7,8.0,1.0,True
+Marina del Rey Marriott,Los-Angeles,993,8.1,3,293,8.9,8.7,8.6,8.8,7.5,8.3,,4.7,11,3.9,7.0,6.0,False
+Residence Inn by Marriott Los Angeles L.A. LIVE,Los-Angeles,"1,577",8.4,3,362,8.7,8.7,8.8,8.7,8.1,8.6,8.0,1.8,750,15,6.0,1.0,True
+Comfort Inn Santa Monica - West Los Angeles,Los-Angeles,"1,336",7.5,2,"1,027",8.1,7.9,8.0,8.0,7.3,7.6,8.3,3.5,4.9,3,9.0,2.0,False
+Mr C Beverly Hills,Los-Angeles,"1,253",7.2,5,250,8.6,7.9,8.0,7.9,6.7,7.4,8.4,3.6,8,7,6.0,3.0,True
+Deluxe Inn LA,Los-Angeles,212,7.1,2,10,6.8,7.3,8.0,7.0,6.8,7.3,,6,6,10,9.0,4.0,False
+The Beverly Hilton,Los-Angeles,"1,340",8.4,4,309,9.2,8.9,8.6,9.1,7.6,8.6,,3,6,7,7.0,4.0,True
+Dunes Inn - Wilshire,Los-Angeles,511,7.9,2,935,8.5,8.2,8.3,8.2,7.9,7.8,7.3,4.5,1.2,13,4.0,2.0,False
+Comfort Inn Near Old Town Pasadena in Eagle Rock CA,Los-Angeles,566,8.3,2,386,8.5,8.6,8.7,8.5,8.2,8.4,8.2,8,4.3,15,3.0,1.0,False
+Sonesta Los Angeles Airport LAX,Los-Angeles,506,7.6,4,"5,403",8.5,8.1,8.1,8.2,7.4,7.8,8.4,9,15,2.1,9.0,4.0,True
+"Kimpton Everly , an IHG Hotel",Los-Angeles,"1,028",8.1,4,954,8.1,8.7,8.7,8.7,7.5,8.4,7.5,2.5,300,11,8.0,2.0,True
+Viceroy Santa Monica,Los-Angeles,"1,350",8.3,4,433,9.2,8.8,9.1,9.0,7.4,8.2,,2.5,8,3.8,3.0,3.0,True
+Petit Ermitage,Los-Angeles,"1,457",8.1,4,138,9.2,8.4,8.6,8.5,7.5,8.2,8.6,2.9,4.5,10,4.0,4.0,True
+Sunset Tower ,Los-Angeles,"1,821",8.5,5,47,9.4,9.0,8.7,9.0,7.8,8.5,8.3,3.2,3.2,12,3.0,4.0,True
+"Kimpton La Peer , an IHG Hotel",Los-Angeles,"1,259",8.1,5,156,9.2,8.6,8.6,8.5,7.5,8.4,8.7,3,5,9,7.0,2.0,True
+Huntley Santa Monica Beach,Los-Angeles,"1,327",8.6,4,"2,202",9.3,9.2,8.7,9.2,7.8,8.8,,4.5,7,4.7,4.0,10.0,False
+Palihouse Santa Monica,Los-Angeles,"1,717",8.4,4,333,9.3,8.9,9.0,8.9,7.7,8.3,8.8,4.7,7,4.8,3.0,2.0,True
+ Mariposa,Los-Angeles,734,8.8,3,473,8.7,9.3,9.2,9.3,8.5,9.0,8.9,8,3.6,7,6.0,5.0,False
+" Indigo - Los Angeles Downtown, an IHG Hotel",Los-Angeles,893,8.3,4,"2,486",8.8,8.7,8.6,8.8,8.1,8.6,8.1,2.4,550,15,4.0,3.0,True
+"tommie Hollywood, part of Jdv by Hyatt",Los-Angeles,785,7.8,4,619,8.4,8.5,8.4,8.7,7.4,8.3,,2.8,"1,000",12,4.0,2.0,
+"Tilt  Universal/Hollywood, Ascend Hotel Collection",Los-Angeles,578,7.0,3,904,8.3,7.5,7.5,7.5,6.9,7.2,7.2,3.2,1.8,8,6.0,3.0,False
+SIRTAJ – Beverly Hills,Los-Angeles,"1,061",7.6,4,247,9.2,8.0,8.4,8.2,7.3,7.5,8.2,3.5,7,8,5.0,3.0,False
+The Hollywood Roosevelt,Los-Angeles,"1,107",8.2,4,"2,058",9.0,8.6,8.6,8.6,7.6,8.4,8.8,1.5,250,11,6.0,8.0,True
+Beverly Hills Marriott,Los-Angeles,"1,079",7.3,4,465,8.6,7.7,7.8,7.9,7.0,7.4,8.2,3.4,7,7,6.0,1.0,True
+The Westin Los Angeles Airport,Los-Angeles,618,7.9,4,"2,817",8.5,8.5,8.3,8.5,7.8,8.1,,10,14,3.4,7.0,1.0,True
+Conrad Los Angeles,Los-Angeles,"1,282",8.8,5,17,9.3,9.4,9.3,9.3,8.5,9.4,,1.2,250,17,3.0,1.0,True
+Venice on the Beach ,Los-Angeles,955,7.9,2,890,9.5,8.0,8.7,8.0,7.4,7.6,8.0,4.3,11,4.3,7.0,2.0,False
+Thompson Hollywood,Los-Angeles,961,8.4,4,487,8.6,9.1,8.7,9.2,7.9,8.9,9.4,2.2,650,12,5.0,1.0,True
+Venice Suites,Los-Angeles,"1,096",7.6,3,804,8.9,8.1,8.2,8.1,7.4,7.7,8.7,4.4,10,3.7,4.0,1.0,False
+Gateway  Santa Monica,Los-Angeles,821,8.1,3,734,8.2,8.7,8.7,8.7,7.7,8.1,8.4,2.8,6,3.1,4.0,3.0,False
+Andaz West Hollywood-a concept by Hyatt,Los-Angeles,"1,146",8.4,4,370,9.2,8.9,9.0,8.9,7.7,8.6,9.3,3.3,3.2,11,7.0,2.0,True
+Best Western Burbank Airport Inn,Los-Angeles,433,8.1,3,643,7.5,8.5,8.7,8.6,8.0,8.2,8.3,7,2.1,2.9,7.0,3.0,False
+The Kinney - Venice Beach,Los-Angeles,894,8.3,3,"1,282",8.4,8.7,8.8,8.8,7.9,8.4,,4.7,10,3.2,5.0,1.0,False
+Mama Shelter Los Angeles,Los-Angeles,700,8.0,4,433,8.5,8.6,8.9,8.6,7.7,8.2,8.8,2.2,500,12,3.0,3.0,True
+"Avalon  Beverly Hills, a Member of Design Hotels",Los-Angeles,"1,371",7.9,4,56,8.9,8.6,8.7,8.9,7.6,8.2,9.2,3.4,7,7,5.0,4.0,True
+ MDR Marina del Rey- a DoubleTree by Hilton,Los-Angeles,759,7.6,3,579,8.3,8.1,8.6,8.1,7.3,7.9,7.3,3,11,3.6,7.0,2.0,False
+"SLS , a Luxury Collection Hotel, Beverly Hills",Los-Angeles,"1,646",7.5,5,304,8.7,8.3,8.0,8.3,7.2,7.9,,4.8,5,9,7.0,12.0,True
+Jamaica Bay Inn Marina Del Rey Tapestry Collection by Hilton,Los-Angeles,995,8.0,3,385,9.2,8.5,8.5,8.6,7.6,8.2,8.4,4.7,11,3.8,3.0,1.0,True
+Millennium Biltmore Los Angeles,Los-Angeles,522,7.3,4,"4,324",8.3,7.8,8.0,7.8,7.2,7.5,7.7,1.5,200,16,9.0,2.0,False
+Best Western Hollywood Plaza Inn - Hollywood Walk of Fame  - LA,Los-Angeles,657,7.1,3,814,8.3,7.6,8.1,7.6,6.9,7.1,7.6,1.7,650,11,7.0,2.0,False
+Skyways ,Los-Angeles,340,6.6,2,"1,278",7.5,7.2,7.6,7.2,6.9,6.7,6.9,9,14,2.7,4.0,3.0,False
+Sandman Motel,Los-Angeles,241,4.9,2,50,6.2,5.9,6.1,5.9,5.8,5.7,5.0,10,13,4.2,,1.0,False
+Residence Inn by Marriott Beverly Hills,Los-Angeles,893,8.0,3,277,8.5,8.3,8.6,8.4,7.5,8.0,7.5,3.4,7,7,7.0,2.0,True
+Hampton Inn Los Angeles Int'l Airport/Hawthorne,Los-Angeles,801,8.1,3,"2,652",8.0,8.6,8.5,8.5,8.2,8.3,6.9,11,15,1.8,6.0,2.0,False
+W Los Angeles – West Beverly Hills,Los-Angeles,"1,253",7.3,4,117,8.6,8.0,8.2,8.3,7.1,7.7,,3.5,3.6,5,7.0,2.0,True
+Residence Inn by Marriott Los Angeles LAX/Century Boulevard,Los-Angeles,708,8.2,3,"2,030",8.7,8.6,8.6,8.6,7.9,8.3,8.1,9,15,2.3,6.0,3.0,True
+"The Westin Bonaventure  & Suites, Los Angeles",Los-Angeles,863,8.0,4,"1,985",8.5,8.5,8.4,8.5,7.8,8.2,7.6,1.7,500,16,7.0,4.0,True
+AC  by Marriott Beverly Hills,Los-Angeles,"1,017",7.7,4,265,8.3,8.3,8.4,8.4,7.5,8.0,9.0,4.9,5,9,7.0,1.0,True
+Renaissance Los Angeles Airport ,Los-Angeles,611,7.8,3,"1,279",8.6,8.5,8.5,8.5,7.7,8.2,,9,15,2.5,7.0,2.0,True
+ Ziggy,Los-Angeles,924,8.3,4,411,9.2,8.7,9.0,8.7,7.8,8.4,8.8,3.4,3.4,11,4.0,2.0,
+Ambrose ,Los-Angeles,"1,082",8.7,4,464,8.8,9.1,9.2,9.2,8.1,8.9,,2.7,5,3.3,4.0,2.0,False
+Best Western Plus Dragon Gate Inn,Los-Angeles,684,7.7,3,265,7.8,8.2,8.1,8.2,7.4,7.6,8.1,3.2,800,18,7.0,1.0,True
+ Angeleno,Los-Angeles,611,7.9,4,"2,765",8.1,8.5,8.5,8.5,7.8,8.2,8.0,7,800,7,4.0,4.0,True
+"The Ritz-Carlton, Los Angeles L.A. Live",Los-Angeles,"2,229",8.7,5,103,9.1,9.3,9.5,9.2,8.4,9.1,,1.9,800,15,7.0,1.0,False
+Lexen  - Hollywood,Los-Angeles,770,7.4,0,685,8.2,8.1,7.8,8.1,7.5,7.7,7.8,1.6,650,11,4.0,1.0,False
+Maison 140 Beverly Hills,Los-Angeles,785,6.7,3,177,9.0,7.0,8.2,7.1,6.9,6.6,7.3,3.2,6,7,9.0,1.0,True
+Pendry West Hollywood,Los-Angeles,"1,827",9.1,5,229,9.3,9.5,9.1,9.6,8.2,9.4,9.5,3.4,3.3,11,4.0,1.0,True
+USC ,Los-Angeles,"1,017",8.6,4,746,8.9,8.9,8.9,8.9,8.3,8.6,8.9,3.3,3.9,12,5.0,3.0,True
+"The Ritz-Carlton, Marina del Rey",Los-Angeles,"1,405",7.8,5,191,8.3,8.4,8.4,8.4,6.8,8.0,,5,11,3.6,7.0,3.0,True
+Travelodge by Wyndham Culver City,Los-Angeles,537,7.2,2,"1,087",8.0,7.6,7.5,7.5,7.3,7.2,6.1,6,10,3.6,4.0,2.0,False
+Ramada Plaza by Wyndham West Hollywood  & Suites,Los-Angeles,828,6.6,3,626,8.8,7.0,7.2,7.2,6.3,6.6,6.3,3.3,4,11,6.0,1.0,False
+ Per La,Los-Angeles,"1,286",9.0,5,230,8.7,9.4,9.4,9.3,8.6,9.1,9.1,1.4,300,16,6.0,1.0,True
+The West Hollywood EDITION,Los-Angeles,"2,029",8.2,5,99,9.2,8.9,8.6,9.1,7.6,8.8,9.2,3.4,4.8,10,6.0,4.0,True
+" June, Los Angeles, a Member of Design Hotels",Los-Angeles,727,8.1,4,418,8.2,8.7,8.7,8.6,7.9,8.4,8.4,6,14,2.1,6.0,2.0,True
+Best Western Plus Commerce ,Los-Angeles,484,8.2,3,"3,774",7.6,8.6,8.5,8.5,8.2,8.4,8.2,13,2.5,18,7.0,2.0,False
+American ,Los-Angeles,340,7.5,2,"1,092",8.1,7.7,8.5,7.7,7.8,7.5,8.0,1.7,1.3,16,5.0,1.0,False
+The  Hollywood,Los-Angeles,498,7.4,2,"1,440",8.4,7.8,8.4,7.7,7.5,7.3,8.1,2.2,400,11,4.0,2.0,False
+Hampton Inn & Suites Santa Monica,Los-Angeles,"1,729",7.6,3,"1,229",8.5,8.2,8.1,8.3,7.0,8.0,7.3,2,7,3.8,4.0,2.0,False
+Courtyard by Marriott Los Angeles LAX / Century Boulevard,Los-Angeles,646,7.9,3,"3,229",8.8,8.6,8.3,8.6,7.6,8.1,8.1,9,15,1.7,7.0,2.0,False
+Casa Del Mar,Los-Angeles,"2,117",8.8,5,380,9.6,9.3,9.2,9.4,7.8,9.0,9.3,2.6,8,3.9,5.0,1.0,True
+Best Western Airport Plaza Inn - Los Angeles LAX Airport,Los-Angeles,423,6.9,3,763,7.5,7.6,7.7,7.6,7.1,7.0,7.7,9,11,6,7.0,3.0,False
+The Dixie Hollywood,Los-Angeles,526,7.1,3,"1,088",8.0,7.4,7.5,7.3,7.2,7.1,7.0,3.2,150,12,3.0,2.0,True
+H by H Hospitality,Los-Angeles,526,7.8,4,801,7.8,8.2,8.9,8.2,7.8,7.9,7.9,4.4,500,15,5.0,2.0,False
+Best Western Plus LA Mid-Town ,Los-Angeles,615,7.9,3,512,8.1,8.3,8.3,8.3,7.6,8.0,8.9,3.4,250,16,7.0,5.0,False
+The Los Angeles Athletic Club,Los-Angeles,986,8.6,4,181,8.8,9.2,8.9,9.1,8.3,9.1,9.5,1.4,300,16,4.0,2.0,False
+Alsace LA,Los-Angeles,761,8.7,4,130,7.7,9.2,9.3,9.2,8.1,8.9,7.2,6,5,9,7.0,1.0,True
+Knights Inn Los Angeles Central / Convention Center Area,Los-Angeles,492,7.9,2,408,8.0,8.1,9.0,8.1,7.8,7.9,8.1,2.4,1.5,18,4.0,6.0,False
+L'Ermitage Beverly Hills,Los-Angeles,"2,387",9.4,5,170,9.3,9.7,9.7,9.6,8.7,9.3,10,3.4,6,8,4.0,1.0,True
+Courtyard Los Angeles Westside,Los-Angeles,770,8.1,4,520,8.6,8.5,8.7,8.6,7.6,8.2,8.3,8,12,4.8,7.0,6.0,False
+Kawada ,Los-Angeles,876,7.4,3,"1,109",8.3,7.9,8.1,7.8,7.3,7.5,8.2,"1,000",300,17,4.0,3.0,False
+Royal Palace Westwood ,Los-Angeles,835,8.3,2,487,9.4,8.6,8.7,8.7,8.3,8.1,7.9,3.6,3.6,5,6.0,1.0,False
+1  West Hollywood,Los-Angeles,"1,886",8.3,5,503,9.1,9.0,8.4,9.0,7.7,8.7,8.8,3.4,3.5,11,4.0,2.0,True
+AIR Venice on the Beach,Los-Angeles,655,6.9,3,"1,767",8.3,7.4,8.0,7.4,6.9,7.0,7.7,4.2,9,3.7,7.0,2.0,True
+Metro Plaza ,Los-Angeles,443,6.9,2,992,7.9,7.2,7.9,7.3,7.1,6.7,8.3,3,300,18,5.0,3.0,False
+ERTH INN by AGA Los Angeles,Los-Angeles,374,7.6,0,324,7.6,8.0,8.0,8.0,7.8,7.6,7.6,4,2.6,19,6.0,1.0,False
+Ocean Lodge Santa Monica Beach ,Los-Angeles,"1,061",7.6,3,726,9.2,8.0,8.6,8.1,7.1,7.4,8.0,2.2,8,4,6.0,6.0,False
+Le Meridien Delfina Santa Monica,Los-Angeles,"1,165",7.8,4,302,8.1,8.5,8.5,8.6,6.9,8.1,6.8,2.7,8,3.3,6.0,1.0,True
+Ocean Park Inn,Los-Angeles,515,6.9,3,947,7.9,7.3,8.1,7.3,6.9,6.8,8.2,2.5,8,2.7,4.0,1.0,False
+Hilton Garden Inn Los Angeles / Hollywood,Los-Angeles,"1,000",7.3,3,572,8.1,7.8,7.9,7.9,7.0,7.4,9.1,1.6,550,11,8.0,2.0,True
+The Prospect Hollywood,Los-Angeles,"1,542",9.4,0,41,9.6,9.7,9.8,9.8,9.5,9.6,10,1.6,550,11,4.0,1.0,True
+SureStay  by Best Western Santa Monica,Los-Angeles,662,8.3,3,956,8.2,8.8,8.9,8.8,8.0,8.4,8.5,4,6,1.3,7.0,1.0,False
+Oxford Palace ,Los-Angeles,618,7.2,0,256,8.4,7.7,7.9,7.6,7.5,7.3,7.7,4.3,450,14,5.0,2.0,False
+Venice Breeze Suites,Los-Angeles,"1,164",8.0,3,"1,018",8.9,8.4,9.0,8.4,7.7,8.2,9.0,4.9,10,3.8,4.0,1.0,False
+Four Points by Sheraton Los Angeles International Airport,Los-Angeles,495,5.9,3,"2,190",7.7,6.7,7.1,6.8,6.1,6.2,6.6,9,15,2.4,9.0,4.0,True
+Su Casa at Venice Beach,Los-Angeles,958,8.0,3,386,8.8,8.5,9.0,8.6,7.9,8.2,7.6,4.4,10,3.7,4.0,1.0,
+Rotex ,Los-Angeles,592,7.0,3,676,7.7,7.6,7.5,7.5,7.3,7.1,7.8,4.5,1.1,13,7.0,2.0,False
+Regency Inn in Los Angeles,Los-Angeles,429,8.4,2,211,8.3,8.8,8.9,8.8,8.4,8.3,8.8,7,4.2,15,3.0,2.0,False
+Best Western Royal Palace Inn & Suites,Los-Angeles,843,7.8,3,482,8.1,8.0,8.7,8.0,7.6,7.6,7.8,6,6,2.7,8.0,3.0,False
+Hollywood Le Bon ,Los-Angeles,464,6.3,2,577,8.2,6.7,7.4,6.7,6.6,6.6,7.2,2.6,150,12,4.0,1.0,False
+Hometel Suites ,Los-Angeles,567,7.8,2,433,8.1,8.1,8.7,8.0,7.9,7.7,7.7,4.3,550,15,4.0,3.0,False
+"Kimpton  Palomar Los Angeles Beverly Hills, an IHG Hotel",Los-Angeles,"1,172",7.9,4,275,8.7,8.4,8.6,8.4,7.2,8.1,8.2,4,4.1,5,7.0,2.0,True
+Sea Blue ,Los-Angeles,"1,164",7.2,3,705,9.2,7.6,8.3,7.7,6.8,7.1,7.8,2.2,8,4,4.0,2.0,True
+The Godfrey  Hollywood,Los-Angeles,714,8.1,4,676,8.6,8.7,8.6,8.7,7.7,8.5,8.7,2.5,650,12,5.0,1.0,True
+Hyatt Place LAX/Century BLVD,Los-Angeles,715,8.4,3,115,8.7,9.0,8.8,9.1,8.2,8.8,8.5,,,29,5.0,1.0,True
+Stadium Inn & Spas,Los-Angeles,309,7.5,0,26,7.9,8.2,8.4,8.4,8.3,7.9,2.5,8,12,4.6,5.0,1.0,False
+Carlyle Inn,Los-Angeles,959,7.6,3,388,8.2,7.9,8.6,7.9,7.3,7.6,8.4,3.3,7,8,5.0,1.0,False
+BLVD  & Spa - Walking Distance to Universal Studios Hollywood,Los-Angeles,753,7.1,4,"1,260",7.9,7.5,7.9,7.5,6.9,7.2,7.4,4.7,250,7,4.0,2.0,False
+Hollywood Hills ,Los-Angeles,684,7.5,3,480,8.5,8.0,7.3,8.3,7.5,7.5,7.5,1.5,500,11,4.0,3.0,
+La Mirage Inn - Hollywood,Los-Angeles,479,7.5,0,180,8.1,7.5,8.4,7.8,7.6,7.6,8.8,2.8,600,11,4.0,1.0,False
+Marina del Rey ,Los-Angeles,"1,054",8.2,4,"1,370",9.0,8.7,8.3,8.7,7.4,8.3,8.4,2.8,11,4,3.0,2.0,True
+Little Tokyo ,Los-Angeles,409,7.1,0,600,8.7,7.4,8.8,7.2,7.4,6.9,8.0,2.4,750,17,2.0,5.0,False
+BLVD  & Suites - Walking Distance to Hollywood Walk of Fame,Los-Angeles,357,6.2,4,955,8.0,6.5,6.7,6.6,6.3,6.4,6.7,1.6,600,11,4.0,2.0,False
+Courtyard by Marriott Santa Monica,Los-Angeles,"1,714",7.7,3,326,8.7,8.4,8.3,8.4,7.0,8.1,7.4,2,7,3.8,7.0,1.0,False
+Ocean Park ,Los-Angeles,584,7.4,2,"1,642",8.3,7.8,8.4,7.8,7.6,7.3,9.0,4.2,7,600,4.0,2.0,False
+The Moment ,Los-Angeles,808,7.4,3,160,8.4,8.1,8.2,8.0,7.3,7.6,7.8,2.4,1.2,11,4.0,4.0,False
+Venice V ,Los-Angeles,"1,182",8.9,3,130,9.4,9.3,9.2,9.5,7.8,9.0,9.5,5,10,3.8,5.0,1.0,True
+Jolly Roger ,Los-Angeles,618,7.4,3,"1,136",8.4,7.8,8.6,7.7,7.4,7.3,7.9,4.8,10,3.1,5.0,3.0,False
+Days Inn by Wyndham Santa Monica/Los Angeles,Los-Angeles,680,7.8,3,"1,243",8.2,8.3,8.5,8.2,7.6,7.9,8.1,3.8,4.7,3,4.0,2.0,False
+Los Angeles Airport Marriott,Los-Angeles,666,7.8,4,"1,714",8.5,8.4,8.3,8.4,7.4,8.1,7.1,9,15,2.5,7.0,2.0,False
+"The Wayfarer Downtown LA, Tapestry Collection by Hilton",Los-Angeles,666,8.1,4,623,8.4,8.6,9.0,8.6,7.8,8.3,8.6,1.7,250,16,6.0,2.0,True
+Rotex Western Inn,Los-Angeles,348,7.2,2,224,8.1,7.6,7.5,7.4,7.4,7.3,7.8,4.3,800,14,7.0,2.0,False
+Plaza la Reina,Los-Angeles,"1,515",8.8,4,318,9.5,9.2,9.1,9.2,8.3,9.1,9.2,3.6,3.7,5,4.0,3.0,True
+Holiday Lodge,Los-Angeles,326,6.5,2,395,7.0,6.6,7.5,6.7,6.8,6.5,6.3,1.7,950,17,4.0,2.0,False
+"Antonio  - Downtown Los Angeles, near Hollywood",Los-Angeles,258,5.3,2,132,6.5,5.8,6.1,5.8,6.0,5.6,6.1,3.8,2.7,18,4.0,1.0,False
+Elan ,Los-Angeles,904,7.1,3,240,8.7,7.8,8.0,7.8,7.0,7.4,8.2,4.2,4.4,10,4.0,2.0,False
+Residence Inn by Marriott Marina del Rey,Los-Angeles,"1,048",8.3,3,113,9.0,9.0,8.2,9.2,7.6,8.9,,5,12,4.6,5.0,2.0,
+Four Points by Sheraton Los Angeles Westside,Los-Angeles,770,8.3,3,493,8.6,8.7,8.6,8.6,8.0,8.5,8.9,7,12,4.9,7.0,2.0,True
+Hyatt House LAX Century Blvd,Los-Angeles,747,8.3,3,290,8.7,9.0,8.7,9.0,8.0,8.6,8.5,9,15,2.2,7.0,1.0,True
+ del Flores,Los-Angeles,483,5.3,2,137,8.7,5.9,7.0,5.9,6.1,5.3,6.8,2.9,7,8,6.0,2.0,False
+Ocean View ,Los-Angeles,"1,398",7.9,3,652,9.3,8.5,8.6,8.5,7.3,8.1,7.7,2.9,8,4.3,8.0,2.0,True
+Palihotel Culver City,Los-Angeles,"1,134",8.3,4,259,9.1,8.7,8.8,8.9,7.8,8.4,7.1,5,9,5,4.0,1.0,True
+Las Palmas ,Los-Angeles,343,6.4,2,371,8.3,6.8,7.0,6.9,6.7,6.6,7.8,1.6,300,11,4.0,1.0,False
+Courtyard by Marriott Marina del Rey,Los-Angeles,"1,140",8.0,3,220,8.8,8.8,8.3,8.9,7.5,8.6,7.5,5,12,4.6,5.0,1.0,False
+Courtyard Los Angeles Century City/Beverly Hills,Los-Angeles,814,7.1,3,58,8.2,8.2,8.4,7.9,6.6,7.5,5.0,4.6,6,5,7.0,2.0,False
+"The Shay, a Destination by Hyatt",Los-Angeles,"1,155",9.4,0,51,9.4,9.9,9.4,9.8,8.7,9.6,9.2,4.7,8,6,5.0,2.0,True
+SureStay  by Best Western Beverly Hills West LA,Los-Angeles,584,6.4,3,373,8.1,6.9,7.8,6.9,6.6,6.5,8.0,3.3,3.4,11,7.0,2.0,False
+"Downtown Los Angeles Proper , a Member of Design Hotels",Los-Angeles,"1,077",9.2,5,76,8.1,9.6,9.6,9.6,8.8,9.3,9.5,1.8,1.1,15,5.0,3.0,True
+Mondrian Los Angeles in West Hollywood,Los-Angeles,"1,246",6.7,4,342,8.7,7.7,7.5,7.7,6.3,7.0,7.7,3.4,3.4,11,5.0,2.0,True
+Comfort Inn Los Angeles near Hollywood,Los-Angeles,610,7.5,3,540,8.0,8.2,7.9,8.0,7.6,7.6,8.4,3.5,2.1,16,3.0,2.0,False
+Gold-Diggers,Los-Angeles,915,9.3,0,7,7.9,10,9.6,9.3,9.3,9.3,10,3,1.3,13,4.0,1.0,False
+Ktown ,Los-Angeles,371,6.3,0,225,6.9,7.1,7.3,7.1,7.1,6.8,,3.3,1.3,15,,2.0,
+Wingate by Wyndham Los Angeles Airport,Los-Angeles,388,5.3,3,779,6.7,6.0,6.6,6.2,5.7,5.5,5.6,11,15,3.8,4.0,2.0,True
+Days Inn by Wyndham Los Angeles LAX/VeniceBch/Marina DelRay,Los-Angeles,354,5.9,2,901,6.9,6.5,7.2,6.6,6.4,6.2,7.6,10,13,4.2,5.0,1.0,False
+Hollywood VIP ,Los-Angeles,409,4.3,2,668,7.1,5.0,5.8,5.2,5.2,4.8,6.1,1.8,200,11,6.0,2.0,False
+"Oceana Santa Monica, LXR s & Resorts",Los-Angeles,"3,555",9.0,5,107,9.3,9.5,9.4,9.6,8.1,9.3,8.1,5,7,5,9.0,3.0,False
+The Culver ,Los-Angeles,"1,357",8.9,4,90,9.6,9.4,9.3,9.3,8.1,8.6,8.9,5,9,5,6.0,7.0,False
+DTLA LUXURY SUITES,Los-Angeles,"1,027",8.0,0,5,8.5,7.5,8.5,8.0,8.0,8.0,,1.8,900,15,9.0,2.0,
+Villa Marina - Luxe Condo in Marina Del Rey - 2 Master Suites,Los-Angeles,"1,717",9.3,0,3,10,9.2,9.2,10,8.3,9.2,,2.7,11,3.6,,1.0,
+Ramada by Wyndham Culver City,Los-Angeles,575,6.3,3,384,7.4,7.1,7.6,6.9,6.4,6.4,6.7,6,9,3.4,5.0,2.0,False
+Garden Suite  and Resort,Los-Angeles,507,6.1,3,36,7.9,7.0,7.5,7.1,6.4,6.7,5.6,4.5,200,14,4.0,2.0,False
+Haas Building Residences,Los-Angeles,742,8.2,8,299,7.2,8.7,8.9,8.6,8.0,8.6,8.3,1.4,350,16,3.0,2.0,
+Stuart ,Los-Angeles,298,5.1,2,471,6.0,5.8,6.7,5.7,5.9,5.5,6.6,2,600,16,8.0,11.0,False
+Rodeway Inn Los Angeles Convention Center,Los-Angeles,464,6.1,2,221,7.0,6.7,6.9,6.8,6.5,6.3,8.1,2.6,700,15,4.0,2.0,False
+L.A. Sky Boutique ,Los-Angeles,683,6.9,3,31,7.4,7.6,8.5,7.6,6.5,7.3,6.3,6,6,3.5,5.0,1.0,True
+ H-Wood,Los-Angeles,464,5.8,3,343,7.6,6.4,6.6,6.5,6.1,5.8,,1.8,450,12,5.0,1.0,False
+ Bel-Air - Dorchester Collection,Los-Angeles,"4,277",9.0,5,36,9.4,9.4,8.9,9.4,8.1,9.1,8.8,2.9,2.8,8,6.0,6.0,True
+ Silver Lake,Los-Angeles,396,5.2,0,236,6.2,5.9,6.7,5.8,5.9,5.5,5.0,4,650,15,4.0,4.0,False
+NOHO  Hollywood,Los-Angeles,412,5.0,2,122,6.3,6.0,5.9,6.0,6.0,5.6,,8,1.5,3.3,3.0,1.0,False
+Amazing DTLA View 1bd Full Kitchen Free Private Parking.,Los-Angeles,696,10,0,1,10,10,10,10,10,10,,1.5,600,17,,2.0,
+Shelter  Los Angeles,Los-Angeles,430,7.7,3,43,8.5,8.4,8.8,8.5,7.6,8.1,6.3,4,450,15,4.0,4.0,False
+GOLDSTAR INN MOTEL,Los-Angeles,303,5.9,2,130,6.3,6.5,7.9,6.6,6.6,6.3,4.6,17,150,10,9.0,1.0,True
+North Hollywood Apartments,Los-Angeles,"1,237",7.1,0,147,7.3,7.6,7.0,7.8,7.8,7.6,6.2,7,1.1,3.3,4.0,,False
+B11 LA Lovely Double Deluxe Unit,Los-Angeles,399,1.5,0,2,5.0,2.5,5.0,2.5,2.5,2.5,,3,6,8,,1.0,True
+(C20) Large & Cozy Unit,Los-Angeles,430,7.0,0,3,7.5,7.5,8.3,6.7,7.5,6.7,,3,6,8,,1.0,True
+(B26) LA/Beverly Hills  Style Unit,Los-Angeles,430,7.5,0,2,10,10,10,10,10,10,,3,6,8,,1.0,True
+(C12) Steps away from Beverly Hills Unit,Los-Angeles,412,4.0,0,1,7.5,5.0,2.5,2.5,2.5,5.0,,3,6,8,,1.0,True
+Amazing 2BR & 2Bath with Balcony,Los-Angeles,866,8.7,8,3,10,10,9.2,10,9.2,10,,1.7,500,16,,1.0,
+Lovely Unit Steps Away from Beverly Hills B05,Los-Angeles,430,5.0,0,1,10,7.5,7.5,7.5,10,7.5,,3,6,8,,1.0,False
+(B02) Cozy Double Bed Suite,Los-Angeles,430,3.0,0,1,10,2.5,10,2.5,5.0,2.5,,3,6,8,,1.0,True
+(A13) Cozy 1 Bedroom Studio with Private Bath,Los-Angeles,430,1.0,0,1,2.5,2.5,2.5,2.5,2.5,2.5,,3,6,8,,1.0,True
+(A12) Lovely Spacious Double Bed Studio,Los-Angeles,477,1.0,0,1,7.5,2.5,2.5,2.5,2.5,2.5,,3,6,8,,1.0,True
+LA/Beverly Hills  Style Suite (C19),Los-Angeles,447,3.7,5,3,4.2,3.3,4.2,4.2,3.3,3.3,,3,6,8,,1.0,False

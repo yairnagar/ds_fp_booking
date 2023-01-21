@@ -1,0 +1,147 @@
+Name,City,Price,Rating,Stars,Reviews,Location,Cleanliness,staff,Comfort,Value for Money,Facilities,Wifi,Closest attraction dist,Closest transportation,Closest airport,payment methods,Number of languages,Allowing pets
+citizenM Miami Brickell,Miami,649.0,8.7,4,512.0,9.6,9.0,9.1,9.1,8.5,8.9,9.1,1.8,0.1,2.6,6.0,1,False
+Sheraton Miami Airport  and Executive Meeting Center,Miami,538.0,7.3,4,2032.0,8.6,7.8,8.0,7.9,7.1,7.4,8.3,7.0,0.2,2.9,6.0,3,True
+YOTEL Miami,Miami,615.0,8.1,4,822.0,8.9,8.6,8.6,8.6,7.7,8.3,9.4,1.8,0.1,1.5,9.0,2,True
+EAST Miami,Miami,1714.0,8.5,5,3772.0,9.4,8.9,8.4,9.0,8.1,8.9,8.7,2.6,10.0,2.4,5.0,12,True
+"Candlewood Suites Miami Intl Airport - 36th St, an IHG ",Miami,464.0,8.8,3,1065.0,8.6,9.1,8.9,9.1,8.5,9.0,8.7,8.0,2.3,1.5,7.0,4,True
+" Indigo - Miami Brickell, an IHG Hotel",Miami,714.0,8.0,4,850.0,8.8,8.7,8.4,8.7,7.7,8.3,8.1,2.0,0.15,3.0,6.0,2,True
+Hilton Garden Inn Miami Dolphin Mall,Miami,489.0,8.6,3,3284.0,9.0,9.0,8.5,9.0,8.4,8.8,7.9,13.0,8.0,9.0,5.0,2,False
+Loews Coral Gables ,Miami,855.0,9.3,4,14.0,9.5,9.8,9.6,9.8,8.2,9.8,8.008088235294116,4.7,1.4,7.0,5.0,1,True
+"InterContinental Miami, an IHG ",Miami,1371.0,8.3,5,1421.0,9.3,8.7,8.7,8.8,7.6,8.5,8.6,1.8,0.15,1.5,3.0,5,True
+Selina Miami River,Miami,340.0,7.5,3,837.0,7.7,7.8,8.6,7.7,7.3,7.6,8.2,3.1,0.7,2.8,2.0,2,True
+Homewood Suites by Hilton Miami Dolphin Mall,Miami,584.0,8.5,3,1038.0,9.1,8.9,8.3,8.9,8.3,8.8,8.3,13.0,8.0,9.0,6.0,2,False
+Sonesta Miami Airport,Miami,467.0,8.1,4,767.0,8.7,8.5,8.4,8.6,7.9,8.3,8.5,7.0,1.8,2.9,9.0,4,True
+Hampton Inn & Suites by Hilton Miami Downtown/Brickell,Miami,730.0,8.6,4,4415.0,9.3,8.9,8.9,9.0,8.3,8.7,8.6,2.1,0.1,2.9,7.0,3,False
+Hilton Miami Downtown,Miami,637.0,8.0,4,2275.0,8.7,8.4,8.5,8.4,7.8,8.2,7.5,2.0,0.2,1.5,6.0,10,False
+"Holiday Inn Miami International Airport, an IHG ",Miami,430.0,7.5,3,3290.0,8.2,8.0,8.2,8.0,7.5,7.6,8.2,7.0,1.4,2.9,7.0,3,False
+Novotel Miami Brickell,Miami,522.0,8.0,4,918.0,8.5,8.5,8.3,8.6,7.8,8.4,8.3,2.3,0.35,3.3,3.0,3,False
+Mayfair House  & Garden,Miami,1060.0,8.5,5,45.0,9.4,9.2,8.8,8.7,8.2,8.9,7.5,7.0,1.3,9.0,9.0,2,True
+Comfort Inn & Suites Miami International Airport,Miami,399.0,8.0,3,4118.0,8.4,8.3,8.3,8.4,8.0,8.2,7.7,7.0,1.6,2.0,6.0,1,False
+DoubleTree by Hilton Grand  Biscayne Bay,Miami,838.0,7.5,3,779.0,8.8,8.0,8.1,8.0,7.4,7.8,8.008088235294116,2.4,0.3,1.4,8.0,2,False
+"Hampton Inn & Suites Miami Wynwood Design District, FL",Miami,610.0,8.5,4,1265.0,8.9,8.9,8.9,8.9,8.3,8.8,8.0,4.0,2.3,3.2,7.0,2,True
+Four Seasons  Miami,Miami,2473.0,9.0,5,220.0,9.3,9.4,9.1,9.5,8.5,9.2,7.9,2.4,0.15,3.1,6.0,8,True
+ Ponce de Leon,Miami,417.0,7.9,2,1319.0,8.9,8.3,8.3,8.2,8.1,7.7,8.3,5.0,2.7,5.0,4.0,2,False
+Sonesta Simply Suites Miami Airport Doral,Miami,684.0,8.4,2,786.0,8.5,8.6,8.8,8.6,8.3,8.4,8.6,6.0,5.0,5.0,9.0,2,True
+"Staybridge Suites - Miami International Airport, an IHG ",Miami,584.0,8.1,3,1311.0,8.3,8.5,8.4,8.6,8.1,8.4,8.5,6.0,0.35,3.4,7.0,5,True
+"The Gabriel Miami Downtown, Curio Collection by Hilton",Miami,746.0,7.1,5,204.0,8.7,8.1,8.0,8.2,7.0,7.6,8.7,1.6,0.1,1.3,5.0,3,True
+EB  Miami Airport,Miami,676.0,8.9,4,982.0,8.9,9.3,8.9,9.4,8.6,9.2,8.6,7.0,1.5,2.7,4.0,4,False
+SpringHill Suites by Marriott Miami Doral,Miami,512.0,8.3,3,1203.0,8.8,8.6,8.5,8.7,8.3,8.6,8.5,6.0,6.0,8.0,6.0,2,False
+Element Miami International Airport,Miami,615.0,7.6,3,579.0,8.2,8.1,8.0,8.1,7.6,8.1,8.1,6.0,0.6,3.6,5.0,2,True
+Hilton Miami Airport Blue Lagoon,Miami,557.0,7.3,4,2755.0,8.4,7.7,7.9,7.8,7.0,7.6,8.008088235294116,8.0,1.6,1.8,7.0,2,True
+Nuvo Suites  - Miami / Doral,Miami,360.0,8.2,4,2246.0,8.6,8.5,8.8,8.5,8.1,8.3,8.1,12.0,8.0,8.0,5.0,2,True
+Wyndham Garden Miami International Airport,Miami,469.0,8.4,4,3850.0,8.7,9.0,8.5,9.0,8.4,8.8,8.8,7.0,1.5,1.8,3.0,2,False
+Homewood Suites by Hilton Miami Downtown/Brickell,Miami,553.0,7.2,4,837.0,8.0,7.7,7.8,7.7,7.1,7.4,6.5,2.5,0.6,3.5,5.0,4,True
+AC  Miami Wynwood,Miami,538.0,8.4,4,292.0,8.8,8.7,8.4,8.8,8.1,8.7,7.9,4.0,2.2,3.1,6.0,2,True
+"Life House, Little Havana",Miami,559.0,7.9,4,276.0,7.8,8.7,8.9,8.7,7.6,8.0,9.5,2.5,1.5,3.6,9.0,2,False
+The Elser  Miami,Miami,739.0,9.3,4,30.0,9.5,9.6,9.2,9.3,8.7,9.4,10.0,1.7,0.15,1.3,9.0,1,True
+La Quinta by Wyndham Miami Airport East,Miami,310.0,6.2,3,4016.0,7.6,6.7,7.4,6.7,6.5,6.3,7.1,6.0,1.1,2.8,9.0,2,False
+TownePlace Suites by Marriott Miami Airport,Miami,769.0,7.9,3,630.0,8.4,8.5,8.5,8.5,8.0,8.3,8.9,7.0,1.5,3.0,9.0,2,True
+Mr. C Miami - Coconut Grove,Miami,1288.0,8.5,5,285.0,9.2,9.2,9.0,9.3,8.0,9.0,8.9,7.0,1.4,9.0,4.0,4,True
+Hyatt Centric Brickell Miami,Miami,917.0,8.3,4,1437.0,9.2,8.6,8.5,8.6,8.0,8.4,8.4,2.0,0.2,2.8,4.0,3,True
+Homewood Suites by Hilton Miami - Airport West,Miami,611.0,8.7,3,252.0,8.6,9.0,9.0,8.9,8.5,8.9,8.3,8.0,4.0,3.4,6.0,1,True
+"Holiday Inn  Miami-Doral Area, an IHG Hotel",Miami,551.0,7.2,3,2335.0,8.4,7.5,7.7,7.6,7.1,7.3,7.9,7.0,4.6,5.0,9.0,3,False
+DoubleTree by Hilton Miami Doral,Miami,472.0,8.7,4,2450.0,8.8,9.0,9.0,9.0,8.4,8.9,8.8,12.0,7.0,7.0,9.0,2,True
+Hyatt Regency Miami,Miami,986.0,7.9,3,1325.0,8.9,8.3,8.5,8.3,7.4,8.0,8.4,2.2,0.05,2.0,7.0,2,True
+The Vagabond ,Miami,615.0,8.8,3,218.0,8.5,9.3,9.2,9.2,8.4,8.9,9.3,7.0,5.0,7.0,4.0,3,False
+Four Points by Sheraton Coral Gables,Miami,491.0,8.3,4,477.0,8.8,8.9,8.7,8.8,8.1,8.6,8.5,4.9,0.35,8.0,6.0,2,False
+"Holiday Inn  Port of Miami-Downtown, an IHG Hotel",Miami,747.0,7.4,3,2264.0,9.2,7.5,8.2,7.7,7.1,7.3,8.3,1.6,0.15,1.3,7.0,2,True
+Residence Inn by Marriott Miami West/FL Turnpike,Miami,649.0,8.3,3,320.0,8.0,8.6,8.7,8.7,8.3,8.6,9.4,13.0,7.0,12.0,9.0,2,True
+AC  By Marriott Miami Dadeland,Miami,467.0,8.7,4,379.0,9.0,9.0,8.9,9.0,8.3,8.8,7.6,8.0,0.55,12.0,5.0,1,False
+Hyatt Place Miami Airport East,Miami,521.0,8.1,3,2002.0,8.3,8.5,8.5,8.5,8.0,8.4,8.6,6.0,1.1,2.8,6.0,2,True
+"Holiday Inn Express Miami Airport Doral Area, an IHG ",Miami,764.0,8.0,3,2257.0,8.6,8.2,8.5,8.4,7.9,8.0,8.1,7.0,4.0,4.9,9.0,3,False
+ St. Michel,Miami,427.0,8.5,3,732.0,9.3,8.8,9.2,8.8,8.3,8.3,9.0,4.9,2.4,6.0,4.0,3,False
+Provident Doral At The Blue,Miami,457.0,7.6,4,2045.0,8.5,8.0,7.9,7.9,7.6,7.8,7.9,8.0,3.0,6.0,4.0,2,False
+The Mutiny Luxury Suites ,Miami,624.0,7.9,4,607.0,9.1,8.3,8.2,8.3,7.9,8.0,6.1,7.0,1.5,9.0,5.0,2,False
+Comfort Suites Miami Airport North,Miami,356.0,7.1,3,2097.0,7.9,7.5,7.8,7.6,7.3,7.4,6.8,7.0,1.6,2.0,7.0,1,False
+Aloft Miami Doral,Miami,436.0,7.9,3,1607.0,8.5,8.2,8.2,8.3,7.9,8.1,8.4,6.0,6.0,8.0,7.0,2,True
+AC  By Marriott Miami Brickell,Miami,708.0,7.6,3,78.0,8.9,8.2,8.1,8.6,7.4,8.4,8.008088235294116,1.7,0.35,2.7,5.0,2,True
+Courtyard by Marriott Miami Airport,Miami,491.0,7.7,3,973.0,8.7,8.3,8.0,8.3,7.6,8.1,7.7,7.0,1.3,2.9,7.0,2,False
+Hyatt House Miami Airport,Miami,584.0,8.3,3,503.0,8.7,8.6,8.7,8.6,8.0,8.3,8.4,7.0,2.0,1.7,7.0,2,True
+"Holiday Inn Express & Suites Miami Airport East, an IHG ",Miami,436.0,7.6,3,2144.0,8.4,8.3,8.1,8.4,7.7,8.0,8.2,6.0,0.6,2.5,6.0,2,False
+"InterContinental at Doral Miami, an IHG ",Miami,680.0,8.2,4,1036.0,8.5,8.5,8.6,8.5,7.8,8.3,8.4,6.0,5.0,4.9,3.0,2,False
+Hampton Inn Miami Airport East,Miami,494.0,8.2,3,1378.0,8.4,8.6,8.4,8.7,7.9,8.4,8.1,6.0,1.1,2.7,8.0,3,False
+Fairfield Inn & Suites by Marriott Miami Airport South,Miami,461.0,7.6,3,523.0,8.4,8.2,8.1,8.2,7.4,7.8,8.4,7.0,1.6,3.0,7.0,6,False
+Comfort Inn & Suites Downtown Brickell-Port of Miami,Miami,417.0,7.9,2,2662.0,8.8,8.5,8.2,8.6,7.9,8.0,7.2,2.3,0.05,2.0,5.0,2,False
+ Arya BW Premier Collection,Miami,476.0,7.5,4,1292.0,9.0,8.0,8.1,8.0,7.4,7.7,8.1,7.0,1.5,9.0,7.0,1,False
+DoubleTree by Hilton  Miami Airport & Convention Center,Miami,581.0,7.0,3,534.0,7.9,7.4,7.7,7.4,6.9,7.2,6.8,7.0,3.9,3.1,7.0,6,True
+SLS Brickell,Miami,1229.0,8.1,5,413.0,9.2,8.7,8.6,8.7,7.8,8.5,7.7,2.2,0.1,3.0,6.0,2,False
+Hampton Inn & Suites Miami Airport South/Blue Lagoon,Miami,537.0,8.4,3,783.0,8.7,8.8,8.8,8.8,8.1,8.5,8.1,6.0,2.2,2.0,7.0,2,False
+Biltmore ,Miami,1165.0,8.5,5,899.0,9.0,9.0,8.5,9.0,7.9,8.7,8.3,2.6,2.6,6.0,5.0,3,True
+Arlo Wynwood,Miami,787.0,8.6,4,47.0,8.9,9.1,9.0,9.2,8.2,9.0,8.3,2.8,1.1,2.5,4.0,2,True
+Miami International Airport ,Miami,642.0,6.2,3,5151.0,9.0,6.8,7.0,6.9,5.6,6.0,7.8,8.0,0.2,900.0,4.0,2,False
+Hampton Inn & Suites Miami-Doral Dolphin Mall,Miami,566.0,8.2,3,1058.0,8.5,8.3,8.5,8.4,8.0,8.2,8.4,7.0,7.0,10.0,6.0,2,True
+Hyatt Place Miami Airport-West/Doral,Miami,461.0,7.9,3,1477.0,8.5,8.1,8.6,8.2,7.8,7.8,8.2,8.0,4.0,4.3,9.0,3,True
+YVE  Miami,Miami,770.0,7.4,3,2061.0,9.1,7.7,8.4,7.8,7.1,7.3,7.1,1.7,0.2,1.4,9.0,4,True
+Courtyard by Marriott Miami West/FL Turnpike,Miami,508.0,8.2,3,1118.0,7.8,8.7,8.4,8.8,8.1,8.5,8.1,13.0,6.0,11.0,7.0,1,False
+Wingate by Wyndham Miami Airport,Miami,448.0,8.0,3,3068.0,8.3,8.5,8.2,8.5,8.0,8.3,8.6,8.0,3.9,3.8,5.0,2,False
+SpringHill Suites Miami Downtown/Medical Center,Miami,584.0,7.8,3,430.0,7.3,8.3,8.4,8.2,7.5,8.1,8.008088235294116,2.7,0.4,3.3,7.0,2,True
+"Motel 6-Miami, FL",Miami,247.0,6.9,2,1109.0,8.0,7.4,7.7,7.4,7.0,7.0,7.4,8.0,3.8,3.2,4.0,3,False
+Hilton Garden Inn Miami Airport West,Miami,541.0,7.6,3,640.0,8.0,8.1,8.2,8.1,7.5,7.8,7.4,8.0,3.9,3.3,7.0,2,True
+Miami Sun  - Downtown/Port of Miami,Miami,342.0,5.3,2,488.0,7.7,6.0,7.5,6.0,5.3,5.5,5.7,2.0,0.25,1.7,7.0,2,False
+Courtyard Miami Downtown Brickell Area,Miami,873.0,8.0,3,984.0,8.8,8.3,8.4,8.4,7.7,8.0,8.4,2.1,0.1,1.8,9.0,3,False
+Hampton Inn Miami-Coconut Grove/Coral Gables,Miami,606.0,8.4,3,1815.0,8.6,8.7,8.8,8.8,8.1,8.5,8.9,6.0,0.15,8.0,6.0,3,False
+"Home2 Suites By Hilton Miami Doral West Airport, Fl",Miami,464.0,8.4,3,1348.0,8.8,8.8,8.6,8.8,8.4,8.7,8.8,6.0,5.0,5.0,6.0,1,True
+Element Miami Doral,Miami,464.0,8.2,3,601.0,8.7,8.6,8.6,8.5,8.0,8.4,9.1,6.0,6.0,8.0,7.0,2,True
+Pullman Miami Airport,Miami,632.0,7.2,4,826.0,8.4,7.8,7.8,7.7,7.1,7.6,8.5,7.0,2.1,1.6,5.0,3,True
+Best Western Premier Miami International Airport  & Suites Coral Gables,Miami,504.0,7.1,3,3073.0,7.9,7.5,7.9,7.6,7.3,7.4,7.8,6.0,2.8,3.8,8.0,2,False
+Courtyard by Marriott Miami at Dolphin Mall,Miami,732.0,8.3,3,1894.0,9.3,8.5,8.8,8.7,8.1,8.3,8.4,13.0,8.0,9.0,7.0,2,False
+Mandarin Oriental Miami,Miami,2508.0,8.8,5,718.0,9.3,9.2,9.2,9.3,8.1,8.9,8.008088235294116,2.4,0.7,2.2,3.0,5,True
+JW Marriott Miami,Miami,1254.0,7.5,5,229.0,9.1,8.1,8.1,8.3,6.9,7.7,8.008088235294116,2.0,0.25,2.8,7.0,2,False
+Aloft Coral Gables,Miami,618.0,7.8,3,439.0,9.0,8.3,8.4,8.4,7.6,8.0,9.0,5.0,1.9,6.0,7.0,2,True
+Extended Stay America Premier Suites - Miami - Airport - Miami Springs,Miami,473.0,7.3,2,593.0,8.1,7.8,8.0,7.7,7.3,7.4,7.4,7.0,1.7,1.5,5.0,1,True
+"EVEN  Miami - Airport, an IHG Hotel",Miami,529.0,7.7,3,2365.0,7.8,8.4,7.9,8.4,7.8,8.3,8.6,6.0,0.65,3.6,6.0,2,True
+Best Western Plus Miami Airport North  & Suites,Miami,394.0,8.1,3,1216.0,8.4,8.4,8.4,8.5,7.8,8.1,8.2,7.0,1.7,1.5,7.0,4,False
+Hyde Suites Midtown Miami,Miami,1027.0,8.2,4,269.0,9.3,8.7,8.7,8.8,8.0,8.7,9.3,3.9,2.4,3.4,5.0,4,True
+ Chateaubleau,Miami,477.0,4.8,2,622.0,7.2,5.4,6.3,5.5,5.2,5.0,6.6,5.0,3.1,5.0,5.0,4,True
+ AKA Brickell Miami,Miami,1396.0,7.8,5,519.0,9.0,8.5,8.5,8.7,7.4,8.0,8.008088235294116,2.2,0.1,3.0,7.0,8,True
+Best Western Plus Miami-Doral/Dolphin Mall,Miami,476.0,6.9,3,4418.0,8.2,7.1,7.4,7.2,6.9,7.0,8.0,6.0,6.0,8.0,6.0,2,False
+La Quinta Inn by Wyndham Miami Airport North,Miami,323.0,6.4,3,3257.0,7.7,7.0,7.6,7.0,6.6,6.5,7.4,8.0,3.7,3.3,9.0,2,True
+Onyx  Miami Airport,Miami,311.0,6.4,2,3481.0,7.9,6.9,7.6,7.0,6.8,6.5,7.2,7.0,1.5,1.6,6.0,4,False
+THesis  Miami,Miami,756.0,8.2,4,591.0,8.8,8.9,8.6,8.9,8.1,8.6,8.6,4.8,0.25,9.0,4.0,1,True
+Red Roof Inn PLUS+ Miami Airport,Miami,464.0,6.1,2,2620.0,7.7,6.7,6.9,6.8,6.4,6.3,7.7,6.0,0.95,2.7,4.0,2,True
+Extended Stay America Premier Suites - Miami - Airport - Doral - 25th Street,Miami,506.0,7.7,2,417.0,8.3,8.3,8.5,8.2,7.7,8.0,7.2,7.0,4.6,3.5,5.0,2,True
+Courtyard Miami Coconut Grove,Miami,744.0,7.7,3,213.0,9.0,8.3,8.2,8.3,7.4,8.0,8.008088235294116,6.0,0.95,8.0,7.0,2,False
+Extended Stay America Premier Suites - Miami - Coral Gables,Miami,506.0,7.4,2,174.0,9.0,7.7,7.7,7.8,7.2,7.4,7.5,4.3,1.9,6.0,6.0,2,True
+Cambria  Miami Airport - Blue Lagoon,Miami,443.0,7.2,4,954.0,8.1,7.7,7.9,7.8,7.3,7.6,7.5,6.0,3.6,2.8,7.0,5,False
+Miami Marriott Dadeland,Miami,584.0,7.6,4,431.0,8.7,8.2,8.2,8.1,7.2,7.9,8.008088235294116,8.0,0.1,13.0,7.0,2,False
+"The Ritz Carlton Key Biscayne, Miami",Miami,2573.0,8.4,5,164.0,9.2,9.0,8.9,8.8,7.4,8.7,8.008088235294116,9.0,8.0,11.0,7.0,9,False
+Courtyard Miami Dadeland,Miami,553.0,8.1,3,433.0,8.7,8.6,8.8,8.5,7.9,8.2,9.3,8.0,0.15,13.0,6.0,2,False
+YOTELPAD Miami,Miami,969.0,7.4,4,31.0,8.8,8.5,7.7,8.6,7.7,8.6,8.008088235294116,1.8,0.1,1.5,9.0,2,True
+Days Inn by Wyndham Miami Airport North,Miami,318.0,4.2,2,4333.0,6.8,5.0,6.4,5.1,5.1,4.8,4.9,7.0,1.5,1.9,4.0,3,False
+Days Inn by Wyndham Miami International Airport,Miami,327.0,6.1,3,3026.0,7.2,6.7,6.7,6.8,6.3,6.4,7.1,7.0,4.0,3.1,6.0,3,False
+Ramada by Wyndham Miami Springs/Miami International Airport,Miami,306.0,7.3,3,2901.0,8.3,7.7,8.0,7.7,7.5,7.4,6.9,7.0,1.5,1.7,5.0,2,False
+SpringHill Suites Miami Airport South,Miami,615.0,7.3,3,1838.0,8.1,7.8,7.5,7.9,7.5,7.5,7.8,6.0,3.5,2.8,9.0,2,True
+JW Marriott Marquis Miami,Miami,1779.0,7.6,5,246.0,8.7,8.5,7.8,8.4,7.0,7.9,8.008088235294116,2.1,0.2,1.9,7.0,4,False
+Miami Airport Marriott,Miami,553.0,7.6,4,621.0,8.7,8.1,8.1,8.3,7.4,8.0,7.0,7.0,1.5,2.9,7.0,2,False
+Regency Miami Airport by Sonesta,Miami,436.0,6.6,3,2960.0,7.9,7.1,7.6,7.1,6.8,6.8,7.4,7.0,1.5,2.9,6.0,2,True
+Hampton Inn Miami-Airport West,Miami,797.0,7.9,3,1084.0,8.4,8.2,8.5,8.1,7.6,7.9,8.5,8.0,4.1,4.0,6.0,2,False
+Extended Stay America Premier Suites - Miami - Downtown Brickell - Cruise Port,Miami,555.0,7.1,2,177.0,8.3,7.6,7.5,7.6,7.2,7.1,7.1,2.3,0.4,3.3,6.0,1,True
+Extended Stay America Premier Suites - Miami - Airport - Doral - 87th Avenue South,Miami,473.0,7.2,2,238.0,8.4,7.7,7.9,7.6,7.0,7.5,7.4,10.0,6.0,4.9,6.0,1,True
+Travelodge by Wyndham Miami Biscayne Bay,Miami,239.0,5.9,3,494.0,7.2,6.4,7.4,6.6,6.3,6.1,7.0,4.8,3.5,4.7,3.0,2,False
+Embassy Suites by Hilton Miami International Airport,Miami,552.0,6.5,4,1818.0,7.6,7.2,7.4,7.1,6.7,7.0,8.008088235294116,7.0,1.1,3.0,6.0,4,False
+Sleep Inn Miami Airport,Miami,327.0,6.8,2,6292.0,8.0,7.3,7.5,7.3,7.0,6.8,7.7,7.0,1.7,1.5,4.0,2,False
+"The Ritz-Carlton Coconut Grove, Miami",Miami,1645.0,8.2,5,41.0,8.9,9.0,9.0,9.0,7.7,8.4,8.008088235294116,7.0,1.2,9.0,7.0,2,False
+" Beaux Arts, Autograph Collection",Miami,1491.0,7.7,5,47.0,8.4,8.2,7.8,8.3,7.2,7.7,8.008088235294116,2.1,0.2,1.8,7.0,4,False
+Four Points by Sheraton Miami Airport,Miami,553.0,7.9,3,956.0,8.1,8.3,8.2,8.4,7.8,8.1,8.2,8.0,3.9,3.3,6.0,2,False
+Baymont by Wyndham Miami Doral,Miami,420.0,5.8,3,3590.0,7.9,6.1,6.6,6.2,6.0,6.0,7.6,6.0,6.0,8.0,4.0,2,False
+" Colonnade Coral Gables, Autograph Collection",Miami,794.0,8.7,4,186.0,9.5,9.1,8.8,9.0,8.3,8.7,7.5,4.9,2.1,6.0,6.0,2,True
+Courtyard Miami Coral Gables,Miami,602.0,7.8,3,477.0,8.8,8.2,8.6,8.3,7.7,8.0,8.008088235294116,5.0,2.6,5.0,7.0,2,False
+ASOT HOTEL MIAMI,Miami,598.0,6.6,3,77.0,6.9,7.5,7.9,7.4,6.7,6.9,6.7,2.8,0.55,2.4,9.0,2,True
+La Quinta by Wyndham Miami Airport West,Miami,486.0,7.0,3,564.0,8.0,7.3,7.6,7.3,7.1,7.0,6.6,6.0,5.0,5.0,9.0,2,True
+Quality Inn Miami Airport - Doral,Miami,508.0,6.4,3,3305.0,7.6,6.7,7.5,6.7,6.5,6.7,7.7,8.0,3.7,3.9,5.0,2,False
+SLS LUX Brickell,Miami,1500.0,8.5,4,395.0,9.6,9.0,8.7,9.2,8.1,8.8,8.9,1.7,0.15,2.6,6.0,2,False
+Extended Stay America Suites - Miami - Airport - Blue Lagoon,Miami,408.0,6.8,2,283.0,8.0,7.1,7.6,7.2,6.6,7.0,7.0,6.0,3.3,2.6,6.0,1,True
+Clarion Inn & Suites Miami International Airport,Miami,304.0,6.4,2,7047.0,7.8,6.9,7.3,7.0,6.8,6.5,7.3,7.0,1.6,1.5,4.0,2,False
+Homewood Suites Miami Airport/Blue Lagoon,Miami,552.0,6.9,3,841.0,8.3,7.2,7.8,7.4,7.0,7.0,7.9,6.0,1.7,1.7,10.0,2,True
+Selina Gold Dust,Miami,293.0,7.0,3,798.0,7.5,7.6,8.0,7.5,7.2,7.4,8.4,7.0,5.0,7.0,2.0,2,True
+Fairfield Inn & Suites by Marriott Miami Airport West/Doral,Miami,615.0,8.3,3,679.0,8.7,8.6,8.4,8.7,8.1,8.6,8.5,8.0,3.7,4.4,6.0,3,False
+W Miami,Miami,1604.0,7.0,5,152.0,8.8,7.7,7.6,7.8,6.6,7.5,8.008088235294116,2.3,0.25,2.1,7.0,2,True
+Residence Inn by Marriott Miami Airport West/Doral,Miami,692.0,8.6,3,381.0,8.5,8.8,8.7,8.9,8.4,8.8,9.0,7.0,4.6,6.0,7.0,3,True
+Courtyard Miami Airport West/Doral,Miami,507.0,7.4,3,401.0,8.0,7.9,8.0,7.9,7.3,7.7,8.9,8.0,3.8,4.0,7.0,1,False
+Coral Reef at Key Biscayne,Miami,584.0,6.5,3,564.0,8.6,6.8,7.3,7.0,6.5,6.4,6.9,9.0,8.0,10.0,5.0,2,False
+Residence Inn by Marriott Miami Airport,Miami,684.0,8.2,3,142.0,8.8,8.7,8.4,8.8,7.9,8.4,7.5,7.0,1.5,2.9,7.0,1,True
+Rodeway Inn South Miami - Coral Gables South Miami,Miami,309.0,4.8,3,2037.0,6.9,5.6,6.6,5.6,5.5,5.2,5.6,6.0,0.15,10.0,4.0,3,False
+AC  by Marriott Miami Airport West/Doral,Miami,829.0,8.3,4,549.0,8.8,8.8,8.5,8.7,8.2,8.6,8.8,8.0,3.7,4.4,6.0,1,False
+TownePlace Suites Miami West Doral Area,Miami,461.0,6.4,3,443.0,8.0,6.6,7.5,6.8,6.8,6.5,7.3,6.0,6.0,8.0,7.0,2,True
+Extended Stay America Suites - Miami - Airport - Doral,Miami,441.0,6.7,2,318.0,8.1,7.0,7.7,7.2,6.6,6.9,7.8,7.0,4.5,5.0,6.0,2,True
+Miami Gardens Inn & Suites,Miami,216.0,4.5,2,861.0,5.9,5.2,6.3,5.3,5.2,5.0,6.6,13.0,0.85,6.0,5.0,3,False
